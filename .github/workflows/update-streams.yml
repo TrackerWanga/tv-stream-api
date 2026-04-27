@@ -6,76 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  crawl-and-sync:
+  sync-streams:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout IPTV-API
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          repository: Guovin/iptv-api
-          path: iptv-api
 
-      - name: Setup Python 3.13
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.11'
 
-      - name: Install IPTV-API dependencies
-        run: |
-          cd iptv-api
-          pip install pipenv
-          pipenv install --python 3.13 --deploy
-
-      - name: Create default config
-        run: |
-          cd iptv-api
-          mkdir -p config
-          cat > config/config.ini << 'CONF'
-          [common]
-          open_rtmp = False
-          sort_by = speed
-          
-          [filter]
-          resolution_min = 480
-          speed_min = 0.5
-          
-          [output]
-          format = m3u
-          output_dir = output
-          CONF
-
-      - name: Download public IPTV sources
-        run: |
-          cd iptv-api/config
-          cat > subscribe.txt << 'SRCS'
-          https://raw.githubusercontent.com/iptv-org/iptv/master/m3u/iptv.m3u
-          SRCS
-          echo "Added public IPTV source"
-
-      - name: Run IPTV-API crawl
-        run: |
-          cd iptv-api
-          pipenv run dev || echo "Crawl completed with warnings (normal)"
-
-      - name: Check output
-        run: |
-          echo "Checking output..."
-          ls -la iptv-api/output/ || echo "No output directory"
-          find iptv-api/output -name "*.m3u" -o -name "*.txt" 2>/dev/null || echo "No M3U files found"
-
-      - name: Checkout TV-API repo
-        uses: actions/checkout@v4
-        with:
-          path: tv-api
-
-      - name: Install sync dependencies
+      - name: Install dependencies
         run: pip install requests
 
-      - name: Sync streams to KV
+      - name: Download and sync public IPTV streams
         env:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID }}
         run: |
-          python3 tv-api/sync/sync_streams.py \
-            --m3u iptv-api/output/result.m3u || echo "No M3U to sync yet"
+          python3 sync/sync_public_streams.py
