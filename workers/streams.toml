@@ -1,0 +1,7 @@
+name = "tv-api-streams"
+main = "streams.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"

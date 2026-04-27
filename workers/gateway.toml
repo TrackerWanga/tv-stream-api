@@ -1,0 +1,19 @@
+name = "tv-api-gateway"
+main = "gateway.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"
+
+[[services]]
+binding = "CHANNELS"
+service = "tv-api-channels"
+
+[[services]]
+binding = "STREAMS"
+service = "tv-api-streams"
+
+[[services]]
+binding = "SCHEDULE"
+service = "tv-api-schedule"

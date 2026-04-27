@@ -1,0 +1,47 @@
+# Main Gateway Worker
+name = "tv-api-gateway"
+main = "gateway.js"
+compatibility_date = "2024-01-01"
+
+[[services]]
+binding = "CHANNELS"
+service = "tv-api-channels"
+
+[[services]]
+binding = "STREAMS"
+service = "tv-api-streams"
+
+[[services]]
+binding = "SCHEDULE"
+service = "tv-api-schedule"
+
+[[kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"
+
+# --- Channels Worker ---
+[env.channels]
+name = "tv-api-channels"
+main = "channels.js"
+
+[[env.channels.kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"
+
+# --- Streams Worker ---
+[env.streams]
+name = "tv-api-streams"
+main = "streams.js"
+
+[[env.streams.kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"
+
+# --- Schedule Worker ---
+[env.schedule]
+name = "tv-api-schedule"
+main = "schedule.js"
+
+[[env.schedule.kv_namespaces]]
+binding = "TV_KV"
+id = "4949bb0400e04dd6844c25af4e586aa9"

@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.env
+*.log
+iptv-api/output/*
+iptv-api/config/user_config.ini
+node_modules/
