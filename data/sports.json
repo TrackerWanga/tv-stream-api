@@ -1,0 +1,198 @@
+{
+  "updated": "2026-05-03T13:59:10.445709+00:00",
+  "live": [
+    {
+      "id": "5056651713232487888",
+      "league": "Serie A",
+      "team1": "Bologna",
+      "team2": "Cagliari",
+      "score1": "0",
+      "score2": "0",
+      "status": "MatchEnded",
+      "timeDesc": "FT",
+      "startTime": 1777804200000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_006/playlist.m3u8?sign=b84094cb41b6d9547f0c88f64c892a8d&t=1777815899",
+      "type": "football"
+    },
+    {
+      "id": "193890719953307528",
+      "league": "LaLiga",
+      "team1": "Celta Vigo",
+      "team2": "Elche",
+      "score1": "3",
+      "score2": "1",
+      "status": "MatchIng",
+      "timeDesc": "85'",
+      "startTime": 1777809600000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_016/playlist.m3u8?sign=0bb7c66dec63bc58aa22d642543a3b7e&t=1777815907",
+      "type": "football"
+    },
+    {
+      "id": "515379965636101216",
+      "league": "Premier League",
+      "team1": "Bournemouth",
+      "team2": "Crystal Palace",
+      "score1": "2",
+      "score2": "0",
+      "status": "MatchIng",
+      "timeDesc": "45'",
+      "startTime": 1777813200000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_005/playlist.m3u8?sign=758b0032e11a7935bb09e6878fde2d26&t=1777815917",
+      "type": "football"
+    },
+    {
+      "id": "6781530370515387856",
+      "league": "Serie A",
+      "team1": "Sassuolo",
+      "team2": "AC Milan",
+      "score1": "1",
+      "score2": "0",
+      "status": "MatchIng",
+      "timeDesc": "43'",
+      "startTime": 1777813200000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_010/playlist.m3u8?sign=1e4fd627e385c7d45b09b21720b41367&t=1777815909",
+      "type": "football"
+    },
+    {
+      "id": "7624544300811319768",
+      "league": "Ligue 1",
+      "team1": "Lille",
+      "team2": "Le Havre",
+      "score1": "1",
+      "score2": "1",
+      "status": "MatchIng",
+      "timeDesc": "45'",
+      "startTime": 1777813200000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_014/playlist.m3u8?sign=8e4d1eadc0719c17ca4ea1c888715466&t=1777815910",
+      "type": "football"
+    },
+    {
+      "id": "806744826099169752",
+      "league": "Bundesliga",
+      "team1": "St. Pauli",
+      "team2": "Mainz 05",
+      "score1": "0",
+      "score2": "1",
+      "status": "MatchIng",
+      "timeDesc": "14'",
+      "startTime": 1777815000000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/bsy_007/playlist.m3u8?sign=327cd54e02fda3b6e08171760ac4ebfe&t=1777815910",
+      "type": "football"
+    },
+    {
+      "id": "3571778081159793352",
+      "league": "Indian Premier League",
+      "team1": "Gujarat Titans",
+      "team2": "Punjab Kings",
+      "score1": "0",
+      "score2": "0",
+      "status": "MatchNotStart",
+      "timeDesc": "",
+      "startTime": 1777816800000,
+      "streamUrl": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8?sign=904ec5313ac7d9dd462211ca70369510&t=1777815914",
+      "type": "cricket"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "3571778081159793352",
+      "league": "Indian Premier League",
+      "team1": "Gujarat Titans",
+      "team2": "Punjab Kings",
+      "startTime": 1777816800000
+    },
+    {
+      "id": "7633837304369891208",
+      "league": "LaLiga",
+      "team1": "Getafe",
+      "team2": "Rayo Vallecano",
+      "startTime": 1777817700000
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Full Match Highlights",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/21cbcb627fc8620abf5c606f174cf002.mp4?Expires=1779025545&Signature=0XP6-FpeLpiHadt37XrJV6imy7CRdYthpsoXkExhcTZBpWDXkiLSk8AmPDN8eBDU~CxGgcn-c2Oc5lI~Bp5GqhhxuUEjHYDFhx-ixHSHFX1GNCfYnd1rcQCaSTEMDcRyJKkqdEnzW7im2Bo5~X0GZtxoe~ikkY5x-WFQ9t~OwHQrNXNqOehieIGVARK8-IZ2~EK1Q0BWCsowDpiVL7xzSmSHO-dqfmYPOV9DovQsReloxLSKCnQJ0cXtENTeOmjiyps6h0KEtApWljdcy5qnB3LIb00280vueOv2hYV8XXtqcNyeE7I9OmxzNNC9qB9XKJfh5OHJMeFtvZzhFjj1YQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/c40a302a58a3894e0d19f5880b4ccb18.jpg",
+      "duration": "203",
+      "views": "54519"
+    },
+    {
+      "title": "[Highlights] Sudden acceleration! Esposito's edge-of-the-box curler drifts just wide of the post",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/1223484302238d235ed3896a2b0e99a2.mp4?Expires=1779025494&Signature=Jf0Rtn2J0T98UEGmetFKjQ235zcq2OvJgwGMLbU54gXiN~6vGtp8edrBi9CojwIgoJKl8h541PIUENgU~ZWJqKwMRHnDG-gQq~fvQOUTSbp-s~LPfGOFbRMCSd30Tc4lZIgWK0Yc6aiZAzXL0DQDl7ic1ttgVOFugO~msTqgIoLZ2glnwYrV7AFLNB-K1tcFPjqljZzdHmEYq1wRo~1umD9CiT0Urz0ZP1be4ZgugS4E0wCJGWWmfXCO2ZkiHa08Kj-sajrcz1HC1qNSywGN9gpBNcO6in4CLYGXPPTmViP34djrpGpeTaWfShaOv1w0X9IOF0-1BW6WTcmi0TOEEg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/5ee27c904bf36ee98828e66032b5eb38.jpg",
+      "duration": "49",
+      "views": "31081"
+    },
+    {
+      "title": "[Goal] Non-stop attacks! Pio Esposito scores from rebound, celebrates with muscle flex",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/43b7d99f55fd21218f11ebd97b985cbf.mp4?Expires=1779025540&Signature=eZkujqyOAkkxPHQbx7QUEP-p8hmIUi2w679no29~ZUgNWFlTu8XhtmfYE~MuCxhh6zurw3ANTP9AqKzj0kuIHZmuel~AHl3pPpmjbwqm0s8oYuHXrUjzZmh9xxeRohHD-Ik5p5iM9MbHOBfx7emEfLjwZdt2JDsP1UaAf-s6n4aO2b6yR8swWWjXadHQHV788GrzfqXAbSstu3~rFdCwFSU8sJwISMVPxbxvqS~J-SqhJlJKUkuraLuGQiSh9bXf-rJMXEXNCjSWw8UarPGvpjRKd76i9UGXenkxT9H4DarKl-udRWEvwXiYh~d5hen4PMasGNjm6MkP~W7GxHAQ5A__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/2bc2b3aa27dc9430c11a2b0f451d75f6.jpg",
+      "duration": "64",
+      "views": "216"
+    },
+    {
+      "title": "[Highlights] Struggling to break down the packed defense! Thuram cuts inside in a scramble and has his shot blocked",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/5af1bdb533e137395ae6e370578439e1.mp4?Expires=1779025495&Signature=rvmEnk9g5YZ0OfS0ZtgHXGs29rTiUpFD0i-Aeq-HLrh1AjF1gxrVfoytEw97LfPN-jPpjBSn2aJ~W5Is0f8ymdn8DumM2hTx-Kbwe-n3GhVCSiga1h5t3LBkM1mBtUEMj9MS~YnyY8axpCUw~7AtbTY5D7X06BGhrv~4TF6y0zPQA1ZpeN91aorigERMgpjTMIRB8joOjaJQHlRvkSkgRaY1HBb-6U8IAsNlQxfprTPUmK2zD5jaNbBgZZYe6mjRqQsjvKcCz8W4bhnYuM71fnLsH77Hso8jioUYjspryYqrwG9uHRH-lDrK57oyHv5BT0RkPC-n2Otg21v3V4BTFQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/0a0040e201fe8db5bf046b8a26e9c203.jpg",
+      "duration": "17",
+      "views": "251"
+    },
+    {
+      "title": "[Highlights] Off form! Mkhitaryan's free kick hits the wall, follow-up shot miscued",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/e82b729672646c7b158b50e65cddcf36.mp4?Expires=1779025544&Signature=0zAmaE9ILXDF4bCB4t4JHDWHqdQeXJRHTvOgabevM0hqc6M~GWLJ6dfNzkaYavhctRifYdhK00qQ7yA3Xv-yjhuKcB~Z8Jf7C4br6tqcZ7s3QL08FZWj1qq5So1TywnG3f8WRlTMumIPVDFIOPuaYF0sH~86PS1bSvtNczZYT5forjNQzt8yhNckd-5gzWrHDYxP4mAJd7EtYm8irlUob50Ey2mUa4GvE6xkjA-7Zx~7X7uLmYzh1lJ848VyaSLSrmu~mvMyqvBzqELe4Ocyco4-OMTbc8XfZMtpMoHRwe7dVm2FzNMAcrwmh7LVFjBBhYyBRrgNntZ2ENEaEk2t3Q__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/5f2d1eb7eb2563a68321b95b68693c53.jpg",
+      "duration": "24",
+      "views": "107"
+    },
+    {
+      "title": "Extended Highlight",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/8ae1150dfcdf97ffc3eafd200011c778.mp4?Expires=1779025499&Signature=MOuUIOlpHH9o8iN9BE1tULSIFEI0VWtz3Ipm6~6aZ-clNiIgiIUkRcO4NdRyIVItIeWCcD6gBPEnHhiKlM8VUR~aPpgti9ldCUF4QDVs-XKnsdYnbKW6vCdB3HkKgaDcmF5bhpXexDGjD8z0c30zLdPde58m0kX1YmERPtHmJsL-HjlIHvwQuHvect4Ykx~KLX7D02ajfZj4VdAGJl~we3jZlTQTsU~dZhDkdZbtgzma041L4CLLyBrMm3RCGd2j5J9ivQWYWbqoZAt~uqzJX-OtrY6QMDN01do0uOvZJDOjm1ho5DSPBX8VGr2JGxZXhgAf0yfxLhP6f1~XxQbNNQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/9e4e9b6da797a986d51a51956d7637a6.jpg",
+      "duration": "18",
+      "views": "80"
+    },
+    {
+      "title": "[Highlights] The best chance! Siebert surges forward, his deflected shot is superbly saved by Sommer",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/b9a7a5eeff5bc0b7d5e6aff87ae7dc69.mp4?Expires=1779025494&Signature=v9HU2OaZV7DoikYwFDFnwHzFQJjRD3u0~s6ByZtm8uq7FXzbl1eKw8A6xapjthhrQQ80Pay8PLvtEXO0~de2KJEvdFafxMtikmjvquMj5iqlDEclYQcOt~P5DpTQdiwNNak9d1KiSEiC5bxc1s6KcGdVUMe7dtLy7XLpR-HEZVzmo7mnnmMD6iDAhagK5bG9rNlyh8qVPnJtLjCQwjG1w7KgBLD9~yDebnGmDSxIohEcJyCmYFI~VCdVum5k8R5bpUZjZs~NRzC6QKzpGrc1yWDrMvX~4CsTfcJaIFZ0ta6KQK5SWtRCdfEGlIMD1D~xNVeYdEJ-Mjm7vwCSPOGFFA__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/dda63969a9366cffefa24a13dbf1ee45.jpg",
+      "duration": "56",
+      "views": "0"
+    },
+    {
+      "title": "[Highlights] Unexpected! Enrique's outside-of-the-foot cross nearly leads to a goal",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/86cc0cb898565d2a2e0bcf119ea0a825.mp4?Expires=1779025537&Signature=BDaslbR8uEwjMC25NSCs4Qg88YntMBc~S64BuA3q3-Cv7O~i7nEe45ziJWmfp3-jVdNmJ9fqg63xBUqbT3rtP0Ib4XqBFvOiLXAZkVziEJGCOuSJ247TfNHiSHRz5yeJuFx~Rlucio8ZX~iO607EwYAszsBl-jg6tQxlMPWc19rR9ayRXCTrAJ5P77hibtEw0gZWm7GMIwSbp3Q5PmZBXhR44YKDXvpz~HJzJodG6CT2vDvvnSF0bX9-v1DKvGxJOrzry~5JAhhzfQp4GIOnK8Y8Xg~SDvo2ITLsRl-2nXLJYoQTdg0SJh4FV89-oR6pee-QPO6e9ahlJPisEE~fjw__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/4151c12e73dd0381b30d86772cf044cf.jpg",
+      "duration": "33",
+      "views": "0"
+    },
+    {
+      "title": "[Highlights] Marcus Thuram cuts inside and falls in the box, referee deems it a dive and shows a yellow card",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/27e926246aa30a32d3e404680a76afe0.mp4?Expires=1779025540&Signature=rnhPy1B4uc68Hv4fzdTb3h1d5j8ghOXwYY95kSvsOSGFwbkz7fSNMMYrEgQGyqX7hRhIbajQXlDX7hWsuhH43SkpN1F1FSiolLoypC~mGDeLjtyHklenUuU2Tn9I-xbKJaeJ9fpcvDlmwuO-5dUjP3dgmaocWmHNwl0GNPG2wsRKsM3xIxpiH632uyyXjMsjY0gPIGZsocZ96ZqeCJovP~E~A0TwGLhJ2DPkyxWTaRgoC8QsAz0f61Iprhar4AVMb1y-M0M23BjpiHB96TmCryyVZ74wip3h92ZkclSBM7xa~9kz-qw1HvCxVPVLZtiM-gjjkdDztZ7t3bGrdbm0SQ__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/7ba61feaad73ab2dd9092c93e0129783.jpg",
+      "duration": "50",
+      "views": "0"
+    },
+    {
+      "title": "[Highlights] Falcone's precise long pass from the back, Sottil's volley just wide",
+      "url": "https://lacdn.aoneroom.com/highlight/2026/01/15/e333179e9f07c979401f3068d56d5f19.mp4?Expires=1779025540&Signature=1b6wiZ1w2GcWo1nuNNjHtJy9HmX6gvqIvhIMjrx2lPhHWCGDQiBn57x~KjbL8R1f9kCSywt5otaiuh5CEvcYrW97Ob8unvCHqNg2LkRbsxWsjnQFHjVUnlxc3SQlBxdlLJaJVaTX39tVcgPNI9oqEYmhb8JErI~fpDrdnbi9g3BotslqzMrsyl071k2ZlR8ghAPF0-U4YvhlDECkGwOrPuqMp5zyi-wgk37oDuAAoq7PtLOzXBb7ZSCzXB6nV5htXkClB4vxx7YNy3HUEaUY7-kpKiMQbyaNyTCHbI-DtuvfCrZFCHezcNFo0KObLULcJfRnkh21vjcD~slGX5C8Wg__&Key-Pair-Id=KMHN1LQ1HEUPL",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/01/15/a277905726548b070327e02ef1419fa8.jpg",
+      "duration": "31",
+      "views": "0"
+    }
+  ],
+  "news": [
+    {
+      "title": "'Better fit' - Fabio Capello tips \u00a337m Man Utd star for summer transfer exit",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/05/01/b65ac2e53c42d64abd0f576cfabd4751.jpg"
+    },
+    {
+      "title": "Man Utd can sign one of world's most prolific strikers \u2013\u00a0and it won't cost them a penny",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/05/01/3249ae9a905d195d9448675e49f8fb86.jpg"
+    },
+    {
+      "title": "'I snubbed Chelsea to stay loyal to club - their next move destroyed me'",
+      "cover": "https://pbcdn.aoneroom.com/image/2026/05/02/96c71eafc337a64b8e08578e124fcfce.jpg"
+    }
+  ]
+}
