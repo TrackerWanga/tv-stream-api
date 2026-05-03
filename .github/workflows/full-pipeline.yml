@@ -2,7 +2,7 @@ name: Full Stream Pipeline
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Every 3 hours
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       
       - uses: actions/setup-python@v5
         with:
@@ -38,14 +39,14 @@ jobs:
       - name: Step 3 - YouTube live finder
         run: node pipeline/youtube_finder.js
       
-      - name: Step 4 - Merge & organize
+      - name: Step 4 - Merge & organize (IPTV priority)
         run: python3 pipeline/merge_streams.py
       
-      - name: Commit results
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw_streams.json data/streams_live.json data/youtube_streams.json
-          git add data/api_streams.json data/api_by_category.json data/api_by_country.json data/api_top100.json data/top_streams.json
+          git pull origin main --rebase || true
+          git add data/
           git diff --staged --quiet || git commit -m "Update streams [skip ci]"
-          git push
+          git push origin main || git push --force origin main
