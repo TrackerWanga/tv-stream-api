@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-05T02:43:29.656Z",
-  "total": 200,
+  "updated": "2026-05-05T05:53:06.407Z",
+  "total": 199,
   "streams": {
     "10.au": {
       "id": "10.au",
       "name": "10",
-      "url": "https://youtube.com/watch?v=kklmGRbYKcY",
+      "url": "https://youtube.com/watch?v=kQXggaqbAUQ",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/10.au.png",
       "group": "news",
       "source": "youtube",
@@ -58,7 +58,7 @@
     "10Channel.gr": {
       "id": "10Channel.gr",
       "name": "10 Channel",
-      "url": "https://youtube.com/watch?v=lvMEvsDwsm4",
+      "url": "https://youtube.com/watch?v=BhpbtJcNfLA",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/10channel.gr.png",
       "group": "entertainment",
       "source": "youtube",
@@ -110,7 +110,7 @@
     "13E.cl": {
       "id": "13E.cl",
       "name": "13E",
-      "url": "https://youtube.com/watch?v=kQXggaqbAUQ",
+      "url": "https://youtube.com/watch?v=O3P4nn2k4w4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/13e.cl.png",
       "group": "entertainment",
       "source": "youtube",
@@ -136,7 +136,7 @@
     "13Festival.cl": {
       "id": "13Festival.cl",
       "name": "13 Festival",
-      "url": "https://youtube.com/watch?v=SBPXSSeMwXQ",
+      "url": "https://youtube.com/watch?v=WVEOgi9dxow",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/13festival.cl.png",
       "group": "music",
       "source": "youtube",
@@ -149,7 +149,7 @@
     "13Pop.cl": {
       "id": "13Pop.cl",
       "name": "13 Pop",
-      "url": "https://youtube.com/watch?v=COhBtTo-nOk",
+      "url": "https://youtube.com/watch?v=KluNOvWjkWY",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/13pop.cl.png",
       "group": "entertainment",
       "source": "youtube",
@@ -175,7 +175,7 @@
     "13SiamThai.th": {
       "id": "13SiamThai.th",
       "name": "13 Siam Thai",
-      "url": "https://youtube.com/watch?v=AfWpG6FtYb0",
+      "url": "https://youtube.com/watch?v=qLgZWH93k4U",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/13siamthai.th.png",
       "group": "news",
       "source": "youtube",
@@ -214,7 +214,7 @@
     "13thStreetUniversal.de": {
       "id": "13thStreetUniversal.de",
       "name": "13th Street Universal",
-      "url": "https://youtube.com/watch?v=0ts7XiOlUqQ",
+      "url": "https://youtube.com/watch?v=dqM4-82nIkk",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/13thstreetuniversal.de.png",
       "group": "entertainment",
       "source": "youtube",
@@ -305,7 +305,7 @@
     "192TV.nl": {
       "id": "192TV.nl",
       "name": "192TV",
-      "url": "https://youtube.com/watch?v=Mak3w3J0VDU",
+      "url": "https://youtube.com/watch?v=eIX4yRFD644",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/192tv.nl.png",
       "group": "music",
       "source": "youtube",
@@ -331,7 +331,7 @@
     "1HDMusicTelevision.ru": {
       "id": "1HDMusicTelevision.ru",
       "name": "1HD Music Television",
-      "url": "https://youtube.com/watch?v=apI9tyYA_eo",
+      "url": "https://youtube.com/watch?v=QptbHzhUGO8",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/1hdmusictelevision.ru.png",
       "group": "music",
       "source": "youtube",
@@ -385,7 +385,7 @@
     "1NOMO.vu": {
       "id": "1NOMO.vu",
       "name": "1NOMO",
-      "url": "https://youtube.com/watch?v=uNgCvLtbVR0",
+      "url": "https://youtube.com/watch?v=Ig8ELvVHvtQ",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/1nomo.vu.png",
       "group": "entertainment",
       "source": "youtube",
@@ -398,7 +398,7 @@
     "1Sports.in": {
       "id": "1Sports.in",
       "name": "1 Sports",
-      "url": "https://youtube.com/watch?v=92ctYFpGAkY",
+      "url": "https://youtube.com/watch?v=hy9XRLIb9Ag",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/1sports.in.png",
       "group": "sports",
       "source": "youtube",
@@ -476,7 +476,7 @@
     "21Popullore.xk": {
       "id": "21Popullore.xk",
       "name": "21 Popullore",
-      "url": "https://youtube.com/watch?v=PVwT6DM8gqU",
+      "url": "https://youtube.com/watch?v=BM0QSdSvHuo",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/21popullore.xk.png",
       "group": "music",
       "source": "youtube",
@@ -499,23 +499,10 @@
         "news"
       ]
     },
-    "247.ec": {
-      "id": "247.ec",
-      "name": "24/7",
-      "url": "https://youtube.com/watch?v=CdgqdwezksQ",
-      "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/247.ec.png",
-      "group": "news",
-      "source": "youtube",
-      "status": "live",
-      "country": "EC",
-      "categories": [
-        "news"
-      ]
-    },
     "247BoxTV.ir": {
       "id": "247BoxTV.ir",
       "name": "247 Box TV",
-      "url": "https://youtube.com/watch?v=QG5IUjmvs5Y",
+      "url": "https://youtube.com/watch?v=G9J9QcrDlC0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/247boxtv.ir.png",
       "group": "entertainment",
       "source": "youtube",
@@ -528,7 +515,7 @@
     "247CanaldeNoticias.ar": {
       "id": "247CanaldeNoticias.ar",
       "name": "24/7 Canal de Noticias",
-      "url": "https://youtube.com/watch?v=kS8F-GKSRk0",
+      "url": "https://youtube.com/watch?v=nDgI9sPoGm0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/247canaldenoticias.ar.png",
       "group": "news",
       "source": "youtube",
@@ -567,7 +554,7 @@
     "24Horas.cl": {
       "id": "24Horas.cl",
       "name": "24 Horas",
-      "url": "https://youtube.com/watch?v=dv1AJhWXos8",
+      "url": "https://youtube.com/watch?v=xmGaAjeqaBQ",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/24horas.cl.png",
       "group": "news",
       "source": "youtube",
@@ -594,7 +581,7 @@
     "24HorasCanarias.es": {
       "id": "24HorasCanarias.es",
       "name": "24 Horas Canarias",
-      "url": "https://youtube.com/watch?v=n9_JuC4AVYY",
+      "url": "https://youtube.com/watch?v=T6eOXYvamPU",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/24horascanarias.es.png",
       "group": "news",
       "source": "youtube",
@@ -648,7 +635,7 @@
     "24News.in": {
       "id": "24News.in",
       "name": "24 News",
-      "url": "https://youtube.com/watch?v=YOPKTqxGOcM",
+      "url": "https://youtube.com/watch?v=SqhlDz2dl-s",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/24news.in.png",
       "group": "news",
       "source": "youtube",
@@ -700,7 +687,7 @@
     "2ATV.sn": {
       "id": "2ATV.sn",
       "name": "2A TV",
-      "url": "https://youtube.com/watch?v=U7Am2rHFU6s",
+      "url": "https://youtube.com/watch?v=WEa6cePmG7Y",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/2atv.sn.png",
       "group": "news",
       "source": "youtube",
@@ -713,7 +700,7 @@
     "2GB.au": {
       "id": "2GB.au",
       "name": "2GB",
-      "url": "https://youtube.com/watch?v=-HNL2wAGoR8",
+      "url": "https://youtube.com/watch?v=L0os4VRda_k",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/2gb.au.png",
       "group": "news",
       "source": "youtube",
@@ -726,7 +713,7 @@
     "2TV.lt": {
       "id": "2TV.lt",
       "name": "2TV",
-      "url": "https://youtube.com/watch?v=vjyc_5pPrXE",
+      "url": "https://youtube.com/watch?v=wKrveXUJV34",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/2tv.lt.png",
       "group": "music",
       "source": "youtube",
@@ -739,7 +726,7 @@
     "2x2.ru": {
       "id": "2x2.ru",
       "name": "2x2",
-      "url": "https://youtube.com/watch?v=sF-qNq8IKhk",
+      "url": "https://youtube.com/watch?v=ucpwrg9Md_I",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/2x2.ru.png",
       "group": "entertainment",
       "source": "youtube",
@@ -766,7 +753,7 @@
     "30AGolfKingdom.us": {
       "id": "30AGolfKingdom.us",
       "name": "30A Golf Kingdom",
-      "url": "https://youtube.com/watch?v=TJBGMsHeTw4",
+      "url": "https://youtube.com/watch?v=JSTD-1mAahw",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/30agolfkingdom.us.png",
       "group": "sports",
       "source": "youtube",
@@ -806,7 +793,7 @@
     "30AMusic.us": {
       "id": "30AMusic.us",
       "name": "30A Music",
-      "url": "https://youtube.com/watch?v=WVEOgi9dxow",
+      "url": "https://youtube.com/watch?v=9oK6EnWUnIk",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/30amusic.us.png",
       "group": "music",
       "source": "youtube",
@@ -819,7 +806,7 @@
     "30ASidewalks.us": {
       "id": "30ASidewalks.us",
       "name": "30A Sidewalks",
-      "url": "https://youtube.com/watch?v=VVg_Xds8AUM",
+      "url": "https://youtube.com/watch?v=8s0o7Ve9e8w",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/30asidewalks.us.png",
       "group": "entertainment",
       "source": "youtube",
@@ -832,7 +819,7 @@
     "30ATelevisionChannel.us": {
       "id": "30ATelevisionChannel.us",
       "name": "30A Television Channel",
-      "url": "https://youtube.com/watch?v=BGFbWL7iHkw",
+      "url": "https://youtube.com/watch?v=ZeKnPDqXZEs",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/30atelevisionchannel.us.png",
       "group": "entertainment",
       "source": "youtube",
@@ -858,7 +845,7 @@
     "312Kino.kg": {
       "id": "312Kino.kg",
       "name": "312 Kino",
-      "url": "https://youtube.com/watch?v=FvPCKOokzAE",
+      "url": "https://youtube.com/watch?v=LP0b2zY1qIU",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/312kino.kg.png",
       "group": "movies",
       "source": "youtube",
@@ -897,7 +884,7 @@
     "313Digital.sn": {
       "id": "313Digital.sn",
       "name": "313 Digital",
-      "url": "https://youtube.com/watch?v=2gkQWzTjjyg",
+      "url": "https://youtube.com/watch?v=nGRSv-QpqyU",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/313digital.sn.png",
       "group": "news",
       "source": "youtube",
@@ -910,7 +897,7 @@
     "34100TV.gr": {
       "id": "34100TV.gr",
       "name": "34100 TV",
-      "url": "https://youtube.com/watch?v=NF5BC5Oy0vs",
+      "url": "https://youtube.com/watch?v=-6D0koL3LVk",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/34100tv.gr.png",
       "group": "movies",
       "source": "youtube",
@@ -923,7 +910,7 @@
     "359TV.bg": {
       "id": "359TV.bg",
       "name": "359TV",
-      "url": "https://youtube.com/watch?v=EfyW28GT9zE",
+      "url": "https://youtube.com/watch?v=farMineLMDc",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/359tv.bg.png",
       "group": "music",
       "source": "youtube",
@@ -936,7 +923,7 @@
     "360.tr": {
       "id": "360.tr",
       "name": "360",
-      "url": "https://youtube.com/watch?v=-mocJLppI3Y",
+      "url": "https://youtube.com/watch?v=UcvuyVMz_4U",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/360.tr.png",
       "group": "news",
       "source": "youtube",
@@ -949,7 +936,7 @@
     "360TuneBox.nl": {
       "id": "360TuneBox.nl",
       "name": "360TuneBox",
-      "url": "https://youtube.com/watch?v=ZgLbydoqzOc",
+      "url": "https://youtube.com/watch?v=6IJLtQgi_Mo",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/360tunebox.nl.png",
       "group": "music",
       "source": "youtube",
@@ -962,7 +949,7 @@
     "365BLK.us": {
       "id": "365BLK.us",
       "name": "365BLK",
-      "url": "https://youtube.com/watch?v=SKk3BytwSqw",
+      "url": "https://youtube.com/watch?v=v7w6yNq3HAo",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/365blk.us.png",
       "group": "entertainment",
       "source": "youtube",
@@ -989,7 +976,7 @@
     "3AW.au": {
       "id": "3AW.au",
       "name": "3AW",
-      "url": "https://youtube.com/watch?v=O_BUpNoWVxs",
+      "url": "https://youtube.com/watch?v=ZvocRoNseIY",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3aw.au.png",
       "group": "news",
       "source": "youtube",
@@ -1016,7 +1003,7 @@
     "3CatExclusiu2.es": {
       "id": "3CatExclusiu2.es",
       "name": "3Cat Exclusiu 2",
-      "url": "https://youtube.com/watch?v=Hm9QYo17Oww",
+      "url": "https://youtube.com/watch?v=P4ITAwTD2Pk",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3catexclusiu2.es.png",
       "group": "news",
       "source": "youtube",
@@ -1030,7 +1017,7 @@
     "3CatExclusiu3.es": {
       "id": "3CatExclusiu3.es",
       "name": "3Cat Exclusiu 3",
-      "url": "https://youtube.com/watch?v=P4ITAwTD2Pk",
+      "url": "https://youtube.com/watch?v=Hm9QYo17Oww",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3catexclusiu3.es.png",
       "group": "news",
       "source": "youtube",
@@ -1044,7 +1031,7 @@
     "3CatInfo.es": {
       "id": "3CatInfo.es",
       "name": "3CatInfo",
-      "url": "https://youtube.com/watch?v=qN49LuWom-4",
+      "url": "https://youtube.com/watch?v=xZadelYILXs",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3catinfo.es.png",
       "group": "news",
       "source": "youtube",
@@ -1071,7 +1058,7 @@
     "3MusicTV.gh": {
       "id": "3MusicTV.gh",
       "name": "3Music TV",
-      "url": "https://youtube.com/watch?v=c-lMC0zeHBA",
+      "url": "https://youtube.com/watch?v=XibTWeYmhgo",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3musictv.gh.png",
       "group": "music",
       "source": "youtube",
@@ -1097,7 +1084,7 @@
     "3Sport.af": {
       "id": "3Sport.af",
       "name": "3Sport",
-      "url": "https://youtube.com/watch?v=Nd5pw1kbzIU",
+      "url": "https://youtube.com/watch?v=YbjHy2LEbDw",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3sport.af.png",
       "group": "sports",
       "source": "youtube",
@@ -1110,7 +1097,7 @@
     "3TamilTV.au": {
       "id": "3TamilTV.au",
       "name": "3 Tamil TV",
-      "url": "https://youtube.com/watch?v=H0nYPzF-Jx8",
+      "url": "https://youtube.com/watch?v=E0GajWdct8o",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/3tamiltv.au.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1136,7 +1123,7 @@
     "48NewsUK.pk": {
       "id": "48NewsUK.pk",
       "name": "48 News UK",
-      "url": "https://youtube.com/watch?v=bL9aIDZHlDA",
+      "url": "https://youtube.com/watch?v=qI5mZK74N_4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/48newsuk.pk.png",
       "group": "news",
       "source": "youtube",
@@ -1162,7 +1149,7 @@
     "4DmasNoticiasTV.py": {
       "id": "4DmasNoticiasTV.py",
       "name": "4Dmas Noticias TV",
-      "url": "https://youtube.com/watch?v=3WS7l1aXRgY",
+      "url": "https://youtube.com/watch?v=wAB6keKqQ5I",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4dmasnoticiastv.py.png",
       "group": "news",
       "source": "youtube",
@@ -1188,7 +1175,7 @@
     "4everMusic.ua": {
       "id": "4everMusic.ua",
       "name": "4ever Music",
-      "url": "https://youtube.com/watch?v=w5Qx9h_7vn4",
+      "url": "https://youtube.com/watch?v=9KbkPIjUW-Y",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4evermusic.ua.png",
       "group": "music",
       "source": "youtube",
@@ -1201,7 +1188,7 @@
     "4everTheater.ua": {
       "id": "4everTheater.ua",
       "name": "4ever Theater",
-      "url": "https://youtube.com/watch?v=i61sohiLxyU",
+      "url": "https://youtube.com/watch?v=gHT91Kga23Q",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4evertheater.ua.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1240,7 +1227,7 @@
     "4Music.fr": {
       "id": "4Music.fr",
       "name": "4 Music",
-      "url": "https://youtube.com/watch?v=uWFCye7C6Qk",
+      "url": "https://youtube.com/watch?v=tg103_TjtUs",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4music.fr.png",
       "group": "music",
       "source": "youtube",
@@ -1279,7 +1266,7 @@
     "4seven.uk": {
       "id": "4seven.uk",
       "name": "4seven",
-      "url": "https://youtube.com/watch?v=sao-YW5CivU",
+      "url": "https://youtube.com/watch?v=QqWbUcJiCN4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4seven.uk.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1305,7 +1292,7 @@
     "4Sports.fr": {
       "id": "4Sports.fr",
       "name": "4 Sports",
-      "url": "https://youtube.com/watch?v=eUhf6YjsH70",
+      "url": "https://youtube.com/watch?v=MGCv_Odb1_c",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4sports.fr.png",
       "group": "sports",
       "source": "youtube",
@@ -1331,7 +1318,7 @@
     "4Turk.fr": {
       "id": "4Turk.fr",
       "name": "4 Turk",
-      "url": "https://youtube.com/watch?v=DYudWn1ROYw",
+      "url": "https://youtube.com/watch?v=YJcbU1lfINY",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/4turk.fr.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1397,7 +1384,7 @@
     "51RadioTV.it": {
       "id": "51RadioTV.it",
       "name": "51 Radio TV",
-      "url": "https://youtube.com/watch?v=D5UqYm48Jfw",
+      "url": "https://youtube.com/watch?v=SBSLRhD0Buo",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/51radiotv.it.png",
       "group": "music",
       "source": "youtube",
@@ -1410,7 +1397,7 @@
     "5AABTV.ca": {
       "id": "5AABTV.ca",
       "name": "5AAB TV",
-      "url": "https://youtube.com/watch?v=-72cI_UIOkA",
+      "url": "https://youtube.com/watch?v=llo8Rcoq55U",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/5aabtv.ca.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1462,7 +1449,7 @@
     "5Plus.ch": {
       "id": "5Plus.ch",
       "name": "5+",
-      "url": "https://youtube.com/watch?v=j5cB3bJsqXw",
+      "url": "https://youtube.com/watch?v=WNCl-69POro",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/5plus.ch.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1488,7 +1475,7 @@
     "5Plus.mm": {
       "id": "5Plus.mm",
       "name": "5 Plus",
-      "url": "https://youtube.com/watch?v=VRkKmVht7uw",
+      "url": "https://youtube.com/watch?v=wSxH-L8HJc0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/5plus.mm.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1501,7 +1488,7 @@
     "5SELECT.uk": {
       "id": "5SELECT.uk",
       "name": "5SELECT",
-      "url": "https://youtube.com/watch?v=xIo-HXEoCM8",
+      "url": "https://youtube.com/watch?v=Q7habQt98iI",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/5select.uk.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1566,7 +1553,7 @@
     "5Stars.il": {
       "id": "5Stars.il",
       "name": "5Stars",
-      "url": "https://youtube.com/watch?v=c_zw2LisNiE",
+      "url": "https://youtube.com/watch?v=1_H7HgofWhk",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/5stars.il.png",
       "group": "sports",
       "source": "youtube",
@@ -1644,7 +1631,7 @@
     "6terSwitzerland.ch": {
       "id": "6terSwitzerland.ch",
       "name": "6ter Switzerland",
-      "url": "https://youtube.com/watch?v=SCV8J5Qi054",
+      "url": "https://youtube.com/watch?v=cLy5CQ9zYwY",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/6terswitzerland.ch.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1657,7 +1644,7 @@
     "6TVBangla.in": {
       "id": "6TVBangla.in",
       "name": "6 TV Bangla",
-      "url": "https://youtube.com/watch?v=vXCNIhT__GY",
+      "url": "https://youtube.com/watch?v=dn07XD6mLv0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/6tvbangla.in.png",
       "group": "news",
       "source": "youtube",
@@ -1722,7 +1709,7 @@
     "78.ru": {
       "id": "78.ru",
       "name": "78",
-      "url": "https://youtube.com/watch?v=5ZGWt4VQ59I",
+      "url": "https://youtube.com/watch?v=1M-pgk2o-f8",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/78.ru.png",
       "group": "news",
       "source": "youtube",
@@ -1761,7 +1748,7 @@
     "7flix.au": {
       "id": "7flix.au",
       "name": "7flix",
-      "url": "https://youtube.com/watch?v=fr6F8x6DRTQ",
+      "url": "https://youtube.com/watch?v=Ux3LEUDK-z8",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/7flix.au.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1774,7 +1761,7 @@
     "7Gold.it": {
       "id": "7Gold.it",
       "name": "7 Gold",
-      "url": "https://youtube.com/watch?v=-ps7V40GrA4",
+      "url": "https://youtube.com/watch?v=QqnzYUbgS1M",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/7gold.it.png",
       "group": "entertainment",
       "source": "youtube",
@@ -1787,7 +1774,7 @@
     "7Info.ci": {
       "id": "7Info.ci",
       "name": "7 Info",
-      "url": "https://youtube.com/watch?v=kQXggaqbAUQ",
+      "url": "https://youtube.com/watch?v=wa3e4EyaKvE",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/7info.ci.png",
       "group": "news",
       "source": "youtube",
@@ -1826,7 +1813,7 @@
     "7SMusic.in": {
       "id": "7SMusic.in",
       "name": "7S Music",
-      "url": "https://youtube.com/watch?v=kHL-RMxvM20",
+      "url": "https://youtube.com/watch?v=8LNcXy_KvZE",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/7smusic.in.png",
       "group": "music",
       "source": "youtube",
@@ -1865,7 +1852,7 @@
     "80sRewind.us": {
       "id": "80sRewind.us",
       "name": "80s Rewind",
-      "url": "https://youtube.com/watch?v=PZEwaRwqkiw",
+      "url": "https://youtube.com/watch?v=IlPTz2HXgI4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/80srewind.us.png",
       "group": "movies",
       "source": "youtube",
@@ -1891,7 +1878,7 @@
     "88Stereo.cr": {
       "id": "88Stereo.cr",
       "name": "88 Stereo",
-      "url": "https://youtube.com/watch?v=kNiZqVLR314",
+      "url": "https://youtube.com/watch?v=uzJlbDZ_juc",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/88stereo.cr.png",
       "group": "music",
       "source": "youtube",
@@ -1956,7 +1943,7 @@
     "92NewsHD.pk": {
       "id": "92NewsHD.pk",
       "name": "92 News HD",
-      "url": "https://youtube.com/watch?v=Om_3LAgjL_U",
+      "url": "https://youtube.com/watch?v=hT4tJ3obgEw",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/92newshd.pk.png",
       "group": "news",
       "source": "youtube",
@@ -2034,7 +2021,7 @@
     "99NewsHD.pk": {
       "id": "99NewsHD.pk",
       "name": "99 News HD",
-      "url": "https://youtube.com/watch?v=rP7esrox_RI",
+      "url": "https://youtube.com/watch?v=wAB6keKqQ5I",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/99newshd.pk.png",
       "group": "news",
       "source": "youtube",
@@ -2047,7 +2034,7 @@
     "99TV.in": {
       "id": "99TV.in",
       "name": "99TV",
-      "url": "https://youtube.com/watch?v=mATjP5l_2Wo",
+      "url": "https://youtube.com/watch?v=qjBsvbnvSek",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/99tv.in.png",
       "group": "news",
       "source": "youtube",
@@ -2073,7 +2060,7 @@
     "9Go.au": {
       "id": "9Go.au",
       "name": "9Go!",
-      "url": "https://youtube.com/watch?v=IxXwe4AD2ZU",
+      "url": "https://youtube.com/watch?v=9ragmDhSyAY",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/9go.au.png",
       "group": "entertainment",
       "source": "youtube",
@@ -2087,7 +2074,7 @@
     "9Volna.ru": {
       "id": "9Volna.ru",
       "name": "9 Volna",
-      "url": "https://youtube.com/watch?v=iBYUk2LEl6Q",
+      "url": "https://youtube.com/watch?v=EbRw3Sb93rE",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/9volna.ru.png",
       "group": "entertainment",
       "source": "youtube",
@@ -2139,7 +2126,7 @@
     "9XTashan.in": {
       "id": "9XTashan.in",
       "name": "9X Tashan",
-      "url": "https://youtube.com/watch?v=hgOOp_X7P7A",
+      "url": "https://youtube.com/watch?v=pqmm36HYEZ0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/9xtashan.in.png",
       "group": "music",
       "source": "youtube",
@@ -2152,7 +2139,7 @@
     "A1.ru": {
       "id": "A1.ru",
       "name": "A1",
-      "url": "https://youtube.com/watch?v=iZDOOkB35gU",
+      "url": "https://youtube.com/watch?v=JUYbvnGr9E8",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/a1.ru.png",
       "group": "music",
       "source": "youtube",
@@ -2269,7 +2256,7 @@
     "AagTV.pk": {
       "id": "AagTV.pk",
       "name": "Aag TV",
-      "url": "https://youtube.com/watch?v=hVlG0ocTef4",
+      "url": "https://youtube.com/watch?v=yJ0D_AyjiNc",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/aagtv.pk.png",
       "group": "kids",
       "source": "youtube",
@@ -2283,7 +2270,7 @@
     "AajEntertainment.pk": {
       "id": "AajEntertainment.pk",
       "name": "Aaj Entertainment",
-      "url": "https://youtube.com/watch?v=Fm-uyZ8GEIc",
+      "url": "https://youtube.com/watch?v=ko4FSMpI9-Y",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/aajentertainment.pk.png",
       "group": "entertainment",
       "source": "youtube",
@@ -2361,7 +2348,7 @@
     "AapkaColors.in": {
       "id": "AapkaColors.in",
       "name": "Aapka Colors",
-      "url": "https://youtube.com/watch?v=O89RYbbtbFE",
+      "url": "https://youtube.com/watch?v=CQb7QKfGPfI",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/aapkacolors.in.png",
       "group": "entertainment",
       "source": "youtube",
@@ -2400,7 +2387,7 @@
     "AB1.fr": {
       "id": "AB1.fr",
       "name": "AB1",
-      "url": "https://youtube.com/watch?v=1_yHCGbsiPo",
+      "url": "https://youtube.com/watch?v=iA6Uq1_0PYA",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/ab1.fr.png",
       "group": "entertainment",
       "source": "youtube",
@@ -2478,7 +2465,7 @@
     "ABCAmbaTV.cm": {
       "id": "ABCAmbaTV.cm",
       "name": "ABC Amba TV",
-      "url": "https://youtube.com/watch?v=fbQmW8yOlHA",
+      "url": "https://youtube.com/watch?v=qnpGlZ5jvzQ",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcambatv.cm.png",
       "group": "news",
       "source": "youtube",
@@ -2517,7 +2504,7 @@
     "ABCNewsGH.gh": {
       "id": "ABCNewsGH.gh",
       "name": "ABC News GH",
-      "url": "https://youtube.com/watch?v=HGP3Y_xBRxs",
+      "url": "https://youtube.com/watch?v=JqU-bK2N9kc",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcnewsgh.gh.png",
       "group": "news",
       "source": "youtube",
@@ -2543,7 +2530,7 @@
     "ABCNewsLive1.us": {
       "id": "ABCNewsLive1.us",
       "name": "ABC News Live 1",
-      "url": "https://youtube.com/watch?v=Ik-_wuI6Nks",
+      "url": "https://youtube.com/watch?v=nDgI9sPoGm0",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcnewslive1.us.png",
       "group": "news",
       "source": "youtube",
@@ -2582,7 +2569,7 @@
     "ABCNewsLive3.us": {
       "id": "ABCNewsLive3.us",
       "name": "ABC News Live 3",
-      "url": "https://youtube.com/watch?v=HGP3Y_xBRxs",
+      "url": "https://youtube.com/watch?v=qSGNYSi_UV4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcnewslive3.us.png",
       "group": "news",
       "source": "youtube",
@@ -2595,7 +2582,7 @@
     "ABCNewsLive4.us": {
       "id": "ABCNewsLive4.us",
       "name": "ABC News Live 4",
-      "url": "https://youtube.com/watch?v=WRIvJK4mm-8",
+      "url": "https://youtube.com/watch?v=DxpgZmy_23s",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcnewslive4.us.png",
       "group": "news",
       "source": "youtube",
@@ -2608,7 +2595,7 @@
     "ABCNewsLive5.us": {
       "id": "ABCNewsLive5.us",
       "name": "ABC News Live 5",
-      "url": "https://youtube.com/watch?v=wAB6keKqQ5I",
+      "url": "https://youtube.com/watch?v=qSGNYSi_UV4",
       "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/abcnewslive5.us.png",
       "group": "news",
       "source": "youtube",
