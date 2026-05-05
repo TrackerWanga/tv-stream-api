@@ -40199,14 +40199,6 @@
     "group": "Religious",
     "source": "religious"
   },
-  "LychnosTV.gr@SD": {
-    "id": "LychnosTV.gr@SD",
-    "name": "Lychnos TV (1080p)",
-    "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
-    "logo": "https://i.ibb.co/pJbKsVm/Lychnos-Tv-live-vipotv-greece.png",
-    "group": "Religious",
-    "source": "religious"
-  },
   "LyonCapitaleTV.fr@SD": {
     "id": "LyonCapitaleTV.fr@SD",
     "name": "Lyon Capitale TV (180p)",
@@ -55505,8 +55497,8 @@
   },
   "Polsat.pl@SD": {
     "id": "Polsat.pl@SD",
-    "name": "Polsat (1080p) [Geo-blocked]",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+    "name": "Polsat (1080p)",
+    "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8",
     "logo": "https://i.imgur.com/xff6zGN.png",
     "group": "General",
     "source": "index"
@@ -56959,19 +56951,19 @@
     "group": "Culture",
     "source": "culture"
   },
+  "Qazaqstan.kz@SD": {
+    "id": "Qazaqstan.kz@SD",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",Qazaqstan (1080p)",
+    "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+    "logo": "https://i.imgur.com/oI8g396.png",
+    "group": "General",
+    "source": "index"
+  },
   "QazaqstanInternational.kz@SD": {
     "id": "QazaqstanInternational.kz@SD",
     "name": "Qazaqstan International (1080p)",
     "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
     "logo": "https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=",
-    "group": "General",
-    "source": "index"
-  },
-  "Qazaqstan.kz@SD": {
-    "id": "Qazaqstan.kz@SD",
-    "name": "Qazaqstan TV (720p) [Not 24/7]",
-    "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
-    "logo": "https://i.imgur.com/oI8g396.png",
     "group": "General",
     "source": "index"
   },
@@ -87229,22 +87221,6 @@
     "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
     "logo": "https://i.imgur.com/NuYwGok.png",
     "group": "Series",
-    "source": "index"
-  },
-  "HellenicParliamentTV2.gr@SD": {
-    "id": "HellenicParliamentTV2.gr@SD",
-    "name": "\u0392\u03bf\u03c5\u03bb\u03ae \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7 2 (540p) [Not 24/7]",
-    "url": "https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8",
-    "logo": "https://i.imgur.com/o2cvqv3.png",
-    "group": "Legislative",
-    "source": "index"
-  },
-  "HellenicParliamentTV3.gr@SD": {
-    "id": "HellenicParliamentTV3.gr@SD",
-    "name": "\u0392\u03bf\u03c5\u03bb\u03ae \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7 3 (540p) [Not 24/7]",
-    "url": "https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8",
-    "logo": "https://i.imgur.com/o2cvqv3.png",
-    "group": "Legislative",
     "source": "index"
   },
   "AbazaTV.ru@SD": {
