@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T09:26:06.388539+00:00",
+  "updated": "2026-05-06T11:26:12.022374+00:00",
   "stats": {
     "total": 10,
     "live": 6,
@@ -20,17 +20,11 @@
       "http": 0,
       "error": "HTTPSConnectionPool(host='live-hls-web-aje.getaj.n"
     },
-    "BBCOne.uk": {
-      "name": "BBCOne.uk",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
-      "status": "geo_blocked",
-      "http": 403
-    },
-    "BBCNews.uk": {
-      "name": "BBCNews.uk",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news24/iptv_mse_v0_hevc.mpd",
-      "status": "geo_blocked",
-      "http": 403
+    "BloombergEurope.us": {
+      "name": "BloombergEurope.us",
+      "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+      "status": "live",
+      "http": 200
     },
     "Bloomberg.us": {
       "name": "Bloomberg.us",
@@ -50,21 +44,27 @@
       "status": "live",
       "http": 200
     },
-    "France24Spanish.fr": {
-      "name": "France24Spanish.fr",
-      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
-      "status": "live",
-      "http": 200
+    "BBCNews.uk": {
+      "name": "BBCNews.uk",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news24/iptv_mse_v0_hevc.mpd",
+      "status": "geo_blocked",
+      "http": 403
     },
-    "BloombergEurope.us": {
-      "name": "BloombergEurope.us",
-      "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
-      "status": "live",
-      "http": 200
+    "BBCOne.uk": {
+      "name": "BBCOne.uk",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
+      "status": "geo_blocked",
+      "http": 403
     },
     "France24Arabic.fr": {
       "name": "France24Arabic.fr",
       "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+      "status": "live",
+      "http": 200
+    },
+    "France24Spanish.fr": {
+      "name": "France24Spanish.fr",
+      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     }
