@@ -3319,6 +3319,14 @@
     "group": "General",
     "source": "index"
   },
+  "AigaioTV.gr@SD": {
+    "id": "AigaioTV.gr@SD",
+    "name": "Aigaio TV (720p)",
+    "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+    "logo": "https://i.imgur.com/7LfuDJi.png",
+    "group": "General",
+    "source": "index"
+  },
   "AikNews.pk@SD": {
     "id": "AikNews.pk@SD",
     "name": "Aik News",
@@ -15375,6 +15383,14 @@
     "group": "General",
     "source": "index"
   },
+  "CenterTV.gr@SD": {
+    "id": "CenterTV.gr@SD",
+    "name": "Center TV (1080p)",
+    "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+    "logo": "https://i.imgur.com/52JW71Q.png",
+    "group": "General",
+    "source": "index"
+  },
   "CentralTV.mn@SD": {
     "id": "CentralTV.mn@SD",
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Central TV (1080p)",
@@ -16454,6 +16470,14 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
+  },
+  "CINDIETV.br@HD": {
+    "id": "CINDIETV.br@HD",
+    "name": "CINDIE TV (1080p)",
+    "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi",
+    "logo": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
+    "group": "Movies",
+    "source": "movies"
   },
   "Cine34.it@SD": {
     "id": "Cine34.it@SD",
@@ -21231,6 +21255,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "DionTV.gr@SD": {
+    "id": "DionTV.gr@SD",
+    "name": "Dion TV (1080p)",
+    "url": "https://rtmp.win:3650/live/diontvlive.m3u8",
+    "logo": "https://i.imgur.com/13MverN.png",
+    "group": "General",
+    "source": "index"
+  },
   "DiosTeVe.hn@SD": {
     "id": "DiosTeVe.hn@SD",
     "name": "Dios Te Ve (720p)",
@@ -24578,7 +24610,7 @@
   "ETVAndhraPradesh.in@SD": {
     "id": "ETVAndhraPradesh.in@SD",
     "name": "ETV Andhra Pradesh (1080p)",
-    "url": "https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8",
+    "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
     "logo": "https://i.imgur.com/pFNCRnf.png",
     "group": "News",
     "source": "news"
@@ -24674,7 +24706,7 @@
   "ETVTelangana.in@SD": {
     "id": "ETVTelangana.in@SD",
     "name": "ETV Telangana (1080p)",
-    "url": "https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8",
+    "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143032_ld_h15_aa.png?lock=720x540",
     "group": "News",
     "source": "news"
@@ -24682,7 +24714,7 @@
   "ETVTelugu.in@HD": {
     "id": "ETVTelugu.in@HD",
     "name": "ETV Telugu HD (1080p)",
-    "url": "https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8",
+    "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
     "group": "Entertainment",
     "source": "entertainment"
@@ -26026,7 +26058,7 @@
   "Filmax.pk@SD": {
     "id": "Filmax.pk@SD",
     "name": "Filmax (576p)",
-    "url": "http://103.250.28.74:8000/play/a02o/index.m3u8",
+    "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
     "logo": "https://i.imgur.com/eLmdZ6k.png",
     "group": "Movies",
     "source": "movies"
@@ -36543,14 +36575,6 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
-  "KMOV41.us@HD": {
-    "id": "KMOV41.us@HD",
-    "name": "KMOV-DT1 [Geo-blocked]",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/91/KMOV_(2023).svg/revision/latest/scale-to-width-down/512",
-    "group": "General",
-    "source": "index"
-  },
   "KMSPDT1.us@SD": {
     "id": "KMSPDT1.us@SD",
     "name": "KMSP-DT1 (1080p)",
@@ -37134,14 +37158,6 @@
     "logo": "https://i.imgur.com/l4oX0gf.png",
     "group": "Sports",
     "source": "sports"
-  },
-  "KTVK31.us@HD": {
-    "id": "KTVK31.us@HD",
-    "name": "KTVK-DT1 (720p)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/960px-KTVK_logo.svg.png",
-    "group": "General",
-    "source": "index"
   },
   "KTVO31.us@HD": {
     "id": "KTVO31.us@HD",
@@ -44014,14 +44030,6 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
-  },
-  "MotorTrend.us@SD": {
-    "id": "MotorTrend.us@SD",
-    "name": "Motor Trend",
-    "url": "http://104.255.88.155/motortrend/index.m3u8",
-    "logo": "https://i.imgur.com/hKDccCL.png",
-    "group": "Auto",
-    "source": "auto"
   },
   "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedMotorRacing720p": {
     "id": "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedMotorRacing720p",
@@ -67543,10 +67551,10 @@
     "group": "Movies",
     "source": "movies"
   },
-  "StarVijay.in@SD": {
-    "id": "StarVijay.in@SD",
-    "name": "Star Vijay (576p)",
-    "url": "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
+  "StarVijay.in@HD": {
+    "id": "StarVijay.in@HD",
+    "name": "Star Vijay HD (1080p)",
+    "url": "https://peaky.techcoder40.workers.dev/776.m3u8",
     "logo": "https://i.imgur.com/dZtJHAe.png",
     "group": "Entertainment",
     "source": "entertainment"
@@ -81271,14 +81279,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "UnivisionTlnovelas.us@SD": {
-    "id": "UnivisionTlnovelas.us@SD",
-    "name": "Univision Tlnovelas [Not 24/7]",
-    "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png",
-    "group": "Series",
-    "source": "index"
-  },
   "UnleashedbyDOGTV1080p": {
     "id": "UnleashedbyDOGTV1080p",
     "name": "Unleashed by DOGTV (1080p)",
@@ -82575,14 +82575,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "VijaySuper.in@SD": {
-    "id": "VijaySuper.in@SD",
-    "name": "Vijay Super (576p)",
-    "url": "http://103.157.248.140:8000/play/a05l/index.m3u8",
-    "logo": "https://i.imgur.com/3MWm9nD.png",
-    "group": "Movies",
-    "source": "movies"
-  },
   "VijayTakkar.in@APAC": {
     "id": "VijayTakkar.in@APAC",
     "name": "Vijay Takkar APAC (1080p)",
@@ -83447,14 +83439,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WAPATV41.pr@HD": {
-    "id": "WAPATV41.pr@HD",
-    "name": "WAPA-DT1 [Not 24/7]",
-    "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhssCKjRALMhrvwb3kJonEg0/m3u8",
-    "logo": "https://i.imgur.com/kqq7tD9.png",
-    "group": "General",
-    "source": "index"
-  },
   "WarnerBrosTVSayYestotheDress720p": {
     "id": "WarnerBrosTVSayYestotheDress720p",
     "name": "Warner Bros. TV Say Yes to the Dress (720p)",
@@ -83775,6 +83759,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "WBTV641.us@HD": {
+    "id": "WBTV641.us@HD",
+    "name": "WBTV News (720p)",
+    "url": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "WBTVNikita720pGeoblocked": {
     "id": "WBTVNikita720pGeoblocked",
     "name": "WBTV Nikita (720p) [Geo-blocked]",
@@ -83836,14 +83828,6 @@
     "name": "WBTV Welcome Home (720p) [Geo-blocked]",
     "url": "https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8",
     "logo": "",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "WBTV641.us@HD": {
-    "id": "WBTV641.us@HD",
-    "name": "WBTV-DT1 (720p)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -84463,14 +84447,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WHSVTV34.us@SD": {
-    "id": "WHSVTV34.us@SD",
-    "name": "WHSV-DT4",
-    "url": "http://104.255.88.155/metv/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "WickedTuna1080p": {
     "id": "WickedTuna1080p",
     "name": "Wicked Tuna (1080p)",
@@ -84871,14 +84847,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WLIIDT111.pr@HD": {
-    "id": "WLIIDT111.pr@HD",
-    "name": "WLII-DT1 [Not 24/7]",
-    "url": "https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhtYpmFqNO-6TFAEvlr9r53X/m3u8",
-    "logo": "https://i.ibb.co/KhCnxJB/Crt3P4N.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "WLMB.us@SD": {
     "id": "WLMB.us@SD",
     "name": "WLMB (1080p)",
@@ -84964,14 +84932,6 @@
     "name": "WNYW-DT1 (1080p)",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
     "logo": "https://i.imgur.com/zZd9Tkt.png",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "WOIO431.us@HD": {
-    "id": "WOIO431.us@HD",
-    "name": "WOIO-DT1 (720p)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8",
-    "logo": "https://i.imgur.com/EoL0pgf.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -85247,14 +85207,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WPXXTV501.us@HD": {
-    "id": "WPXXTV501.us@HD",
-    "name": "WPXX-DT1",
-    "url": "http://104.255.88.155/ion/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "WRCDT1.us@SD": {
     "id": "WRCDT1.us@SD",
     "name": "WRC-DT1 (1080p)",
@@ -85486,14 +85438,6 @@
     "logo": "https://i.imgur.com/lAhIGsI.png",
     "group": "Religious",
     "source": "religious"
-  },
-  "WXIXTV191.us@HD": {
-    "id": "WXIXTV191.us@HD",
-    "name": "WXIX-DT1 (720p)",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-    "group": "Undefined",
-    "source": "index"
   },
   "WXTVDT681.us@HD": {
     "id": "WXTVDT681.us@HD",
@@ -90622,6 +90566,14 @@
     "logo": "https://i.imgur.com/9fj1uba.png",
     "group": "General",
     "source": "index"
+  },
+  "Ananda.id@HD": {
+    "id": "Ananda.id@HD",
+    "name": "Ananda (1080p)",
+    "url": "https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8",
+    "logo": "https://hosting.renderforestsites.com/35126779/1641323/media/080149eae7588f361ccb01b1387c00ca.webp",
+    "group": "Kids",
+    "source": "kids"
   },
   "Kanali7.al": {
     "id": "Kanali7.al",
