@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T19:52:59.908603+00:00",
+  "updated": "2026-05-07T22:07:35.972999+00:00",
   "streams": {
     "30AGolfKingdom.us@SD": {
       "id": "30AGolfKingdom.us@SD",
@@ -13,7 +13,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.974050+00:00"
+      "validated_at": "2026-05-07T21:55:39.273566+00:00"
     },
     "ACCDigitalNetwork.us@SD": {
       "id": "ACCDigitalNetwork.us@SD",
@@ -27,7 +27,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:12.981735+00:00"
+      "validated_at": "2026-05-07T21:55:41.243899+00:00"
     },
     "ACISportTV.it@SD": {
       "id": "ACISportTV.it@SD",
@@ -41,63 +41,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:13.988188+00:00"
-    },
-    "AlkassOne.qa@SD": {
-      "id": "AlkassOne.qa@SD",
-      "name": "Alkass One (1080p)",
-      "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-      "logo": "https://i.imgur.com/10mmlha.png",
-      "country": "",
-      "categories": [
-        "Sports"
-      ],
-      "quality": "HD",
-      "source": "sports",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:18.650540+00:00"
-    },
-    "AlkassFive.qa@SD": {
-      "id": "AlkassFive.qa@SD",
-      "name": "Alkass Five (1080p)",
-      "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-      "logo": "https://i.imgur.com/6RGNGsM.png",
-      "country": "",
-      "categories": [
-        "Sports"
-      ],
-      "quality": "HD",
-      "source": "sports",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:18.688517+00:00"
-    },
-    "AlkassSHOOF2.qa@SD": {
-      "id": "AlkassSHOOF2.qa@SD",
-      "name": "Alkass SHOOF 2 (1080p)",
-      "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
-      "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
-      "country": "",
-      "categories": [
-        "Sports"
-      ],
-      "quality": "HD",
-      "source": "sports",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:18.709241+00:00"
-    },
-    "AlkassThree.qa@SD": {
-      "id": "AlkassThree.qa@SD",
-      "name": "Alkass Three (1080p)",
-      "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
-      "logo": "https://i.imgur.com/d57BdFh.png",
-      "country": "",
-      "categories": [
-        "Sports"
-      ],
-      "quality": "HD",
-      "source": "sports",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:18.724647+00:00"
+      "validated_at": "2026-05-07T21:55:42.323363+00:00"
     },
     "AlkassFour.qa@SD": {
       "id": "AlkassFour.qa@SD",
@@ -111,13 +55,13 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:18.755858+00:00"
+      "validated_at": "2026-05-07T21:55:46.028626+00:00"
     },
-    "AlkassTwo.qa@SD": {
-      "id": "AlkassTwo.qa@SD",
-      "name": "Alkass Two (1080p)",
-      "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-      "logo": "https://i.imgur.com/8w61kFX.png",
+    "AlkassOne.qa@SD": {
+      "id": "AlkassOne.qa@SD",
+      "name": "Alkass One (1080p)",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+      "logo": "https://i.imgur.com/10mmlha.png",
       "country": "",
       "categories": [
         "Sports"
@@ -125,7 +69,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:18.784579+00:00"
+      "validated_at": "2026-05-07T21:55:46.035741+00:00"
     },
     "AlkassSHOOF.qa@SD": {
       "id": "AlkassSHOOF.qa@SD",
@@ -139,7 +83,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:19.005278+00:00"
+      "validated_at": "2026-05-07T21:55:46.107144+00:00"
     },
     "AlkassSix.qa@SD": {
       "id": "AlkassSix.qa@SD",
@@ -153,7 +97,63 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:19.042512+00:00"
+      "validated_at": "2026-05-07T21:55:46.114153+00:00"
+    },
+    "AlkassSHOOF2.qa@SD": {
+      "id": "AlkassSHOOF2.qa@SD",
+      "name": "Alkass SHOOF 2 (1080p)",
+      "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+      "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+      "country": "",
+      "categories": [
+        "Sports"
+      ],
+      "quality": "HD",
+      "source": "sports",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:46.117538+00:00"
+    },
+    "AlkassTwo.qa@SD": {
+      "id": "AlkassTwo.qa@SD",
+      "name": "Alkass Two (1080p)",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+      "logo": "https://i.imgur.com/8w61kFX.png",
+      "country": "",
+      "categories": [
+        "Sports"
+      ],
+      "quality": "HD",
+      "source": "sports",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:46.163155+00:00"
+    },
+    "AlkassFive.qa@SD": {
+      "id": "AlkassFive.qa@SD",
+      "name": "Alkass Five (1080p)",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
+      "logo": "https://i.imgur.com/6RGNGsM.png",
+      "country": "",
+      "categories": [
+        "Sports"
+      ],
+      "quality": "HD",
+      "source": "sports",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:46.172333+00:00"
+    },
+    "AlkassThree.qa@SD": {
+      "id": "AlkassThree.qa@SD",
+      "name": "Alkass Three (1080p)",
+      "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
+      "logo": "https://i.imgur.com/d57BdFh.png",
+      "country": "",
+      "categories": [
+        "Sports"
+      ],
+      "quality": "HD",
+      "source": "sports",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:46.177860+00:00"
     },
     "ATGLive.se@SD": {
       "id": "ATGLive.se@SD",
@@ -167,21 +167,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:25.027357+00:00"
-    },
-    "BahrainSports1.bh@SD": {
-      "id": "BahrainSports1.bh@SD",
-      "name": "Bahrain Sports 1 (720p) [Not 24/7]",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-      "logo": "https://i.imgur.com/fBpLsbC.png",
-      "country": "",
-      "categories": [
-        "Sports"
-      ],
-      "quality": "HD",
-      "source": "sports",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:28.814219+00:00"
+      "validated_at": "2026-05-07T21:55:52.643624+00:00"
     },
     "BahrainSports2.bh@SD": {
       "id": "BahrainSports2.bh@SD",
@@ -195,7 +181,21 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:29.180300+00:00"
+      "validated_at": "2026-05-07T21:55:56.578125+00:00"
+    },
+    "BahrainSports1.bh@SD": {
+      "id": "BahrainSports1.bh@SD",
+      "name": "Bahrain Sports 1 (720p) [Not 24/7]",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+      "logo": "https://i.imgur.com/fBpLsbC.png",
+      "country": "",
+      "categories": [
+        "Sports"
+      ],
+      "quality": "HD",
+      "source": "sports",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:56.595902+00:00"
     },
     "beINSPORTSXTRAenEspanol.us@SD": {
       "id": "beINSPORTSXTRAenEspanol.us@SD",
@@ -209,35 +209,7 @@
       "quality": "HD",
       "source": "sports",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:31.151579+00:00"
-    },
-    "4DmasNoticiasTV.py@SD": {
-      "id": "4DmasNoticiasTV.py@SD",
-      "name": "4Dm\u00e1sNoticias TV (1080p) [Not 24/7]",
-      "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-      "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:09.812401+00:00"
-    },
-    "2GB.au@SD": {
-      "id": "2GB.au@SD",
-      "name": "2GB Sydney (1080p)",
-      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
-      "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:09.822793+00:00"
+      "validated_at": "2026-05-07T21:55:58.935684+00:00"
     },
     "3AW.au@SD": {
       "id": "3AW.au@SD",
@@ -251,7 +223,49 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.181701+00:00"
+      "validated_at": "2026-05-07T21:55:37.667251+00:00"
+    },
+    "2GB.au@SD": {
+      "id": "2GB.au@SD",
+      "name": "2GB Sydney (1080p)",
+      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+      "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:37.948919+00:00"
+    },
+    "4DmasNoticiasTV.py@SD": {
+      "id": "4DmasNoticiasTV.py@SD",
+      "name": "4Dm\u00e1sNoticias TV (1080p) [Not 24/7]",
+      "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+      "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:37.958411+00:00"
+    },
+    "6PR.au@SD": {
+      "id": "6PR.au@SD",
+      "name": "6PR Perth (1080p)",
+      "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+      "logo": "https://i.imgur.com/Q9iCxg1.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:38.111103+00:00"
     },
     "24News.in@SD": {
       "id": "24News.in@SD",
@@ -265,7 +279,7 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.315065+00:00"
+      "validated_at": "2026-05-07T21:55:38.495515+00:00"
     },
     "247CanaldeNoticias.ar@SD": {
       "id": "247CanaldeNoticias.ar",
@@ -279,13 +293,13 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.704736+00:00"
+      "validated_at": "2026-05-07T21:55:38.896781+00:00"
     },
-    "30ALionelNation.us@SD": {
-      "id": "30ALionelNation.us@SD",
-      "name": "30A Lionel Nation TV",
-      "url": "https://30a-tv.com/ln.m3u8",
-      "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+    "92NewsHD.pk@SD": {
+      "id": "92NewsHD.pk@SD",
+      "name": "92 News HD (720p)",
+      "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+      "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
       "country": "",
       "categories": [
         "News"
@@ -293,7 +307,49 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.956728+00:00"
+      "validated_at": "2026-05-07T21:55:38.914257+00:00"
+    },
+    "Channel24.ua@SD": {
+      "id": "Channel24.ua@SD",
+      "name": "24 \u041a\u0430\u043d\u0430\u043b (1080p)",
+      "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.099047+00:00"
+    },
+    "22ScopeNews.in@SD": {
+      "id": "22ScopeNews.in@SD",
+      "name": "22Scope News (1080p)",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.144850+00:00"
+    },
+    "13SiamThai.th@SD": {
+      "id": "13SiamThai.th@SD",
+      "name": "13 Siam Thai (1080p)",
+      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+      "logo": "https://i.imgur.com/FvEp1S2.png",
+      "country": "",
+      "categories": [
+        "News"
+      ],
+      "quality": "HD",
+      "source": "news",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.157651+00:00"
     },
     "30ALoomeredTV.us@SD": {
       "id": "30ALoomeredTV.us",
@@ -308,13 +364,13 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.961215+00:00"
+      "validated_at": "2026-05-07T21:55:39.217525+00:00"
     },
-    "13SiamThai.th@SD": {
-      "id": "13SiamThai.th@SD",
-      "name": "13 Siam Thai (1080p)",
-      "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
-      "logo": "https://i.imgur.com/FvEp1S2.png",
+    "30ALionelNation.us@SD": {
+      "id": "30ALionelNation.us@SD",
+      "name": "30A Lionel Nation TV",
+      "url": "https://30a-tv.com/ln.m3u8",
+      "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
       "country": "",
       "categories": [
         "News"
@@ -322,13 +378,13 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.991947+00:00"
+      "validated_at": "2026-05-07T21:55:39.236950+00:00"
     },
-    "22ScopeNews.in@SD": {
-      "id": "22ScopeNews.in@SD",
-      "name": "22Scope News (1080p)",
-      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
-      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+    "AajTak.in@HD": {
+      "id": "AajTak.in@HD",
+      "name": "Aaj Tak HD (1080p)",
+      "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png",
       "country": "",
       "categories": [
         "News"
@@ -336,35 +392,7 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.998567+00:00"
-    },
-    "Channel24.ua@SD": {
-      "id": "Channel24.ua@SD",
-      "name": "24 \u041a\u0430\u043d\u0430\u043b (1080p)",
-      "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.075790+00:00"
-    },
-    "6PR.au@SD": {
-      "id": "6PR.au@SD",
-      "name": "6PR Perth (1080p)",
-      "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
-      "logo": "https://i.imgur.com/Q9iCxg1.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.364935+00:00"
+      "validated_at": "2026-05-07T21:55:39.763045+00:00"
     },
     "360.tr@SD": {
       "id": "360.tr@SD",
@@ -378,21 +406,7 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.448717+00:00"
-    },
-    "360News.ru@SD": {
-      "id": "360News.ru@SD",
-      "name": "360\u00b0 \u041d\u043e\u0432\u043e\u0441\u0442\u0438 (1080p)",
-      "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-      "logo": "https://i.imgur.com/YXDeX8q.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.781461+00:00"
+      "validated_at": "2026-05-07T21:55:39.819306+00:00"
     },
     "AbanteTV.ph@HD": {
       "id": "AbanteTV.ph@HD",
@@ -406,21 +420,7 @@
       "quality": "HD",
       "source": "news",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:12.181546+00:00"
-    },
-    "WMARTV21.us@HD": {
-      "id": "WMARTV21.us@HD",
-      "name": "ABC 2 Baltimore MD (WMAR) (720p)",
-      "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png",
-      "country": "",
-      "categories": [
-        "News"
-      ],
-      "quality": "HD",
-      "source": "news",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:12.364544+00:00"
+      "validated_at": "2026-05-07T21:55:40.223910+00:00"
     },
     "5AABTV.ca@SD": {
       "id": "5AABTV.ca@SD",
@@ -434,7 +434,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:09.266416+00:00"
+      "validated_at": "2026-05-07T21:55:37.283086+00:00"
     },
     "4UTV.tr@SD": {
       "id": "4UTV.tr@SD",
@@ -448,7 +448,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:09.766588+00:00"
+      "validated_at": "2026-05-07T21:55:38.004905+00:00"
     },
     "2x2.ru@SD": {
       "id": "2x2.ru@SD",
@@ -462,7 +462,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.071189+00:00"
+      "validated_at": "2026-05-07T21:55:38.031057+00:00"
     },
     "30ATelevisionChannel.us@SD": {
       "id": "30ATelevisionChannel.us@SD",
@@ -476,7 +476,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.917073+00:00"
+      "validated_at": "2026-05-07T21:55:39.261923+00:00"
     },
     "30ASidewalks.us@SD": {
       "id": "30ASidewalks.us@SD",
@@ -490,35 +490,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.931939+00:00"
-    },
-    "247BoxTV.ir@SD": {
-      "id": "247BoxTV.ir",
-      "name": "247 Box TV",
-      "url": "https://hls.247box.live/hls/stream.m3u8",
-      "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/247boxtv.ir.png",
-      "country": "IR",
-      "categories": [
-        "entertainment"
-      ],
-      "quality": "HD",
-      "source": "entertainment",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.280603+00:00"
-    },
-    "OPA.cr@SD": {
-      "id": "OPA.cr@SD",
-      "name": "\u00a1OPA! (1080i) [Geo-blocked]",
-      "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
-      "logo": "https://i.imgur.com/300c1ZH.png",
-      "country": "",
-      "categories": [
-        "Entertainment"
-      ],
-      "quality": "HD",
-      "source": "entertainment",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.296514+00:00"
+      "validated_at": "2026-05-07T21:55:39.279075+00:00"
     },
     "312TV.kg@SD": {
       "id": "312TV.kg@SD",
@@ -532,13 +504,27 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.299023+00:00"
+      "validated_at": "2026-05-07T21:55:39.404274+00:00"
     },
-    "AELatinAmerica.us@South": {
-      "id": "AELatinAmerica.us@South",
-      "name": "A&E Latin America South (480p)",
-      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "247BoxTV.ir@SD": {
+      "id": "247BoxTV.ir",
+      "name": "247 Box TV",
+      "url": "https://hls.247box.live/hls/stream.m3u8",
+      "logo": "https://raw.githubusercontent.com/iptv-org/database/master/logos/247boxtv.ir.png",
+      "country": "IR",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "HD",
+      "source": "entertainment",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.453858+00:00"
+    },
+    "OPA.cr@SD": {
+      "id": "OPA.cr@SD",
+      "name": "\u00a1OPA! (1080i) [Geo-blocked]",
+      "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+      "logo": "https://i.imgur.com/300c1ZH.png",
       "country": "",
       "categories": [
         "Entertainment"
@@ -546,7 +532,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.909172+00:00"
+      "validated_at": "2026-05-07T21:55:39.640709+00:00"
     },
     "AamarBangla.in@SD": {
       "id": "AamarBangla.in@SD",
@@ -560,7 +546,21 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.937382+00:00"
+      "validated_at": "2026-05-07T21:55:39.997864+00:00"
+    },
+    "AajEntertainment.pk@SD": {
+      "id": "AajEntertainment.pk@SD",
+      "name": "Aaj Entertainment (1080p)",
+      "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+      "logo": "https://i.imgur.com/WK5Cqap.png",
+      "country": "",
+      "categories": [
+        "Entertainment"
+      ],
+      "quality": "HD",
+      "source": "entertainment",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:40.420428+00:00"
     },
     "AE.us@East": {
       "id": "AE.us@East",
@@ -574,7 +574,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:12.457969+00:00"
+      "validated_at": "2026-05-07T21:55:40.519858+00:00"
     },
     "AakaashAath.in@SD": {
       "id": "AakaashAath.in@SD",
@@ -588,7 +588,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:12.601577+00:00"
+      "validated_at": "2026-05-07T21:55:41.142379+00:00"
     },
     "ABCTVPlus.au@Sydney": {
       "id": "ABCTVPlus.au@Sydney",
@@ -602,7 +602,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:13.874360+00:00"
+      "validated_at": "2026-05-07T21:55:41.352011+00:00"
     },
     "AfroLandTV.us@SD": {
       "id": "AfroLandTV.us@SD",
@@ -616,13 +616,13 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:14.759002+00:00"
+      "validated_at": "2026-05-07T21:55:42.626817+00:00"
     },
-    "AguacateTV.ve@SD": {
-      "id": "AguacateTV.ve@SD",
-      "name": "Aguacate TV (1080p)",
-      "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
-      "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+    "AELatinAmerica.us@South": {
+      "id": "AELatinAmerica.us@South",
+      "name": "A&E Latin America South (480p)",
+      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
       "country": "",
       "categories": [
         "Entertainment"
@@ -630,7 +630,7 @@
       "quality": "HD",
       "source": "entertainment",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:17.095607+00:00"
+      "validated_at": "2026-05-07T21:55:42.844087+00:00"
     },
     "30ATVClassicMovies.us@SD": {
       "id": "30ATVClassicMovies.us@SD",
@@ -644,7 +644,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.971049+00:00"
+      "validated_at": "2026-05-07T21:55:39.283781+00:00"
     },
     "312Kino.kg@SD": {
       "id": "312Kino.kg@SD",
@@ -658,21 +658,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.280886+00:00"
-    },
-    "AndTV.in@HD": {
-      "id": "AndTV.in@HD",
-      "name": "&TV HD (1080p)",
-      "url": "http://103.229.254.25:7001/play/a034/index.m3u8",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "country": "",
-      "categories": [
-        "Movies"
-      ],
-      "quality": "HD",
-      "source": "movies",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:11.497773+00:00"
+      "validated_at": "2026-05-07T21:55:39.363646+00:00"
     },
     "AndTV.in@International": {
       "id": "AndTV.in@International",
@@ -686,7 +672,21 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.503888+00:00"
+      "validated_at": "2026-05-07T21:55:39.685882+00:00"
+    },
+    "AndTV.in@HD": {
+      "id": "AndTV.in@HD",
+      "name": "&TV HD (1080p)",
+      "url": "http://103.229.254.25:7001/play/a034/index.m3u8",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "country": "",
+      "categories": [
+        "Movies"
+      ],
+      "quality": "HD",
+      "source": "movies",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.727801+00:00"
     },
     "Action24.gr@SD": {
       "id": "Action24.gr@SD",
@@ -700,7 +700,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:14.144177+00:00"
+      "validated_at": "2026-05-07T21:55:42.031811+00:00"
     },
     "Aflam.sa@SD": {
       "id": "Aflam.sa@SD",
@@ -714,7 +714,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:14.914327+00:00"
+      "validated_at": "2026-05-07T21:55:42.658848+00:00"
     },
     "AfriwoodBlockbuster.za@SD": {
       "id": "AfriwoodBlockbuster.za@SD",
@@ -728,7 +728,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:15.019876+00:00"
+      "validated_at": "2026-05-07T21:55:43.218758+00:00"
     },
     "AlankarTV.in@SD": {
       "id": "AlankarTV.in@SD",
@@ -742,7 +742,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:17.271889+00:00"
+      "validated_at": "2026-05-07T21:55:44.910799+00:00"
     },
     "DUST.us@SD": {
       "id": "DUST.us@SD",
@@ -756,7 +756,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:18.277847+00:00"
+      "validated_at": "2026-05-07T21:55:45.594692+00:00"
     },
     "AllTimeMovies.in@SD": {
       "id": "AllTimeMovies.in@SD",
@@ -770,21 +770,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:19.668767+00:00"
-    },
-    "AMCLatinAmerica.us@SD": {
-      "id": "AMCLatinAmerica.us@SD",
-      "name": "AMC Latin America (1280p)",
-      "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-      "country": "",
-      "categories": [
-        "Movies"
-      ],
-      "quality": "HD",
-      "source": "movies",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:20.028916+00:00"
+      "validated_at": "2026-05-07T21:55:47.151538+00:00"
     },
     "AmericanHorrors.us@SD": {
       "id": "AmericanHorrors.us@SD",
@@ -798,7 +784,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:20.189327+00:00"
+      "validated_at": "2026-05-07T21:55:47.741909+00:00"
     },
     "Atrescine.es@SD": {
       "id": "Atrescine.es@SD",
@@ -812,7 +798,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:25.235758+00:00"
+      "validated_at": "2026-05-07T21:55:52.934657+00:00"
     },
     "AuroraMediaFilms.gt@SD": {
       "id": "AuroraMediaFilms.gt@SD",
@@ -826,7 +812,7 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:26.091146+00:00"
+      "validated_at": "2026-05-07T21:55:53.650722+00:00"
     },
     "AXNLatinAmerica.us@South": {
       "id": "AXNLatinAmerica.us@South",
@@ -840,21 +826,21 @@
       "quality": "HD",
       "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:27.309468+00:00"
+      "validated_at": "2026-05-07T21:55:55.014856+00:00"
     },
-    "4Kurd.fr@SD": {
-      "id": "4Kurd.fr@SD",
-      "name": "4 Kurd",
-      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
-      "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+    "B4UMovies.in@India": {
+      "id": "B4UMovies.in@India",
+      "name": "B4U Movies (1080p) [Geo-blocked]",
+      "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
+      "logo": "https://i.imgur.com/M9kMFJl.png",
       "country": "",
       "categories": [
-        "Music"
+        "Movies"
       ],
       "quality": "HD",
-      "source": "music",
+      "source": "movies",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:09.807044+00:00"
+      "validated_at": "2026-05-07T21:55:55.344464+00:00"
     },
     "3ABNPraiseHimMusicNetwork.us@SD": {
       "id": "3ABNPraiseHimMusicNetwork.us",
@@ -869,7 +855,21 @@
       "quality": "HD",
       "source": "religious",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:09.820620+00:00"
+      "validated_at": "2026-05-07T21:55:37.892449+00:00"
+    },
+    "4Kurd.fr@SD": {
+      "id": "4Kurd.fr@SD",
+      "name": "4 Kurd",
+      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+      "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+      "country": "",
+      "categories": [
+        "Music"
+      ],
+      "quality": "HD",
+      "source": "music",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:37.935288+00:00"
     },
     "4FunTV.pl@SD": {
       "id": "4FunTV.pl@SD",
@@ -883,7 +883,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:09.921609+00:00"
+      "validated_at": "2026-05-07T21:55:38.036312+00:00"
     },
     "9XJalwa.in@SD": {
       "id": "9XJalwa.in@SD",
@@ -897,7 +897,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.028763+00:00"
+      "validated_at": "2026-05-07T21:55:38.173825+00:00"
     },
     "9XM.in@SD": {
       "id": "9XM.in@SD",
@@ -911,21 +911,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.062785+00:00"
-    },
-    "9XJhakaas.in@SD": {
-      "id": "9XJhakaas.in@SD",
-      "name": "9X Jhakaas (1080p)",
-      "url": "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
-      "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",
-      "country": "",
-      "categories": [
-        "Music"
-      ],
-      "quality": "HD",
-      "source": "music",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:10.193318+00:00"
+      "validated_at": "2026-05-07T21:55:38.473910+00:00"
     },
     "9XTashan.in@SD": {
       "id": "9XTashan.in@SD",
@@ -939,7 +925,21 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.204499+00:00"
+      "validated_at": "2026-05-07T21:55:38.491763+00:00"
+    },
+    "9XJhakaas.in@SD": {
+      "id": "9XJhakaas.in@SD",
+      "name": "9X Jhakaas (1080p)",
+      "url": "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
+      "logo": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",
+      "country": "",
+      "categories": [
+        "Music"
+      ],
+      "quality": "HD",
+      "source": "music",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:38.514382+00:00"
     },
     "7YOUME.it@HD": {
       "id": "7YOUME.it@HD",
@@ -953,7 +953,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.624689+00:00"
+      "validated_at": "2026-05-07T21:55:38.702937+00:00"
     },
     "7RadioVisione.it@HD": {
       "id": "7RadioVisione.it@HD",
@@ -967,21 +967,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.644430+00:00"
-    },
-    "7SMusic.in@SD": {
-      "id": "7SMusic.in@SD",
-      "name": "7S Music (576p)",
-      "url": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
-      "logo": "https://i.imgur.com/zDiIhdN.png",
-      "country": "",
-      "categories": [
-        "Music"
-      ],
-      "quality": "HD",
-      "source": "music",
-      "status": "live",
-      "validated_at": "2026-05-07T19:41:10.700755+00:00"
+      "validated_at": "2026-05-07T21:55:38.759774+00:00"
     },
     "15PlusMusic.ru@HD": {
       "id": "15PlusMusic.ru@HD",
@@ -995,13 +981,13 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.905373+00:00"
+      "validated_at": "2026-05-07T21:55:38.970683+00:00"
     },
-    "30AMusic.us@SD": {
-      "id": "30AMusic.us@SD",
-      "name": "30A Music (720p)",
-      "url": "https://30a-tv.com/music.m3u8",
-      "logo": "https://i.imgur.com/gNWg9tl.png",
+    "7SMusic.in@SD": {
+      "id": "7SMusic.in@SD",
+      "name": "7S Music (576p)",
+      "url": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+      "logo": "https://i.imgur.com/zDiIhdN.png",
       "country": "",
       "categories": [
         "Music"
@@ -1009,7 +995,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.920554+00:00"
+      "validated_at": "2026-05-07T21:55:39.107147+00:00"
     },
     "51RadioTV.it@SD": {
       "id": "51RadioTV.it@SD",
@@ -1023,7 +1009,21 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.975857+00:00"
+      "validated_at": "2026-05-07T21:55:39.128479+00:00"
+    },
+    "30AMusic.us@SD": {
+      "id": "30AMusic.us@SD",
+      "name": "30A Music (720p)",
+      "url": "https://30a-tv.com/music.m3u8",
+      "logo": "https://i.imgur.com/gNWg9tl.png",
+      "country": "",
+      "categories": [
+        "Music"
+      ],
+      "quality": "HD",
+      "source": "music",
+      "status": "live",
+      "validated_at": "2026-05-07T21:55:39.250368+00:00"
     },
     "981PearlFM.sx@SD": {
       "id": "981PearlFM.sx@SD",
@@ -1037,7 +1037,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.982151+00:00"
+      "validated_at": "2026-05-07T21:55:39.263827+00:00"
     },
     "88Stereo.cr@SD": {
       "id": "88Stereo.cr@SD",
@@ -1051,7 +1051,7 @@
       "quality": "HD",
       "source": "music",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.205859+00:00"
+      "validated_at": "2026-05-07T21:55:39.555028+00:00"
     },
     "4FunKids.pl@SD": {
       "id": "4FunKids.pl@SD",
@@ -1065,7 +1065,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:10.041120+00:00"
+      "validated_at": "2026-05-07T21:55:38.127870+00:00"
     },
     "ABCKids.au@Sydney": {
       "id": "ABCKids.au",
@@ -1079,7 +1079,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:13.890811+00:00"
+      "validated_at": "2026-05-07T21:55:41.476865+00:00"
     },
     "AfarinBaxcha.iq@SD": {
       "id": "AfarinBaxcha.iq@SD",
@@ -1093,7 +1093,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:14.426461+00:00"
+      "validated_at": "2026-05-07T21:55:42.194725+00:00"
     },
     "AfarinTV.iq@SD": {
       "id": "AfarinTV.iq@SD",
@@ -1107,7 +1107,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:14.737514+00:00"
+      "validated_at": "2026-05-07T21:55:43.027485+00:00"
     },
     "AghapyKids.us@SD": {
       "id": "AghapyKids.us@SD",
@@ -1121,7 +1121,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:15.096483+00:00"
+      "validated_at": "2026-05-07T21:55:43.107831+00:00"
     },
     "AmouYazidTV.dz@SD": {
       "id": "AmouYazidTV.dz@SD",
@@ -1135,7 +1135,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:20.348006+00:00"
+      "validated_at": "2026-05-07T21:55:47.944584+00:00"
     },
     "Ani.ru@SD": {
       "id": "Ani.ru@SD",
@@ -1149,7 +1149,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:21.643571+00:00"
+      "validated_at": "2026-05-07T21:55:49.495438+00:00"
     },
     "ARBGunes.az@SD": {
       "id": "ARBGunes.az",
@@ -1163,7 +1163,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:22.578499+00:00"
+      "validated_at": "2026-05-07T21:55:50.456849+00:00"
     },
     "AtfalMawahebTV.sa@SD": {
       "id": "AtfalMawahebTV.sa@SD",
@@ -1177,7 +1177,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:25.143264+00:00"
+      "validated_at": "2026-05-07T21:55:52.866197+00:00"
     },
     "BabySharkTV.us@SD": {
       "id": "BabySharkTV.us@SD",
@@ -1191,7 +1191,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:27.794686+00:00"
+      "validated_at": "2026-05-07T21:55:55.549418+00:00"
     },
     "Balapan.kz@SD": {
       "id": "Balapan.kz@SD",
@@ -1205,7 +1205,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:28.958968+00:00"
+      "validated_at": "2026-05-07T21:55:56.770137+00:00"
     },
     "BeJoykids.it@HD": {
       "id": "BeJoykids.it@HD",
@@ -1219,7 +1219,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:31.550874+00:00"
+      "validated_at": "2026-05-07T21:55:59.452852+00:00"
     },
     "BiznetKids.id@SD": {
       "id": "BiznetKids.id@SD",
@@ -1233,7 +1233,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:34.161875+00:00"
+      "validated_at": "2026-05-07T21:56:02.784014+00:00"
     },
     "Bolajon.uz@SD": {
       "id": "Bolajon.uz@SD",
@@ -1247,7 +1247,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:35.062322+00:00"
+      "validated_at": "2026-05-07T21:56:03.217968+00:00"
     },
     "BratTV.us@SD": {
       "id": "BratTV.us@SD",
@@ -1261,7 +1261,7 @@
       "quality": "HD",
       "source": "kids",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:35.164862+00:00"
+      "validated_at": "2026-05-07T21:56:03.255588+00:00"
     },
     "365daysTV.ru@SD": {
       "id": "365daysTV.ru@SD",
@@ -1275,7 +1275,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:11.373698+00:00"
+      "validated_at": "2026-05-07T21:55:39.553449+00:00"
     },
     "AsharqDocumentary.sa@SD": {
       "id": "AsharqDocumentary.sa@SD",
@@ -1289,7 +1289,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:24.157997+00:00"
+      "validated_at": "2026-05-07T21:55:52.274369+00:00"
     },
     "Backstage.us@SD": {
       "id": "Backstage.us@SD",
@@ -1303,7 +1303,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:27.929710+00:00"
+      "validated_at": "2026-05-07T21:55:55.732908+00:00"
     },
     "BBCEarth.uk@US": {
       "id": "BBCEarth.uk@US",
@@ -1317,7 +1317,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:29.888850+00:00"
+      "validated_at": "2026-05-07T21:55:57.847878+00:00"
     },
     "BritBoxMysteries.us@SD": {
       "id": "BritBoxMysteries.us@SD",
@@ -1331,7 +1331,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:35.522144+00:00"
+      "validated_at": "2026-05-07T21:56:03.623751+00:00"
     },
     "CCTV9.cn@SD": {
       "id": "CCTV9.cn@SD",
@@ -1345,7 +1345,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:43.734089+00:00"
+      "validated_at": "2026-05-07T21:56:12.064458+00:00"
     },
     "CGTNDocumentary.cn@SD": {
       "id": "CGTNDocumentary.cn@SD",
@@ -1359,7 +1359,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:44.737302+00:00"
+      "validated_at": "2026-05-07T21:56:13.014936+00:00"
     },
     "CGTNDocumentary.tr@SD": {
       "id": "CGTNDocumentary.tr",
@@ -1373,7 +1373,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:44.846738+00:00"
+      "validated_at": "2026-05-07T21:56:13.036103+00:00"
     },
     "ClickTVChile.cl@SD": {
       "id": "ClickTVChile.cl@SD",
@@ -1387,7 +1387,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:48.694811+00:00"
+      "validated_at": "2026-05-07T21:56:17.541852+00:00"
     },
     "CNAOriginals.sg@SD": {
       "id": "CNAOriginals.sg@SD",
@@ -1401,7 +1401,7 @@
       "quality": "HD",
       "source": "documentary",
       "status": "live",
-      "validated_at": "2026-05-07T19:41:48.775388+00:00"
+      "validated_at": "2026-05-07T21:56:17.603929+00:00"
     }
   }
 }
