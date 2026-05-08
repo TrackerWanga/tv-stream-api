@@ -1418,7 +1418,7 @@
   "scifi.ru@SD": {
     "id": "scifi.ru@SD",
     "name": ".sci-fi (576p)",
-    "url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
+    "url": "http://tmptv.sunduk.tv/CH175/index.m3u8",
     "logo": "https://i.imgur.com/nSSUHcg.png",
     "group": "Science",
     "source": "science"
@@ -5606,14 +5606,6 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
-  },
-  "Animax.jp@SD": {
-    "id": "Animax.jp@SD",
-    "name": "Animax (576p)",
-    "url": "https://nl.utako.moe/Animax/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
-    "group": "Animation",
-    "source": "animation"
   },
   "AnimaxAsia.sg@India": {
     "id": "AnimaxAsia.sg@India",
@@ -15751,6 +15743,14 @@
     "group": "General",
     "source": "index"
   },
+  "Channel8.gr@HD": {
+    "id": "Channel8.gr@HD",
+    "name": "Channel 8 (1080p)",
+    "url": "https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8",
+    "logo": "https://www.channel8.gr/img/channel8.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "Channel8.sg@SD": {
     "id": "Channel8.sg@SD",
     "name": "Channel 8",
@@ -24626,7 +24626,7 @@
   "ETVCinema.in@HD": {
     "id": "ETVCinema.in@HD",
     "name": "ETV Cinema HD (1080p)",
-    "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
+    "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
     "group": "Movies",
     "source": "movies"
@@ -24694,14 +24694,6 @@
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png",
     "group": "News",
     "source": "news"
-  },
-  "ETVPlus.in@HD": {
-    "id": "ETVPlus.in@HD",
-    "name": "ETV Plus HD (1080p)",
-    "url": "https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_PLUS/images/LOGO_HD/image.png",
-    "group": "Entertainment",
-    "source": "entertainment"
   },
   "eTvRete7.it@SD": {
     "id": "eTvRete7.it@SD",
@@ -43107,9 +43099,9 @@
     "id": "MiracleTV.se@SD",
     "name": "Miracle TV (1080p)",
     "url": "https://live.miracleonline.org/hls/miracle1.m3u8",
-    "logo": "https://i.imgur.com/rc68GZJ.png",
-    "group": "Religious",
-    "source": "religious"
+    "logo": "",
+    "group": "Undefined",
+    "source": "index"
   },
   "MiracleTV.uk@SD": {
     "id": "MiracleTV.uk@SD",
@@ -64239,6 +64231,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "SCTV3.vn@SD": {
+    "id": "SCTV3.vn@SD",
+    "name": "SCTV3 (720p)",
+    "url": "https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8",
+    "logo": "https://i.imgur.com/tfk298I.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "SCTV4.vn@SD": {
     "id": "SCTV4.vn@SD",
     "name": "SCTV4 (720p)",
@@ -64255,11 +64255,43 @@
     "group": "Undefined",
     "source": "index"
   },
+  "SCTV7.vn@SD": {
+    "id": "SCTV7.vn@SD",
+    "name": "SCTV7 (720p)",
+    "url": "https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8",
+    "logo": "https://i.imgur.com/xbIUZYd.png",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "SCTV8.vn@SD": {
+    "id": "SCTV8.vn@SD",
+    "name": "SCTV8 (720p)",
+    "url": "https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8",
+    "logo": "https://i.imgur.com/eVWgfRS.png",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "SCTV10.vn@SD": {
+    "id": "SCTV10.vn@SD",
+    "name": "SCTV10 (720p)",
+    "url": "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8",
+    "logo": "https://i.imgur.com/46OxCQG.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "SCTV16.vn@SD": {
     "id": "SCTV16.vn@SD",
     "name": "SCTV16 (720p)",
     "url": "https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8",
     "logo": "https://i.imgur.com/ldCYtvt.png",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "SCTVPhimTongHop.vn@SD": {
+    "id": "SCTVPhimTongHop.vn@SD",
+    "name": "SCTV Phim Tong Hop (720p)",
+    "url": "https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8",
+    "logo": "https://i.imgur.com/R8EBxJj.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -68367,6 +68399,14 @@
     "group": "General",
     "source": "index"
   },
+  "Subbota.ru@SD": {
+    "id": "Subbota.ru@SD",
+    "name": "Subbota! (1080p)",
+    "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https",
+    "logo": "https://i.imgur.com/nsk8PpB.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "SubhartiTV.in@SD": {
     "id": "SubhartiTV.in@SD",
     "name": "Subharti TV (576p)",
@@ -68959,29 +68999,21 @@
     "group": "Series",
     "source": "index"
   },
-  "SuspilneKrym.ua@SD": {
-    "id": "SuspilneKrym.ua@SD",
-    "name": "Suspilne. Krym (1080p) [Geo-blocked]",
+  "SuspilneKrym.ua": {
+    "id": "SuspilneKrym.ua",
+    "name": "\u0421\u0443\u0441\u043f\u0456\u043b\u044c\u043d\u0435 \u041a\u0440\u0438\u043c",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
     "logo": "https://i.imgur.com/m7znCes.png",
-    "group": "General",
-    "source": "index"
+    "group": "Ukraine",
+    "source": "playlist8"
   },
-  "SuspilneKultura.ua@SD": {
-    "id": "SuspilneKultura.ua@SD",
-    "name": "Suspilne. Kultura (1080p) [Geo-blocked]",
+  "SuspilneKultura.ua": {
+    "id": "SuspilneKultura.ua",
+    "name": "Suspilne Kultura",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
-    "logo": "https://i.imgur.com/hHMJV8e.png",
-    "group": "Culture",
-    "source": "culture"
-  },
-  "SuspilneSport.ua@SD": {
-    "id": "SuspilneSport.ua@SD",
-    "name": "Suspilne. Sport (1080p) [Geo-blocked]",
-    "url": "https://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8",
-    "logo": "https://i.imgur.com/16IhU0M.png",
-    "group": "Sports",
-    "source": "sports"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png",
+    "group": "Ukraine",
+    "source": "playlist8"
   },
   "SusunTV.my@HD": {
     "id": "SusunTV.my@HD",
@@ -72285,6 +72317,14 @@
     "url": "https://live.tv-m.net/hls/stream.m3u8",
     "logo": "https://i.imgur.com/jT95ZEI.png",
     "group": "General",
+    "source": "index"
+  },
+  "Televsesvit.ua@SD": {
+    "id": "Televsesvit.ua@SD",
+    "name": "Televsesvit (1080p)",
+    "url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
+    "logo": "https://i.imgur.com/ygexoKO.png",
+    "group": "Undefined",
     "source": "index"
   },
   "TelewizjaBiznesowa.pl@SD": {
@@ -77411,9 +77451,9 @@
     "id": "TVGrandeNatal.br@SD",
     "name": "TV Grande Natal (1080p)",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
-    "logo": "https://i.imgur.com/MTuErdw.png",
-    "group": "Entertainment",
-    "source": "entertainment"
+    "logo": "",
+    "group": "Undefined",
+    "source": "index"
   },
   "TVGraoPara.br@SD": {
     "id": "TVGraoPara.br@SD",
@@ -82622,6 +82662,14 @@
     "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
     "group": "Music",
     "source": "music"
+  },
+  "vijuHistory.ru@SD": {
+    "id": "vijuHistory.ru@SD",
+    "name": "viju History (576p)",
+    "url": "http://tmptv.sunduk.tv/CH133/index.m3u8",
+    "logo": "https://i.imgur.com/FqWkeXb.png",
+    "group": "Documentary",
+    "source": "documentary"
   },
   "vijuTV1000russkoe.ru@SD": {
     "id": "vijuTV1000russkoe.ru@SD",
@@ -89188,14 +89236,6 @@
     "name": "\u0421\u0442\u0443\u0434\u0438\u044f \u0424\u0430\u043a\u0442",
     "url": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/y73pRGZ.png",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "Subbota.ru@SD": {
-    "id": "Subbota.ru@SD",
-    "name": "\u0421\u0443\u0431\u0431\u043e\u0442\u0430! (576p)",
-    "url": "http://31.148.48.15/Super/index.m3u8",
-    "logo": "https://i.imgur.com/nsk8PpB.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -102484,14 +102524,6 @@
     "group": "Ukraine",
     "source": "playlist8"
   },
-  "SuspilneKultura.ua": {
-    "id": "SuspilneKultura.ua",
-    "name": "Suspilne Kultura",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png",
-    "group": "Ukraine",
-    "source": "playlist8"
-  },
   "SuspilneSport.ua": {
     "id": "SuspilneSport.ua",
     "name": "Suspilne Sport",
@@ -102737,14 +102769,6 @@
     "name": "\u0421\u0443\u0441\u043f\u0456\u043b\u044c\u043d\u0435 \u041b\u0443\u0446\u044c\u043a",
     "url": "http://193.107.168.98:7006/play/508/index.m3u8",
     "logo": "https://i.imgur.com/QIin5nZ.png",
-    "group": "Ukraine",
-    "source": "playlist8"
-  },
-  "SuspilneKrym.ua": {
-    "id": "SuspilneKrym.ua",
-    "name": "\u0421\u0443\u0441\u043f\u0456\u043b\u044c\u043d\u0435 \u041a\u0440\u0438\u043c",
-    "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8",
-    "logo": "https://i.imgur.com/m7znCes.png",
     "group": "Ukraine",
     "source": "playlist8"
   },
