@@ -7423,6 +7423,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "AutoPlus.ru@SD": {
+    "id": "AutoPlus.ru@SD",
+    "name": "Auto Plus (576p)",
+    "url": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+    "logo": "https://i.imgur.com/sVc8cFt.png",
+    "group": "Auto",
+    "source": "auto"
+  },
   "likeGeckoChrome144000Safari53736grouptitleUndefinedAutoTV1080p": {
     "id": "likeGeckoChrome144000Safari53736grouptitleUndefinedAutoTV1080p",
     "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Auto TV (1080p)",
@@ -7705,8 +7713,8 @@
   },
   "AXNAsia.sg@Indonesia": {
     "id": "AXNAsia.sg@Indonesia",
-    "name": "AXN Asia Indonesia (1080p) [Geo-blocked]",
-    "url": "http://103.58.160.157:8278/720-AXN/playlist.m3u8",
+    "name": "AXN Asia Indonesia (720p)",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "group": "Movies;Series",
     "source": "movies"
@@ -36599,6 +36607,38 @@
     "group": "Movies",
     "source": "movies"
   },
+  "KinoHit.ru@SD": {
+    "id": "KinoHit.ru@SD",
+    "name": "KinoHit (576p)",
+    "url": "http://tmptv.sunduk.tv/CH57/index.m3u8",
+    "logo": "https://i.imgur.com/Ge8vkQM.png",
+    "group": "Movies",
+    "source": "movies"
+  },
+  "Kinokomedija.ru@SD": {
+    "id": "Kinokomedija.ru@SD",
+    "name": "Kinokomedija (576p)",
+    "url": "http://tmptv.sunduk.tv/CH47/index.m3u8",
+    "logo": "https://i.imgur.com/dVjtth0.png",
+    "group": "Comedy",
+    "source": "comedy"
+  },
+  "Kinosemja.ru@SD": {
+    "id": "Kinosemja.ru@SD",
+    "name": "Kinosemja (576p)",
+    "url": "http://tmptv.sunduk.tv/CH25/index.m3u8",
+    "logo": "https://i.imgur.com/4BF5VeK.png",
+    "group": "Movies",
+    "source": "movies"
+  },
+  "Kinosvidanie.ru@SD": {
+    "id": "Kinosvidanie.ru@SD",
+    "name": "Kinosvidanie (576p)",
+    "url": "http://tmptv.sunduk.tv/CH21/index.m3u8",
+    "logo": "https://i.imgur.com/ZRaWqxj.png",
+    "group": "Movies",
+    "source": "movies"
+  },
   "Kinoteatr.uz@SD": {
     "id": "Kinoteatr.uz@SD",
     "name": "Kinoteatr (1080p)",
@@ -61367,6 +61407,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "RodnoeKino.ru@SD": {
+    "id": "RodnoeKino.ru@SD",
+    "name": "Rodnoe Kino (576p)",
+    "url": "http://tmptv.sunduk.tv/CH23/index.m3u8",
+    "logo": "https://i.imgur.com/H70LxoZ.png",
+    "group": "Movies",
+    "source": "movies"
+  },
   "Rohi.pk@SD": {
     "id": "Rohi.pk@SD",
     "name": "Rohi (576p)",
@@ -68921,8 +68969,8 @@
   },
   "SuperDigitalTV.do@SD": {
     "id": "SuperDigitalTV.do@SD",
-    "name": "Super Digital TV (720p) [Not 24/7]",
-    "url": "https://inliveserver.com:1936/11516/11516/playlist.m3u8",
+    "name": "Super Digital TV (1080p) [Not 24/7]",
+    "url": "https://stream.inliveserver.com:19360/8006/8006.m3u8",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
     "group": "General",
     "source": "index"
@@ -87623,14 +87671,6 @@
     "group": "General",
     "source": "index"
   },
-  "AutoPlus.ru@SD": {
-    "id": "AutoPlus.ru@SD",
-    "name": "\u0410\u0432\u0442\u043e \u041f\u043b\u044e\u0441 (576p)",
-    "url": "http://31.148.48.15/Avto_Plus/index.m3u8",
-    "logo": "https://i.imgur.com/sVc8cFt.png",
-    "group": "Auto",
-    "source": "auto"
-  },
   "AISTTV.ru@SD": {
     "id": "AISTTV.ru@SD",
     "name": "\u0410\u0438\u0441\u0442 \u0422\u0412 (1080p)",
@@ -89038,14 +89078,6 @@
     "logo": "https://i.imgur.com/lf1r9L6.png",
     "group": "Undefined",
     "source": "index"
-  },
-  "RodnoeKino.ru@SD": {
-    "id": "RodnoeKino.ru@SD",
-    "name": "\u0420\u043e\u0434\u043d\u043e\u0435 \u041a\u0438\u043d\u043e (576p)",
-    "url": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
-    "logo": "https://i.imgur.com/H70LxoZ.png",
-    "group": "Movies",
-    "source": "movies"
   },
   "Russia1.ru@SD": {
     "id": "Russia1.ru@SD",
