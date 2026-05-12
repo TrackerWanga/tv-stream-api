@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T07:23:17.074675+00:00",
+  "updated": "2026-05-12T10:04:58.777598+00:00",
   "stats": {
     "total": 10,
     "live": 6,
@@ -14,27 +14,15 @@
       "http": 0,
       "error": "HTTPSConnectionPool(host='live-hls-web-aje.getaj.n"
     },
-    "France24Arabic.fr": {
-      "name": "France24Arabic.fr",
-      "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+    "BloombergEurope.us": {
+      "name": "BloombergEurope.us",
+      "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
       "status": "live",
       "http": 200
     },
-    "France24French.fr": {
-      "name": "France24French.fr",
-      "url": "https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
-      "status": "live",
-      "http": 200
-    },
-    "France24English.fr": {
-      "name": "France24English.fr",
-      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
-      "status": "live",
-      "http": 200
-    },
-    "France24Spanish.fr": {
-      "name": "France24Spanish.fr",
-      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+    "Bloomberg.us": {
+      "name": "Bloomberg.us",
+      "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
       "status": "live",
       "http": 200
     },
@@ -56,15 +44,27 @@
       "status": "geo_blocked",
       "http": 403
     },
-    "BloombergEurope.us": {
-      "name": "BloombergEurope.us",
-      "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+    "France24French.fr": {
+      "name": "France24French.fr",
+      "url": "https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     },
-    "Bloomberg.us": {
-      "name": "Bloomberg.us",
-      "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
+    "France24English.fr": {
+      "name": "France24English.fr",
+      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+      "status": "live",
+      "http": 200
+    },
+    "France24Arabic.fr": {
+      "name": "France24Arabic.fr",
+      "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
+      "status": "live",
+      "http": 200
+    },
+    "France24Spanish.fr": {
+      "name": "France24Spanish.fr",
+      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     }
