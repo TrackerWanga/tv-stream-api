@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T00:01:20.277718+00:00",
+  "updated": "2026-05-12T04:23:53.829057+00:00",
   "stats": {
     "total": 10,
     "live": 6,
@@ -7,18 +7,6 @@
     "dead": 2
   },
   "streams": {
-    "BBCNews.uk": {
-      "name": "BBCNews.uk",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news24/iptv_mse_v0_hevc.mpd",
-      "status": "geo_blocked",
-      "http": 403
-    },
-    "BBCOne.uk": {
-      "name": "BBCOne.uk",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
-      "status": "geo_blocked",
-      "http": 403
-    },
     "AlJazeera.qa": {
       "name": "AlJazeera.qa",
       "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
@@ -50,9 +38,9 @@
       "status": "live",
       "http": 200
     },
-    "France24Spanish.fr": {
-      "name": "France24Spanish.fr",
-      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+    "France24English.fr": {
+      "name": "France24English.fr",
+      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     },
@@ -62,9 +50,21 @@
       "status": "live",
       "http": 200
     },
-    "France24English.fr": {
-      "name": "France24English.fr",
-      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+    "BBCOne.uk": {
+      "name": "BBCOne.uk",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
+      "status": "geo_blocked",
+      "http": 403
+    },
+    "BBCNews.uk": {
+      "name": "BBCNews.uk",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news24/iptv_mse_v0_hevc.mpd",
+      "status": "geo_blocked",
+      "http": 403
+    },
+    "France24Spanish.fr": {
+      "name": "France24Spanish.fr",
+      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     }
