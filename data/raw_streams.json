@@ -1479,6 +1479,14 @@
     "group": "General",
     "source": "index"
   },
+  "Atreseries.es@SD": {
+    "id": "Atreseries.es@SD",
+    "name": "A3Series (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.4:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
+    "group": "Series",
+    "source": "index"
+  },
   "A7TV.ro@SD": {
     "id": "A7TV.ro@SD",
     "name": "A7TV (1080p)",
@@ -1553,8 +1561,8 @@
   },
   "APunt.es@SD": {
     "id": "APunt.es@SD",
-    "name": "A Punt",
-    "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
+    "name": "\u00c0 Punt (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.82.1:5000",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
     "group": "General;Public",
     "source": "index"
@@ -5903,6 +5911,14 @@
     "group": "General",
     "source": "index"
   },
+  "Antena3.es@National": {
+    "id": "Antena3.es@National",
+    "name": "Antena 3 (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.1:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
+    "group": "General",
+    "source": "index"
+  },
   "Antena3Internacional.es@SD": {
     "id": "Antena3Internacional.es@SD",
     "name": "Antena 3 Internacional (1080p)",
@@ -7983,6 +7999,14 @@
     "group": "Kids",
     "source": "kids"
   },
+  "BabyTV.uk@Spain": {
+    "id": "BabyTV.uk@Spain",
+    "name": "Baby TV Spain (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.86.1:5000",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "group": "Kids",
+    "source": "kids"
+  },
   "Babyfirst": {
     "id": "Babyfirst",
     "name": "Babyfirst",
@@ -9262,6 +9286,14 @@
     "logo": "https://i.imgur.com/ktasO33.png",
     "group": "News",
     "source": "news"
+  },
+  "BeMad.es@SD": {
+    "id": "BeMad.es@SD",
+    "name": "Be Mad (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.1:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BeMad_2022_Logo.svg/960px-BeMad_2022_Logo.svg.png",
+    "group": "Undefined",
+    "source": "index"
   },
   "BEATTV.nl@SD": {
     "id": "BEATTV.nl@SD",
@@ -10998,6 +11030,14 @@
     "logo": "https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png",
     "group": "General",
     "source": "index"
+  },
+  "BomCine.es@SD": {
+    "id": "BomCine.es@SD",
+    "name": "Bom Cine (1080p)",
+    "url": "http://92.176.119.180:2095/play/a17f",
+    "logo": "https://i.imgur.com/65OX8Gj.png",
+    "group": "Movies",
+    "source": "movies"
   },
   "bonappetit.us@SD": {
     "id": "bonappetit.us@SD",
@@ -13689,8 +13729,8 @@
   },
   "CanalExtremadura.es@SD": {
     "id": "CanalExtremadura.es@SD",
-    "name": "Canal Extremadura (576p) [Not 24/7]",
-    "url": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=",
+    "name": "Canal Extremadura (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.6:5000",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png",
     "group": "General;Public",
     "source": "index"
@@ -13989,6 +14029,14 @@
     "url": "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8",
     "logo": "https://i.imgur.com/LMoIpU2.jpg",
     "group": "General",
+    "source": "index"
+  },
+  "CanalSur.es@SD": {
+    "id": "CanalSur.es@SD",
+    "name": "Canal Sur (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.2:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/960px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png",
+    "group": "General;Public",
     "source": "index"
   },
   "CanalSurAndalucia.es@SD": {
@@ -17223,18 +17271,18 @@
     "group": "Undefined",
     "source": "index"
   },
-  "ClanInternacional.es@SD": {
-    "id": "ClanInternacional.es@SD",
-    "name": "Clan Internacional Americas (1080p) [Geo-blocked]",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+  "Clan.es@SD": {
+    "id": "Clan.es@SD",
+    "name": "Clan (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.80.3:5000",
     "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
     "group": "Kids;Public",
     "source": "kids"
   },
-  "Clan.es@SD": {
-    "id": "Clan.es@SD",
-    "name": "Clan TVE (1080p) [Geo-blocked]",
-    "url": "https://ztnr.rtve.es/ztnr/5466990.m3u8",
+  "ClanInternacional.es@SD": {
+    "id": "ClanInternacional.es@SD",
+    "name": "Clan Internacional Americas (1080p) [Geo-blocked]",
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
     "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
     "group": "Kids;Public",
     "source": "kids"
@@ -19446,6 +19494,14 @@
     "logo": "https://dtil.tmsimg.com/assets/s142754_ld_h15_aa.png?lock=720x540",
     "group": "News",
     "source": "news"
+  },
+  "Cuatro.es@SD": {
+    "id": "Cuatro.es@SD",
+    "name": "Cuatro (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.2:5000",
+    "logo": "https://i.imgur.com/NYLnABb.png",
+    "group": "General",
+    "source": "index"
   },
   "Cubavision.cu@SD": {
     "id": "Cubavision.cu@SD",
@@ -21694,6 +21750,14 @@
     "logo": "https://i.imgur.com/UUSAQET.png",
     "group": "Religious",
     "source": "religious"
+  },
+  "Divinity.es@SD": {
+    "id": "Divinity.es@SD",
+    "name": "Divinity (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.5:5000",
+    "logo": "https://i.imgur.com/o7fvEr6.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
   },
   "DivorceCourt720p": {
     "id": "DivorceCourt720p",
@@ -24151,6 +24215,14 @@
     "group": "General",
     "source": "index"
   },
+  "Energy.es@SD": {
+    "id": "Energy.es@SD",
+    "name": "Energy (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.84.4:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png",
+    "group": "Entertainment",
+    "source": "entertainment"
+  },
   "Energy.ir@SD": {
     "id": "Energy.ir@SD",
     "name": "Energy",
@@ -24479,14 +24551,6 @@
     "group": "Sports",
     "source": "sports"
   },
-  "ERTWorld.gr@SD": {
-    "id": "ERTWorld.gr@SD",
-    "name": "ERT World (1080p)",
-    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/960px-ChannelLogo-ERTWORLD1.png",
-    "group": "General",
-    "source": "index"
-  },
   "Ertis.kz@SD": {
     "id": "Ertis.kz@SD",
     "name": "Ertis (1080p) [Not 24/7]",
@@ -24641,8 +24705,8 @@
   },
   "Esport3.es@SD": {
     "id": "Esport3.es@SD",
-    "name": "Esport3 (1080p) [Geo-blocked]",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "name": "Esport3 (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.6:5000",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png",
     "group": "Public;Sports",
     "source": "sports"
@@ -24750,6 +24814,14 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png",
     "group": "Business",
     "source": "business"
+  },
+  "ETB1.es@SD": {
+    "id": "ETB1.es@SD",
+    "name": "ETB 1 (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.8:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png",
+    "group": "General;Public",
+    "source": "index"
   },
   "ETBBasque.es@SD": {
     "id": "ETBBasque.es@SD",
@@ -26030,6 +26102,14 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
+  },
+  "FactoriadeFiccion.es@SD": {
+    "id": "FactoriadeFiccion.es@SD",
+    "name": "FDF (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.7:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
+    "group": "Entertainment",
+    "source": "entertainment"
   },
   "FeViviente.gt@SD": {
     "id": "FeViviente.gt@SD",
@@ -31225,8 +31305,8 @@
   },
   "HITSMovies.sg@HD": {
     "id": "HITSMovies.sg@HD",
-    "name": "like Gecko) Chrome/109.0.0.0 Safari/537.36\" group-title=\"Movies\",HITS Movies HD (720p)",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd",
+    "name": "HITS Movies HD (720p)",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd",
     "logo": "https://i.imgur.com/kyE3vXf.png",
     "group": "Movies",
     "source": "movies"
@@ -35218,7 +35298,7 @@
   "JubiloTV.gt@SD": {
     "id": "JubiloTV.gt@SD",
     "name": "J\u00fabilo TV (720p)",
-    "url": "https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8",
+    "url": "http://173.249.60.54/hls/jubilotv.m3u8",
     "logo": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
     "group": "Religious",
     "source": "religious"
@@ -37863,6 +37943,14 @@
     "group": "General;Public",
     "source": "index"
   },
+  "La1.es@ComunitatValenciana": {
+    "id": "La1.es@ComunitatValenciana",
+    "name": "La 1 Comunitat Valenciana (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.80.1:5000",
+    "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+    "group": "General;Public",
+    "source": "index"
+  },
   "La2.es@SD": {
     "id": "La2.es@SD",
     "name": "La 2 (1080p)",
@@ -37916,6 +38004,22 @@
     "name": "LA7 HD (720p) [Geo-Blocked]",
     "url": "https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png",
+    "group": "General",
+    "source": "index"
+  },
+  "La7.es@SD": {
+    "id": "La7.es@SD",
+    "name": "La7 Murcia (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.5:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/960px-La_7_logo.svg.png",
+    "group": "General;Public",
+    "source": "index"
+  },
+  "La8Mediterraneo.es@SD": {
+    "id": "La8Mediterraneo.es@SD",
+    "name": "La 8 Mediterr\u00e1neo (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.91.2:5000",
+    "logo": "https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png",
     "group": "General",
     "source": "index"
   },
@@ -38142,6 +38246,14 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
+  },
+  "LaSexta.es@SD": {
+    "id": "LaSexta.es@SD",
+    "name": "La Sexta (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.4:5000",
+    "logo": "https://i.imgur.com/aKV5voq.png",
+    "group": "Entertainment",
+    "source": "entertainment"
   },
   "LaSultanadelEsteTV.do@SD": {
     "id": "LaSultanadelEsteTV.do@SD",
@@ -38465,8 +38577,8 @@
   },
   "LaOtra.es@SD": {
     "id": "LaOtra.es@SD",
-    "name": "LaOtra (720p)",
-    "url": "https://laotra-1-23-secure2.akamaized.net/master.m3u8",
+    "name": "LaOtra (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.4:5000",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/960px-La_Otra_logo_%282017%29.svg.png",
     "group": "General",
     "source": "index"
@@ -39076,6 +39188,14 @@
     "name": "Let's Make A Deal Classic (1080p)",
     "url": "https://d35koolwpjpqaf.cloudfront.net/playlist.m3u8",
     "logo": "",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "LevanteTV.es@SD": {
+    "id": "LevanteTV.es@SD",
+    "name": "Levante TV (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.7:5000",
+    "logo": "https://i.imgur.com/8Gtzgan.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -42494,6 +42614,14 @@
     "logo": "https://i.imgur.com/p4TXVkE.png",
     "group": "General",
     "source": "index"
+  },
+  "Mega.es@SD": {
+    "id": "Mega.es@SD",
+    "name": "Mega (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.84.5:5000",
+    "logo": "https://i.imgur.com/Udrt2eK.png",
+    "group": "Entertainment",
+    "source": "entertainment"
   },
   "MegaCineTV.do@HD": {
     "id": "MegaCineTV.do@HD",
@@ -47183,6 +47311,14 @@
     "group": "News",
     "source": "news"
   },
+  "Neox.es@SD": {
+    "id": "Neox.es@SD",
+    "name": "Neox (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.8:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+    "group": "Entertainment",
+    "source": "entertainment"
+  },
   "Nepal1.in@SD": {
     "id": "Nepal1.in@SD",
     "name": "Nepal 1 (396p)",
@@ -48774,6 +48910,14 @@
     "logo": "https://i.imgur.com/RC5Kw82.png",
     "group": "Religious",
     "source": "religious"
+  },
+  "Nova.es@SD": {
+    "id": "Nova.es@SD",
+    "name": "Nova (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.6:5000",
+    "logo": "https://i.imgur.com/Vx1F4o5.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
   },
   "Nova.rs@SD": {
     "id": "Nova.rs@SD",
@@ -59951,6 +60095,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "RealMadridTV.es@SD": {
+    "id": "RealMadridTV.es@SD",
+    "name": "Real Madrid TV (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.7:5000",
+    "logo": "https://i.imgur.com/5pMo7dL.png",
+    "group": "Sports",
+    "source": "sports"
+  },
   "RealNewsKerala.in@SD": {
     "id": "RealNewsKerala.in@SD",
     "name": "Real News Kerala (1080p) [Not 24/7]",
@@ -60014,14 +60166,6 @@
     "logo": "",
     "group": "Undefined",
     "source": "index"
-  },
-  "RealMadridTV.es@SD": {
-    "id": "RealMadridTV.es@SD",
-    "name": "Realmadrid TV (720p)",
-    "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
-    "logo": "https://i.imgur.com/5pMo7dL.png",
-    "group": "Sports",
-    "source": "sports"
   },
   "Record.br@SD": {
     "id": "Record.br@SD",
@@ -61548,6 +61692,14 @@
     "name": "Rossini TV (720p)",
     "url": "https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8",
     "logo": "https://i.imgur.com/wGKsAk3.png",
+    "group": "General",
+    "source": "index"
+  },
+  "Rossiya1Vainah.ru@SD": {
+    "id": "Rossiya1Vainah.ru@SD",
+    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)\" group-title=\"General\",Rossiya 1 Vainah (576i)",
+    "url": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "logo": "https://i.imgur.com/GnbNG0r.png",
     "group": "General",
     "source": "index"
   },
@@ -67543,6 +67695,22 @@
     "group": "Undefined",
     "source": "index"
   },
+  "Squirrel.es@SD": {
+    "id": "Squirrel.es@SD",
+    "name": "Squirrel (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.84.2:5000",
+    "logo": "https://i.imgur.com/9y8VcBr.png",
+    "group": "Movies;Series",
+    "source": "movies"
+  },
+  "Squirrel2.es@SD": {
+    "id": "Squirrel2.es@SD",
+    "name": "Squirrel Dos (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.84.3:5000",
+    "logo": "https://i.imgur.com/BDv4ubA.png",
+    "group": "Series",
+    "source": "index"
+  },
   "SRFernsehen.de@SD": {
     "id": "SRFernsehen.de@SD",
     "name": "SR Fernsehen (720p)",
@@ -71399,6 +71567,14 @@
     "group": "General",
     "source": "index"
   },
+  "Telecinco.es@SD": {
+    "id": "Telecinco.es@SD",
+    "name": "Telecinco (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.83.3:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/500px-Telecinco.svg.png",
+    "group": "General",
+    "source": "index"
+  },
   "Telecinco.ar@SD": {
     "id": "Telecinco.ar@SD",
     "name": "TeleCinco Trelew (240p)",
@@ -71465,8 +71641,8 @@
   },
   "Teledeporte.es@SD": {
     "id": "Teledeporte.es@SD",
-    "name": "Teledeporte (720p) [Geo-blocked]",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+    "name": "Teledeporte (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.80.9:5000",
     "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
     "group": "Sports",
     "source": "sports"
@@ -71665,8 +71841,8 @@
   },
   "Telemadrid.es@SD": {
     "id": "Telemadrid.es@SD",
-    "name": "Telemadrid (720p)",
-    "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+    "name": "Telemadrid (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.90.3:5000",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png",
     "group": "Undefined",
     "source": "index"
@@ -72772,6 +72948,14 @@
     "name": "Tempo TV (720p)",
     "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
     "logo": "https://i.imgur.com/tZpx32y.png",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "TEN.es@SD": {
+    "id": "TEN.es@SD",
+    "name": "TEN (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.85.2:5000",
+    "logo": "https://i.imgur.com/ZpaeqyN.png",
     "group": "Undefined",
     "source": "index"
   },
@@ -75655,6 +75839,14 @@
     "group": "General",
     "source": "index"
   },
+  "Trece.es@SD": {
+    "id": "Trece.es@SD",
+    "name": "Trece (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.84.7:5000",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
+    "group": "Religious",
+    "source": "religious"
+  },
   "Trece.py@SD": {
     "id": "Trece.py@SD",
     "name": "Trece (1080p)",
@@ -75662,14 +75854,6 @@
     "logo": "https://i.imgur.com/cgIv5QK.png",
     "group": "General",
     "source": "index"
-  },
-  "Trece.es@SD": {
-    "id": "Trece.es@SD",
-    "name": "Trece TV (576p)",
-    "url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
-    "group": "Religious",
-    "source": "religious"
   },
   "Trek.fr@HD": {
     "id": "Trek.fr@HD",
@@ -76662,6 +76846,14 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV5_TELUGU/images/LOGO_HD/image.png",
     "group": "News",
     "source": "news"
+  },
+  "TV5QuebecCanada.ca@SD": {
+    "id": "TV5QuebecCanada.ca@SD",
+    "name": "TV5 Quebec Canada (1080p)",
+    "url": "http://23.133.220.149/TV5/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png",
+    "group": "Undefined",
+    "source": "index"
   },
   "TV6.my@SD": {
     "id": "TV6.my@SD",
@@ -78310,6 +78502,14 @@
     "logo": "https://i.imgur.com/9f9VmvF.png",
     "group": "General",
     "source": "index"
+  },
+  "TVNatal.br@SD": {
+    "id": "TVNatal.br@SD",
+    "name": "TV Natal (1080p)",
+    "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
+    "logo": "https://i.imgur.com/wqQmQml.png",
+    "group": "Entertainment;General;News",
+    "source": "entertainment"
   },
   "TVNiksic.me@SD": {
     "id": "TVNiksic.me@SD",
@@ -82550,6 +82750,14 @@
     "logo": "https://i.imgur.com/XwmUbfp.png",
     "group": "Music",
     "source": "music"
+  },
+  "Veo7.es@SD": {
+    "id": "Veo7.es@SD",
+    "name": "Veo7 (1080p)",
+    "url": "http://45.95.78.232:8001/udp/239.106.91.3:5000",
+    "logo": "https://i.imgur.com/kklTIMm.png",
+    "group": "Movies;Series",
+    "source": "movies"
   },
   "VepacoTV.ve@SD": {
     "id": "VepacoTV.ve@SD",
