@@ -2387,7 +2387,7 @@
     "id": "ABNNews.pk@SD",
     "name": "ABN News (1080p)",
     "url": "http://115.42.65.142:9981/stream/channelid/966869781",
-    "logo": "https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png",
+    "logo": "",
     "group": "News",
     "source": "news"
   },
@@ -4363,7 +4363,7 @@
     "id": "AlhaqeqaAldawlia.jo@SD",
     "name": "Alhaqeqa Aldawlia (1080p) [Not 24/7]",
     "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png",
+    "logo": "",
     "group": "News",
     "source": "news"
   },
@@ -5521,7 +5521,7 @@
   },
   "AndoTV.cn@SD": {
     "id": "AndoTV.cn@SD",
-    "name": "Ando TV",
+    "name": "Ando TV (1080p)",
     "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
     "logo": "https://i.imgur.com/EpTsFVu.png",
     "group": "Religious",
@@ -6523,7 +6523,7 @@
     "id": "ArkoTV.ir@SD",
     "name": "Arko TV",
     "url": "https://arkhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/aa/arko-tv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -7483,7 +7483,7 @@
     "id": "AVAFamily.ir@SD",
     "name": "AVA Family",
     "url": "https://familyhls.avatv.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png",
+    "logo": "",
     "group": "Family",
     "source": "family"
   },
@@ -9403,7 +9403,7 @@
     "id": "BebetoTV.do@SD",
     "name": "Bebeto TV (1080p)",
     "url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -10355,7 +10355,7 @@
     "id": "Binge.us@SD",
     "name": "Binge",
     "url": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/bb/binge-us.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -15375,6 +15375,38 @@
     "group": "News",
     "source": "news"
   },
+  "CCTV1.cn@SD": {
+    "id": "CCTV1.cn@SD",
+    "name": "CCTV-1 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "group": "General",
+    "source": "index"
+  },
+  "CCTV2.cn@SD": {
+    "id": "CCTV2.cn@SD",
+    "name": "CCTV-2 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "logo": "https://i.imgur.com/ILamhwU.png",
+    "group": "Business",
+    "source": "business"
+  },
+  "CCTV3.cn@SD": {
+    "id": "CCTV3.cn@SD",
+    "name": "CCTV-3 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "logo": "https://i.imgur.com/iFlkIuw.png",
+    "group": "Entertainment",
+    "source": "entertainment"
+  },
+  "CCTV4.cn@SD": {
+    "id": "CCTV4.cn@SD",
+    "name": "CCTV-4 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "logo": "",
+    "group": "Undefined",
+    "source": "index"
+  },
   "CCTV4America.cn@SD": {
     "id": "CCTV4America.cn@SD",
     "name": "CCTV-4 America (1080p)",
@@ -15391,24 +15423,48 @@
     "group": "General",
     "source": "index"
   },
-  "CCTV4K.cn@SD": {
-    "id": "CCTV4K.cn@SD",
+  "CCTV4K.cn@HD": {
+    "id": "CCTV4K.cn@HD",
     "name": "CCTV-4K (1080p)",
     "url": "http://198.204.240.250:82/live/cctv4k.m3u8",
     "logo": "https://i.imgur.com/fxusYlX.png",
     "group": "General",
     "source": "index"
   },
+  "CCTV5.cn@SD": {
+    "id": "CCTV5.cn@SD",
+    "name": "CCTV-5 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv5hd.m3u8",
+    "logo": "https://i.imgur.com/nbmnGwE.png",
+    "group": "Sports",
+    "source": "sports"
+  },
   "CCTV5Plus.cn@SD": {
     "id": "CCTV5Plus.cn@SD",
-    "name": "CCTV-5+ (576i)",
-    "url": "http://69.30.246.194/live/cctv5p.m3u8",
+    "name": "CCTV-5+ (720p)",
+    "url": "http://192.151.150.154/live/cctv5p.m3u8",
     "logo": "https://i.imgur.com/OK8mdJV.png",
     "group": "Sports",
     "source": "sports"
   },
-  "CCTV8K.cn@SD": {
-    "id": "CCTV8K.cn@SD",
+  "CCTV7.cn@SD": {
+    "id": "CCTV7.cn@SD",
+    "name": "CCTV-7 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "logo": "https://i.imgur.com/CKcPMQC.png",
+    "group": "Education",
+    "source": "education"
+  },
+  "CCTV8.cn@SD": {
+    "id": "CCTV8.cn@SD",
+    "name": "CCTV-8 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "logo": "https://i.imgur.com/GyHaZ8X.png",
+    "group": "Culture",
+    "source": "culture"
+  },
+  "CCTV8K.cn@HD": {
+    "id": "CCTV8K.cn@HD",
     "name": "CCTV-8K (1080p)",
     "url": "http://198.204.240.250:82/live/cctv8k.m3u8",
     "logo": "https://i.imgur.com/fxVPMJF.png",
@@ -15425,11 +15481,27 @@
   },
   "CCTV10.cn@SD": {
     "id": "CCTV10.cn@SD",
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education\",CCTV-10 (576i)",
-    "url": "https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8",
+    "name": "CCTV-10 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
     "logo": "https://i.imgur.com/sSSO7UD.png",
     "group": "Education",
     "source": "education"
+  },
+  "CCTV11.cn@SD": {
+    "id": "CCTV11.cn@SD",
+    "name": "CCTV-11 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "logo": "https://i.imgur.com/CjOWx7L.png",
+    "group": "Music",
+    "source": "music"
+  },
+  "CCTV12.cn@SD": {
+    "id": "CCTV12.cn@SD",
+    "name": "CCTV-12 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "logo": "https://i.imgur.com/3yTuiOM.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
   },
   "CCTV13.cn@SD": {
     "id": "CCTV13.cn@SD",
@@ -15439,13 +15511,37 @@
     "group": "News",
     "source": "news"
   },
-  "CCTV16.cn@SD": {
-    "id": "CCTV16.cn@SD",
-    "name": "CCTV-16",
+  "CCTV14.cn@HD": {
+    "id": "CCTV14.cn@HD",
+    "name": "CCTV-14 (1080p)",
+    "url": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "logo": "https://i.imgur.com/c5SXW7i.png",
+    "group": "Kids",
+    "source": "kids"
+  },
+  "CCTV15.cn@SD": {
+    "id": "CCTV15.cn@SD",
+    "name": "CCTV-15 (720p)",
+    "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "logo": "https://i.imgur.com/CCV0eRG.png",
+    "group": "Music",
+    "source": "music"
+  },
+  "CCTV16.cn@HD": {
+    "id": "CCTV16.cn@HD",
+    "name": "CCTV-16 (1080p)",
     "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
     "logo": "https://i.imgur.com/ZzV6JQp.png",
     "group": "Sports",
     "source": "sports"
+  },
+  "CCTV17.cn@HD": {
+    "id": "CCTV17.cn@HD",
+    "name": "CCTV-17 (1080p)",
+    "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "logo": "https://i.imgur.com/jSQURxS.png",
+    "group": "Education;Outdoor",
+    "source": "education"
   },
   "CCV.in@SD": {
     "id": "CCV.in@SD",
@@ -16191,6 +16287,14 @@
     "group": "Culture;News",
     "source": "culture"
   },
+  "ChannelOne.ru@HD": {
+    "id": "ChannelOne.ru@HD",
+    "name": "Channel One HD",
+    "url": "http://tmptv.sunduk.tv/CH125/index.m3u8",
+    "logo": "https://i.imgur.com/RUSX0rX.png",
+    "group": "General",
+    "source": "index"
+  },
   "ChannelS.uk@SD": {
     "id": "ChannelS.uk@SD",
     "name": "Channel S (576p)",
@@ -16275,7 +16379,7 @@
     "id": "CharanaTV.lk@SD",
     "name": "Charana TV (360p)",
     "url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/cc/charana-tv-lk.png",
+    "logo": "",
     "group": "Education;Entertainment",
     "source": "education"
   },
@@ -16595,7 +16699,7 @@
     "id": "ChosenTVEnglish.ng@SD",
     "name": "Chosen TV English (360p)",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/cc/chosen-tv-ng.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -19779,7 +19883,7 @@
     "id": "DMusic.kh@SD",
     "name": "D Music (1280p) [Not 24/7]",
     "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/d-music-kh.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -19915,7 +20019,7 @@
     "id": "DamascusRadio.sy@SD",
     "name": "Damascus Radio (720p)",
     "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/radio/rr/radio-damascus-sy.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -20003,7 +20107,7 @@
     "id": "DanceTVDeepHouseDistrict.ee@SD",
     "name": "DanceTV Deep House District (1080p)",
     "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -20011,7 +20115,7 @@
     "id": "DanceTVEDMMainstage.ee@SD",
     "name": "DanceTV EDM Mainstage (1080p)",
     "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -20019,7 +20123,7 @@
     "id": "DanceTVHouseFloor.ee@SD",
     "name": "DanceTV House Floor (1080p)",
     "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -20027,7 +20131,7 @@
     "id": "DanceTVMinimalTech.ee@SD",
     "name": "DanceTV Minimal Tech (1080p)",
     "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -20035,7 +20139,7 @@
     "id": "DanceTVTechnoWarehouse.ee@SD",
     "name": "DanceTV Techno Warehouse (1080p)",
     "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -20795,7 +20899,7 @@
     "id": "DejTV.ir@HD",
     "name": "Dej TV",
     "url": "https://rdejhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dej-tv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -21195,7 +21299,7 @@
     "id": "DhamakaMoviesB4U.in@SD",
     "name": "Dhamaka Movies B4U (576p)",
     "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg",
     "group": "Movies",
     "source": "movies"
   },
@@ -22151,6 +22255,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "DomashnieZhivotnye.ru@SD": {
+    "id": "DomashnieZhivotnye.ru@SD",
+    "name": "Domashnie Zhivotnye",
+    "url": "http://tmptv.sunduk.tv/CH207/index.m3u8",
+    "logo": "https://i.imgur.com/ISJzQGP.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
+  },
   "DominanceFCTV": {
     "id": "DominanceFCTV",
     "name": "Dominance FC TV",
@@ -22851,7 +22963,7 @@
     "id": "DunyaTV.az@SD",
     "name": "Dunya TV",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -24526,6 +24638,14 @@
     "logo": "https://i.imgur.com/f2l9bDR.png",
     "group": "Entertainment",
     "source": "entertainment"
+  },
+  "ERTCosmos.gr@SD": {
+    "id": "ERTCosmos.gr@SD",
+    "name": "ERT Cosmos (1080p)",
+    "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png",
+    "group": "General",
+    "source": "index"
   },
   "ERTNews.gr@HD": {
     "id": "ERTNews.gr@HD",
@@ -27795,7 +27915,7 @@
     "id": "FX1.ir@SD",
     "name": "FX TV 1",
     "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-1.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -27803,7 +27923,7 @@
     "id": "FX2.ir@SD",
     "name": "FX TV 2",
     "url": "https://toonixhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -28499,7 +28619,7 @@
     "id": "GETtv.do@SD",
     "name": "GET tv (1080p) [Not 24/7]",
     "url": "https://cnn.livestreaminggroup.info:3050/live/gettv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/get-tv-do.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -28531,7 +28651,7 @@
     "id": "GHCanadaTV.ca@SD",
     "name": "GH Canada TV",
     "url": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/gh-canada-tv-ca.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -28675,7 +28795,7 @@
     "id": "GiovanniPaoloTV.it@SD",
     "name": "Giovanni Paolo TV (1080p)",
     "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -29163,7 +29283,7 @@
     "id": "Goldmines2.in@SD",
     "name": "Goldmines 2 (576p)",
     "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -29659,7 +29779,7 @@
     "id": "GrandCinema.tr@SD",
     "name": "Grand Cinema",
     "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -30003,7 +30123,7 @@
     "id": "GuinnessWorldRecords.us@SD",
     "name": "Guinness World Records (480i)",
     "url": "https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.m3u8?i=475_567",
-    "logo": "https://www.lyngsat.com/logo/tv/gg/guinness-world-records-us.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -30531,7 +30651,7 @@
     "id": "HarvestUSA.in@SD",
     "name": "Harvest USA (576p)",
     "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -30947,7 +31067,7 @@
     "id": "HiTV.lk@SD",
     "name": "Hi TV (576p)",
     "url": "https://mini.allinonereborn.fun/tata.php?id=11596",
-    "logo": "https://www.lyngsat.com/logo/tv/hh/hitv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -31499,7 +31619,7 @@
     "id": "HomePlus.ir@SD",
     "name": "Home Plus",
     "url": "https://homeplushls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/hh/homeplus.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -32467,7 +32587,7 @@
     "id": "ICCplus.us@SD",
     "name": "ICC Plus (1080p)",
     "url": "https://icchls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ii/iccplus-us.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -33255,6 +33375,14 @@
     "group": "Culture",
     "source": "culture"
   },
+  "IndiyskoyeKino.ru@SD": {
+    "id": "IndiyskoyeKino.ru@SD",
+    "name": "Indiyskoye Kino",
+    "url": "http://tmptv.sunduk.tv/CH107/index.m3u8",
+    "logo": "https://i.imgur.com/LL8GyCh.png",
+    "group": "Movies",
+    "source": "movies"
+  },
   "IndonesianaTV.id@SD": {
     "id": "IndonesianaTV.id@SD",
     "name": "Indonesiana.TV (720p)",
@@ -33755,7 +33883,7 @@
     "id": "IranNationalRevolutionTV.us@HD",
     "name": "Iran National Revolution TV",
     "url": "https://hls.irannrtv.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -34779,7 +34907,7 @@
     "id": "JewelryTV2.us@SD",
     "name": "Jewelry TV 2 (720p)",
     "url": "https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/jj/jewelry-tv-2-us.png",
+    "logo": "",
     "group": "Shop",
     "source": "shop"
   },
@@ -35827,7 +35955,7 @@
     "id": "Kanal32.tr@SD",
     "name": "Kanal 32 (720p) [Not 24/7]",
     "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -35955,7 +36083,7 @@
     "id": "StartTV.az@SD",
     "name": "Kanal S TV",
     "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ss/start-tv-az.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -36419,7 +36547,7 @@
     "id": "KhabarbinTV.ir@HD",
     "name": "Khabarbin TV",
     "url": "https://khbhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/kk/khabarbin-tv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -36435,7 +36563,7 @@
     "id": "KhalijTV.ir@HD",
     "name": "Khalij TV",
     "url": "https://khalijhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/kk/khalij-tv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -37803,7 +37931,7 @@
     "id": "KVFSjonvarp.fo@SD",
     "name": "KVF Sjonvarp",
     "url": "https://live.kringvarp.fo/uttanlands/720/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/kk/kvf-sjonvarp-fo.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -38539,7 +38667,7 @@
     "id": "LanthungTV.th@SD",
     "name": "Lanthung TV",
     "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -38939,7 +39067,7 @@
     "id": "LegislativeAssemblyofBritishColumbiaCommitteeA.ca@SD",
     "name": "Legislative Assembly of British Columbia Committee A",
     "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ll/legislative-assembly-of-british-columbia-ca.png",
+    "logo": "",
     "group": "Legislative",
     "source": "index"
   },
@@ -40571,7 +40699,7 @@
     "id": "LunaTV.it@SD",
     "name": "Luna TV",
     "url": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -41227,7 +41355,7 @@
     "id": "MalarTV.in@SD",
     "name": "Malar TV (720p) [Not 24/7]",
     "url": "https://cdn-3.pishow.tv/live/473/master.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -41435,7 +41563,7 @@
     "id": "ManoranjanPrime.in@SD",
     "name": "Manoranjan Prime",
     "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -41499,7 +41627,7 @@
     "id": "MariaVisionItalia.it@SD",
     "name": "Maria Vision (1080p)",
     "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-italia-mx-it.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -41675,7 +41803,7 @@
     "id": "MastersTV.ng@SD",
     "name": "Master's TV (720p)",
     "url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/masters-tv-ng.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -42507,7 +42635,7 @@
     "id": "MediaTV.th@SD",
     "name": "Media TV",
     "url": "http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/media-tv-th.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -42603,7 +42731,7 @@
     "id": "MedjugorjeItaliaTV.it@SD",
     "name": "Medjugorje Italia TV (480p)",
     "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/medjugorje_italia_tv_ba.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -42931,7 +43059,7 @@
     "id": "MetaFilmTV.ir@SD",
     "name": "Meta Film TV",
     "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -43115,7 +43243,7 @@
     "id": "MHOneMovies.in@SD",
     "name": "MH One Movies (576p)",
     "url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -47451,7 +47579,7 @@
     "id": "NewVisionTV.ng@SD",
     "name": "New Vision TV (360p)",
     "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/nn/new-vision-tv-ng.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -47867,7 +47995,7 @@
     "id": "Newsmax2.us@SD",
     "name": "Newsmax 2 (1080p)",
     "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/nn/newsmax-2-us-ug.png",
+    "logo": "",
     "group": "News",
     "source": "news"
   },
@@ -48303,6 +48431,14 @@
     "group": "Animation;Kids",
     "source": "animation"
   },
+  "NickOnline.br@SD": {
+    "id": "NickOnline.br@SD",
+    "name": "NickOnline SD (320p) [Not 24/7]",
+    "url": "https://sdnew.x1co.com.br/hls/stream.m3u8",
+    "logo": "https://x1co.com.br:8443/logo.png",
+    "group": "Animation;Kids",
+    "source": "animation"
+  },
   "NickOnlineSpongebob.br@HD": {
     "id": "NickOnlineSpongebob.br@HD",
     "name": "NickOnline Spongebob (1080p) [Not 24/7]",
@@ -48403,7 +48539,7 @@
     "id": "Nigbati.ng@SD",
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Culture\",Nigbati TV (1080p)",
     "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO",
-    "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
+    "logo": "",
     "group": "Culture",
     "source": "culture"
   },
@@ -48795,7 +48931,7 @@
     "id": "Noticias16.do@SD",
     "name": "Noticias 16 (720p) [Not 24/7]",
     "url": "https://edge.essastream.com/noticias16/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
+    "logo": "",
     "group": "News",
     "source": "news"
   },
@@ -49230,6 +49366,14 @@
     "logo": "https://i.imgur.com/6k9LYOw.png",
     "group": "Entertainment",
     "source": "entertainment"
+  },
+  "NST.ru@SD": {
+    "id": "NST.ru@SD",
+    "name": "NST",
+    "url": "http://tmptv.sunduk.tv/CH157/index.m3u8",
+    "logo": "https://i.imgur.com/uv2yxa5.png",
+    "group": "Undefined",
+    "source": "index"
   },
   "NSTV.co@SD": {
     "id": "NSTV.co@SD",
@@ -50507,7 +50651,7 @@
     "id": "OnTV.in@SD",
     "name": "On TV (576p)",
     "url": "https://mumt03.tangotv.in/ONTV/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/oo/on-tv-in.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -52419,7 +52563,7 @@
     "id": "PersianaDocs.fr@HD",
     "name": "Persiana Docs",
     "url": "https://scihls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png",
+    "logo": "",
     "group": "Documentary",
     "source": "documentary"
   },
@@ -52435,7 +52579,7 @@
     "id": "PersianaFight.fr@HD",
     "name": "Persiana Fight",
     "url": "https://fighthls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png",
+    "logo": "",
     "group": "Sports",
     "source": "sports"
   },
@@ -52443,7 +52587,7 @@
     "id": "PersianaFolk.fr@HD",
     "name": "Persiana Folk",
     "url": "https://sonhls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -52475,7 +52619,7 @@
     "id": "PersianaLatino.fr@SD",
     "name": "Persiana Latino",
     "url": "https://latinohls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png",
+    "logo": "",
     "group": "Movies",
     "source": "movies"
   },
@@ -52483,7 +52627,7 @@
     "id": "PersianaMedical.fr@SD",
     "name": "Persiana Medical",
     "url": "https://phd2hls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
+    "logo": "",
     "group": "Education",
     "source": "education"
   },
@@ -52515,7 +52659,7 @@
     "id": "PersianaReality.fr@HD",
     "name": "Persiana Reality",
     "url": "https://twohls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -52523,7 +52667,7 @@
     "id": "PersianaSeries.fr@HD",
     "name": "Persiana Series",
     "url": "https://onehls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png",
+    "logo": "",
     "group": "Series",
     "source": "index"
   },
@@ -52531,7 +52675,7 @@
     "id": "PersianaTeen.fr@SD",
     "name": "Persiana Teen",
     "url": "https://kphls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-teen-fr.png",
+    "logo": "",
     "group": "Kids",
     "source": "kids"
   },
@@ -52539,7 +52683,7 @@
     "id": "PersianaTravel.fr@SD",
     "name": "Persiana Travel",
     "url": "https://ptravelhls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-travel-fr.png",
+    "logo": "",
     "group": "Documentary",
     "source": "documentary"
   },
@@ -52547,7 +52691,7 @@
     "id": "PersianaTurkiye.fr@SD",
     "name": "Persiana Turkiye",
     "url": "https://turkhls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -52555,7 +52699,7 @@
     "id": "PersianaVibe.fr@HD",
     "name": "Persiana Vibe",
     "url": "https://raphls.persiana.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -55803,7 +55947,7 @@
     "id": "PMCRoyale.ae@SD",
     "name": "PMC Royale (1080p)",
     "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
+    "logo": "",
     "group": "Music",
     "source": "music"
   },
@@ -58131,7 +58275,7 @@
     "id": "RadioCapitalTiVu.it@HD",
     "name": "Radio Capital TiVu (720p)",
     "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/rr/radio-capital-tivu-it.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg",
     "group": "Music;News",
     "source": "music"
   },
@@ -60687,6 +60831,14 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
+  "RENTV.ru@HD": {
+    "id": "RENTV.ru@HD",
+    "name": "REN TV HD",
+    "url": "http://tmptv.sunduk.tv/CH189/index.m3u8",
+    "logo": "https://i.imgur.com/0Tu5lte.png",
+    "group": "General",
+    "source": "index"
+  },
   "Renegade": {
     "id": "Renegade",
     "name": "Renegade",
@@ -60909,6 +61061,14 @@
     "url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png",
     "group": "Undefined",
+    "source": "index"
+  },
+  "Retro.ru@SD": {
+    "id": "Retro.ru@SD",
+    "name": "Retro",
+    "url": "http://tmptv.sunduk.tv/CH149/index.m3u8",
+    "logo": "https://i.imgur.com/p21co1w.png",
+    "group": "Classic",
     "source": "index"
   },
   "RetroMusicTV.cz@SD": {
@@ -63691,7 +63851,7 @@
     "id": "SairamTV.in@SD",
     "name": "Sairam TV (576p)",
     "url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -64931,7 +65091,7 @@
     "id": "SenderNeuJerusalem.de@SD",
     "name": "Sender Neu Jerusalem (576p)",
     "url": "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/nn/new-jerusalem-de.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -65131,7 +65291,7 @@
     "id": "SetarehTV.uk@HD",
     "name": "Setareh TV",
     "url": "https://setarehhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ss/setareh-tv-uk.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -68307,7 +68467,7 @@
     "id": "StimmungsgartenTV.at@SD",
     "name": "Stimmungsgarten TV",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/ss/stimmungsgarten-tv-de.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -70079,6 +70239,14 @@
     "group": "General",
     "source": "index"
   },
+  "T24.ru@SD": {
+    "id": "T24.ru@SD",
+    "name": "T24",
+    "url": "http://tmptv.sunduk.tv/CH173/index.m3u8",
+    "logo": "https://i.imgur.com/1W6R14o.png",
+    "group": "Undefined",
+    "source": "index"
+  },
   "TNews.in@SD": {
     "id": "TNews.in@SD",
     "name": "T News (720p)",
@@ -71171,7 +71339,7 @@
     "id": "TeleOne16.it@SD",
     "name": "Tele One 16",
     "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tele-one-16-it.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -73235,7 +73403,7 @@
     "id": "Thaiban83.th@SD",
     "name": "Thaiban 83 (576p)",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/thaiban-83.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -74755,7 +74923,7 @@
     "id": "TLNMediaChicago.us@SD",
     "name": "TLN Media Chicago (720p)",
     "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tln-media-us.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -74763,7 +74931,7 @@
     "id": "TLNMediaSanFrancisco.us@SD",
     "name": "TLN Media San Francisco (720p)",
     "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tln-media-us.png",
+    "logo": "",
     "group": "Religious",
     "source": "religious"
   },
@@ -77579,7 +77747,7 @@
     "id": "TVCanalSur.do@SD",
     "name": "TV Canal Sur (1080p)",
     "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png",
+    "logo": "",
     "group": "Entertainment",
     "source": "entertainment"
   },
@@ -77923,7 +78091,7 @@
     "id": "TVEncontrodasAguas.br@SD",
     "name": "TV Encontro das Aguas",
     "url": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -81603,7 +81771,7 @@
     "id": "UNews.lb@SD",
     "name": "UNews",
     "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/uu/unews-lb.png",
+    "logo": "",
     "group": "News",
     "source": "news"
   },
@@ -83694,6 +83862,14 @@
     "logo": "https://i.imgur.com/PYvSZMb.png",
     "group": "Undefined",
     "source": "index"
+  },
+  "VoprosyiOtvety.ru@SD": {
+    "id": "VoprosyiOtvety.ru@SD",
+    "name": "Voprosy i Otvety",
+    "url": "http://tmptv.sunduk.tv/CH211/index.m3u8",
+    "logo": "https://i.imgur.com/yjETxk1.png",
+    "group": "Entertainment",
+    "source": "entertainment"
   },
   "VosTV.ni@SD": {
     "id": "VosTV.ni@SD",
@@ -87019,7 +87195,7 @@
     "id": "ZarinTV.us@SD",
     "name": "Zarin TV (1080p)",
     "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/zz/zarin_tv.png",
+    "logo": "",
     "group": "General",
     "source": "index"
   },
@@ -87131,7 +87307,7 @@
     "id": "ZedTV.ir@HD",
     "name": "Zed TV",
     "url": "https://zedhls.wns.live/hls/stream.m3u8",
-    "logo": "https://www.lyngsat.com/logo/tv/zz/zed-tv.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
