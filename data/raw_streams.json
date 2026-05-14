@@ -21567,6 +21567,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "DIJIT.us@HD": {
+    "id": "DIJIT.us@HD",
+    "name": "DIJIT (720p)",
+    "url": "https://haus.webchnl.com/memfs/c66b8546-3981-4bcd-ba1c-ab19c86c77b1.m3u8",
+    "logo": "https://static.wikitide.net/indietvwiki/2/26/Dijit_Logo.png",
+    "group": "Entertainment",
+    "source": "entertainment"
+  },
   "DijlahTV.iq@SD": {
     "id": "DijlahTV.iq@SD",
     "name": "Dijlah TV (1080p)",
@@ -21809,8 +21817,8 @@
   },
   "DisneyXD.us@East": {
     "id": "DisneyXD.us@East",
-    "name": "Disney XD East (720p) [Not 24/7]",
-    "url": "https://tvpass.org/live/DisneyXDEast/hd",
+    "name": "Disney XD (720p)",
+    "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "group": "Kids",
     "source": "kids"
@@ -48431,6 +48439,14 @@
     "group": "Animation;Kids",
     "source": "animation"
   },
+  "NickOnlineMusic.br@HD": {
+    "id": "NickOnlineMusic.br@HD",
+    "name": "NickOnline Music (720p) [Not 24/7]",
+    "url": "https://two.x1co.com.br/hls/stream.m3u8",
+    "logo": "https://x1co.com.br/musiclogo.png",
+    "group": "Music",
+    "source": "music"
+  },
   "NickOnline.br@SD": {
     "id": "NickOnline.br@SD",
     "name": "NickOnline SD (320p) [Not 24/7]",
@@ -56142,14 +56158,6 @@
     "logo": "https://i.imgur.com/xff6zGN.png",
     "group": "General",
     "source": "index"
-  },
-  "PolsatFilm.pl@SD": {
-    "id": "PolsatFilm.pl@SD",
-    "name": "Polsat Film (1080p) [Not 24/7]",
-    "url": "http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8",
-    "logo": "https://i.imgur.com/wGH6shZ.png",
-    "group": "Movies",
-    "source": "movies"
   },
   "PolsatNews.pl@SD": {
     "id": "PolsatNews.pl@SD",
