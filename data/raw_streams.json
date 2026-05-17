@@ -1393,8 +1393,8 @@
   },
   "AndxplorHD.in@HD": {
     "id": "AndxplorHD.in@HD",
-    "name": "&xplor HD (720p)",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11619",
+    "name": "&xplor HD (1080p)",
+    "url": "http://149.71.34.166:8000/play/a001/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
     "group": "Movies",
     "source": "movies"
@@ -4100,6 +4100,14 @@
     "name": "Al-Zahra TV Turkic (720p) [Not 24/7]",
     "url": "https://live.al-zahratv.com/live/playlist.m3u8",
     "logo": "https://i.imgur.com/QEHKGnG.png",
+    "group": "Religious",
+    "source": "religious"
+  },
+  "AlabbassiaTV.iq@HD": {
+    "id": "AlabbassiaTV.iq@HD",
+    "name": "Alabbassia TV (1080p)",
+    "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png",
     "group": "Religious",
     "source": "religious"
   },
@@ -8643,6 +8651,14 @@
     "id": "BBCNews.uk@Europe",
     "name": "BBC News Europe (1080p)",
     "url": "http://103.213.31.109:90/BBCNewsHD/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "group": "News",
+    "source": "news"
+  },
+  "BBCNews.uk@NorthAmerica": {
+    "id": "BBCNews.uk@NorthAmerica",
+    "name": "BBC News North America (1080p)",
+    "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "group": "News",
     "source": "news"
@@ -18063,18 +18079,10 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
-  "ColorsInfinity.in@SD": {
-    "id": "ColorsInfinity.in@SD",
-    "name": "Colors Infinity (576p)",
-    "url": "http://103.72.101.252:8080/live/1325.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-    "group": "Entertainment",
-    "source": "entertainment"
-  },
   "ColorsInfinity.in@HD": {
     "id": "ColorsInfinity.in@HD",
     "name": "Colors Infinity HD (1080p)",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
     "group": "Entertainment",
     "source": "entertainment"
@@ -21730,7 +21738,7 @@
   "DisneyInternationalHD.in@SD": {
     "id": "DisneyInternationalHD.in@SD",
     "name": "Disney International HD (1080p)",
-    "url": "http://116.90.120.151:8000/play/a0hp/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
     "group": "Kids",
     "source": "kids"
@@ -29991,6 +29999,14 @@
     "group": "General",
     "source": "index"
   },
+  "GTV.ph@SD": {
+    "id": "GTV.ph@SD",
+    "name": "GTV (1080p)",
+    "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "group": "News",
+    "source": "news"
+  },
   "GTV.si@SD": {
     "id": "GTV.si@SD",
     "name": "GTV (360p) [Not 24/7]",
@@ -32282,7 +32298,7 @@
   "HungamaTV.in@SD": {
     "id": "HungamaTV.in@SD",
     "name": "Hungama TV (576p)",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11647",
+    "url": "http://149.71.34.166:8000/play/a075/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
     "group": "Kids",
     "source": "kids"
@@ -46593,8 +46609,8 @@
   },
   "NationalGeographic.in@HD": {
     "id": "NationalGeographic.in@HD",
-    "name": "National Geographic HD (1080p)",
-    "url": "http://103.157.248.140:8000/play/a012/index.m3u8",
+    "name": "National Geographic HD (576p)",
+    "url": "http://149.71.34.166:8002/play/a013/index.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
     "group": "Documentary",
     "source": "documentary"
@@ -46634,7 +46650,7 @@
   "NationalGeographicWild.in@HD": {
     "id": "NationalGeographicWild.in@HD",
     "name": "National Geographic Wild HD (1080p)",
-    "url": "http://103.157.248.140:8000/play/a010/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a012/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
     "group": "Documentary",
     "source": "documentary"
@@ -48794,7 +48810,7 @@
   "NortenaTv.ve@HD": {
     "id": "NortenaTv.ve@HD",
     "name": "Norte\u00f1a TV",
-    "url": "https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
     "group": "Entertainment",
     "source": "entertainment"
@@ -58969,8 +58985,8 @@
   },
   "Rai1.it@HD": {
     "id": "Rai1.it@HD",
-    "name": "Rai 1 HD (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
+    "name": "Rai 1 HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/Rai1/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
     "group": "Undefined",
     "source": "index"
@@ -58985,16 +59001,16 @@
   },
   "Rai2.it@HD": {
     "id": "Rai2.it@HD",
-    "name": "Rai 2 HD (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+    "name": "Rai 2 HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/Rai2/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
     "group": "Undefined",
     "source": "index"
   },
   "Rai3.it@HD": {
     "id": "Rai3.it@HD",
-    "name": "Rai 3 (720p)",
-    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "name": "Rai 3 (1080p)",
+    "url": "https://srv1.adriatelekom.com/Rai3/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "group": "Undefined",
     "source": "index"
@@ -59025,8 +59041,8 @@
   },
   "RaiGulp.it@HD": {
     "id": "RaiGulp.it@HD",
-    "name": "Rai Gulp HD (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd",
+    "name": "Rai Gulp HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/RaiGulp/index.m3u8",
     "logo": "https://i.imgur.com/irAhPJM.png",
     "group": "Undefined",
     "source": "index"
@@ -59073,8 +59089,8 @@
   },
   "RaiScuola.it@HD": {
     "id": "RaiScuola.it@HD",
-    "name": "Rai Scuola HD (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd",
+    "name": "Rai Scuola HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/RaiScuola/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/960px-Rai_Scuola_-_Logo_2017.svg.png",
     "group": "Education",
     "source": "education"
@@ -59089,8 +59105,8 @@
   },
   "RaiSport.it@HD": {
     "id": "RaiSport.it@HD",
-    "name": "Rai Sport HD (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+    "name": "Rai Sport HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/RaiSport/index.m3u8",
     "logo": "https://i.imgur.com/6PEevOM.png",
     "group": "Sports",
     "source": "sports"
@@ -59105,8 +59121,8 @@
   },
   "RaiStoria.it@HD": {
     "id": "RaiStoria.it@HD",
-    "name": "Rai Storia HD (1080p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd",
+    "name": "Rai Storia HD (1080p)",
+    "url": "https://srv1.adriatelekom.com/RaiStoria/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png",
     "group": "Undefined",
     "source": "index"
@@ -67791,6 +67807,22 @@
     "group": "Undefined",
     "source": "index"
   },
+  "SPOTV.id@SD": {
+    "id": "SPOTV.id@SD",
+    "name": "SPOTV (720p)",
+    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8",
+    "logo": "https://i.imgur.com/HaoVsm5.png",
+    "group": "Sports",
+    "source": "sports"
+  },
+  "SPOTV2.id@SD": {
+    "id": "SPOTV2.id@SD",
+    "name": "SPOTV 2 (1080p)",
+    "url": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8",
+    "logo": "https://i.imgur.com/YD8fbTH.png",
+    "group": "Sports",
+    "source": "sports"
+  },
   "SQCSCanal4.mx@SD": {
     "id": "SQCSCanal4.mx@SD",
     "name": "SQCS Canal 4 (1080p)",
@@ -68279,10 +68311,18 @@
     "group": "General",
     "source": "index"
   },
+  "StarUtsav.in@SD": {
+    "id": "StarUtsav.in@SD",
+    "name": "Star Utsav (576p)",
+    "url": "http://149.71.34.166:8000/play/a04y/index.m3u8",
+    "logo": "https://i.imgur.com/H1jhHDl.png",
+    "group": "Entertainment",
+    "source": "entertainment"
+  },
   "StarUtsavMovies.in@SD": {
     "id": "StarUtsavMovies.in@SD",
     "name": "Star Utsav Movies (576p)",
-    "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
+    "url": "http://149.71.34.166:8000/play/a059/index.m3u8",
     "logo": "https://i.imgur.com/k5QHfH2.png",
     "group": "Movies",
     "source": "movies"
@@ -83399,6 +83439,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "VijaySuper.in@HD": {
+    "id": "VijaySuper.in@HD",
+    "name": "Vijay Super HD (1080p)",
+    "url": "http://149.71.34.166:8000/play/a06c/index.m3u8",
+    "logo": "https://i.imgur.com/3MWm9nD.png",
+    "group": "Movies",
+    "source": "movies"
+  },
   "VijayTakkar.in@APAC": {
     "id": "VijayTakkar.in@APAC",
     "name": "Vijay Takkar APAC (1080p)",
@@ -87639,6 +87687,14 @@
     "group": "News",
     "source": "news"
   },
+  "ZeeThirai.in@HD": {
+    "id": "ZeeThirai.in@HD",
+    "name": "Zee Thirai HD (1080p)",
+    "url": "http://149.71.34.166:8000/play/a06d/index.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
+    "group": "Movies",
+    "source": "movies"
+  },
   "ZeeTVCanada.ca@SD": {
     "id": "ZeeTVCanada.ca@SD",
     "name": "Zee TV Canada (1080p)",
@@ -87690,8 +87746,8 @@
   "zenith.fr@HD": {
     "id": "zenith.fr@HD",
     "name": "zenith (1080p)",
-    "url": "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8",
-    "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
+    "url": "https://live.azenagroup.com/zenith/index.ll.m3u8",
+    "logo": "https://znth.tv/images/logo.png",
     "group": "Culture;General",
     "source": "culture"
   },
