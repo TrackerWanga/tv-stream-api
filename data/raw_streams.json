@@ -7954,7 +7954,7 @@
   "BabAlHara.sa@SD": {
     "id": "BabAlHara.sa@SD",
     "name": "Bab Al Hara (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "group": "Series",
     "source": "index"
@@ -8012,6 +8012,14 @@
     "name": "Babyfirst",
     "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
     "logo": "https://i.imgur.com/WxLHBwu.png",
+    "group": "Kids",
+    "source": "kids"
+  },
+  "BabyTV.uk@Spain": {
+    "id": "BabyTV.uk@Spain",
+    "name": "BabyTV Spain (1080p)",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
     "group": "Kids",
     "source": "kids"
   },
@@ -41594,7 +41602,7 @@
   "Maraya.sa@HD": {
     "id": "Maraya.sa@HD",
     "name": "Maraya (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
     "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
     "group": "Series",
     "source": "index"
@@ -44722,7 +44730,7 @@
   "MoviesAction.sa@SD": {
     "id": "MoviesAction.sa@SD",
     "name": "Movies Action (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
     "logo": "https://i.imgur.com/NIVhISa.png",
     "group": "Movies",
     "source": "movies"
@@ -48262,6 +48270,14 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
     "group": "Animation;Kids",
     "source": "animation"
+  },
+  "Nickelodeon.es@SD": {
+    "id": "Nickelodeon.es@SD",
+    "name": "Nickelodeon (1080p)",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "group": "Kids",
+    "source": "kids"
   },
   "Nickelodeon.fr@SD": {
     "id": "Nickelodeon.fr@SD",
@@ -62013,14 +62029,6 @@
     "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
     "logo": "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
     "group": "Undefined",
-    "source": "index"
-  },
-  "RoyaTV.jo@SD": {
-    "id": "RoyaTV.jo@SD",
-    "name": "Roya TV (1080p) [Not 24/7]",
-    "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
-    "logo": "https://i.imgur.com/WX80rty.png",
-    "group": "General",
     "source": "index"
   },
   "RoyalTimeTelevision.us@SD": {
