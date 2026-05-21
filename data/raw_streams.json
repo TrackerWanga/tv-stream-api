@@ -30553,8 +30553,8 @@
   },
   "HCH.hn@SD": {
     "id": "HCH.hn@SD",
-    "name": "HCH",
-    "url": "https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8",
+    "name": "HCH (720p)",
+    "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
     "logo": "https://i.imgur.com/2CB5ezq.png",
     "group": "News",
     "source": "news"
@@ -37442,7 +37442,7 @@
   "Kurdsat.iq@SD": {
     "id": "Kurdsat.iq@SD",
     "name": "Kurdsat (1080p)",
-    "url": "https://iko-live.akamaized.net/KurdsatTV/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
     "logo": "https://i.imgur.com/UAbSwYA.png",
     "group": "Entertainment",
     "source": "entertainment"
@@ -41846,14 +41846,6 @@
     "logo": "https://i.imgur.com/3C57SwN.png",
     "group": "General",
     "source": "index"
-  },
-  "MBCLoud.sa@SD": {
-    "id": "MBCLoud.sa@SD",
-    "name": "MBC Loud (1080p)",
-    "url": "https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8",
-    "logo": "https://i.imgur.com/mptwwLs.png",
-    "group": "Music",
-    "source": "music"
   },
   "MBCMasr.eg@SD": {
     "id": "MBCMasr.eg@SD",
@@ -61625,8 +61617,8 @@
   },
   "RSVHonduras.hn@SD": {
     "id": "RSVHonduras.hn@SD",
-    "name": "RSV Honduras",
-    "url": "https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8",
+    "name": "RSV Honduras (720p)",
+    "url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
     "logo": "https://i.imgur.com/yr7Ellh.jpg",
     "group": "Entertainment",
     "source": "entertainment"
@@ -73975,14 +73967,6 @@
     "group": "Sports",
     "source": "sports"
   },
-  "Thmanyah2.sa@SD": {
-    "id": "Thmanyah2.sa@SD",
-    "name": "Thmanyah 2 (1080p)",
-    "url": "https://dflive.app.tc/60.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-    "group": "Sports",
-    "source": "sports"
-  },
   "Thmanyah3.sa@SD": {
     "id": "Thmanyah3.sa@SD",
     "name": "Thmanyah 3 (1080p)",
@@ -84727,6 +84711,30 @@
     "group": "Undefined",
     "source": "index"
   },
+  "Whiplash.us@HD": {
+    "id": "Whiplash.us@HD",
+    "name": "Whiplash (720p)",
+    "url": "https://cdn.whiplash.cc/whiplash/index.m3u8",
+    "logo": "https://whiplash.cc/assets/img/channels/whiplash.png",
+    "group": "General",
+    "source": "index"
+  },
+  "WhiplashCinema.us@SD": {
+    "id": "WhiplashCinema.us@SD",
+    "name": "Whiplash Cinema (480p)",
+    "url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
+    "logo": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
+    "group": "Movies",
+    "source": "movies"
+  },
+  "WhiplashII.us@SD": {
+    "id": "WhiplashII.us@SD",
+    "name": "Whiplash II (480p)",
+    "url": "https://cdn.whiplash.cc/whiplash-2/index.m3u8",
+    "logo": "https://whiplash.cc/assets/img/channels/whiplash2.png",
+    "group": "General",
+    "source": "index"
+  },
   "WhiteChannel.th@SD": {
     "id": "WhiteChannel.th@SD",
     "name": "White Channel (1080p)",
@@ -84966,6 +84974,14 @@
     "logo": "https://i.imgur.com/0UN87vB.png",
     "group": "Sports",
     "source": "sports"
+  },
+  "WindowTV.us@SD": {
+    "id": "WindowTV.us@SD",
+    "name": "Window TV (720p)",
+    "url": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8",
+    "logo": "https://whiplash.cc/assets/img/channels/windowtv.png",
+    "group": "Undefined",
+    "source": "index"
   },
   "WineWatchesWhiskey.us@HD": {
     "id": "WineWatchesWhiskey.us@HD",
