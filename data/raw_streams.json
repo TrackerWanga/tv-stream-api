@@ -7799,14 +7799,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "AztecaHonduras.hn@SD": {
-    "id": "AztecaHonduras.hn@SD",
-    "name": "Azteca Honduras (720p)",
-    "url": "https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8",
-    "logo": "https://i.imgur.com/sxFh1dw.png",
-    "group": "General",
-    "source": "index"
-  },
   "AztecaInternacional720p": {
     "id": "AztecaInternacional720p",
     "name": "Azteca Internacional (720p)",
@@ -8253,6 +8245,14 @@
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8",
     "logo": "",
     "group": "Undefined",
+    "source": "index"
+  },
+  "BaniVision.do@HD": {
+    "id": "BaniVision.do@HD",
+    "name": "Bani Vision (720p) [Not 24/7]",
+    "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+    "logo": "https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png",
+    "group": "General",
     "source": "index"
   },
   "MrBeanAnimated.uk@FR": {
@@ -15465,8 +15465,8 @@
   },
   "CCTV15.cn@SD": {
     "id": "CCTV15.cn@SD",
-    "name": "CCTV-15 (720p)",
-    "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "name": "CCTV-15 (1080p)",
+    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8",
     "logo": "https://i.imgur.com/CCV0eRG.png",
     "group": "Music",
     "source": "music"
@@ -15550,14 +15550,6 @@
     "logo": "https://i.imgur.com/hutdRfk.png",
     "group": "General;Lifestyle;Music;News",
     "source": "lifestyle"
-  },
-  "CeibaVisionCanal36.hn@SD": {
-    "id": "CeibaVisionCanal36.hn@SD",
-    "name": "Ceiba Vision Canal 36",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8",
-    "logo": "https://i.imgur.com/90h9abf.png",
-    "group": "General",
-    "source": "index"
   },
   "CekmekoyTV.tr@SD": {
     "id": "CekmekoyTV.tr@SD",
@@ -20671,14 +20663,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "Decades.us@SD": {
-    "id": "Decades.us@SD",
-    "name": "Decades",
-    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-decades/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Decades_Logo.svg/960px-Decades_Logo.svg.png",
-    "group": "Entertainment",
-    "source": "entertainment"
-  },
   "DecimaTV.cl@SD": {
     "id": "DecimaTV.cl@SD",
     "name": "D\u00e9cima TV (Ancud) (720p)",
@@ -22623,14 +22607,6 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
-  "DTV.hn@SD": {
-    "id": "DTV.hn@SD",
-    "name": "DTV",
-    "url": "https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8",
-    "logo": "https://i.imgur.com/UpsLEAV.png",
-    "group": "General",
-    "source": "index"
-  },
   "DTV.hu@SD": {
     "id": "DTV.hu@SD",
     "name": "DTV (720p) [Not 24/7]",
@@ -23695,14 +23671,6 @@
     "group": "News",
     "source": "news"
   },
-  "ElOussraTV.mr@SD": {
-    "id": "ElOussraTV.mr@SD",
-    "name": "El Oussra TV",
-    "url": "https://dvrfl06.bozztv.com/astv-elousra/index.m3u8",
-    "logo": "https://i.imgur.com/hpnL96b.png",
-    "group": "General",
-    "source": "index"
-  },
   "ElPitucoTV.do@HD": {
     "id": "ElPitucoTV.do@HD",
     "name": "El Pituco TV (720p)",
@@ -24543,14 +24511,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "Esaie45Tele.cg@SD": {
-    "id": "Esaie45Tele.cg@SD",
-    "name": "Esaie 45 Tele",
-    "url": "http://dvrfl05.bozztv.com/gin-esaie45/index.m3u8",
-    "logo": "https://i.imgur.com/nc9QBnD.png",
-    "group": "Religious",
-    "source": "religious"
-  },
   "EscambiaCountyTV.us@SD": {
     "id": "EscambiaCountyTV.us@SD",
     "name": "Escambia County TV ECTV (Escambia County FL) (720p)",
@@ -25108,14 +25068,6 @@
     "name": "Euronews French HD (720p) [Geo-Blocked]",
     "url": "https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8",
     "logo": "https://i.imgur.com/8t9mdg9.png",
-    "group": "News",
-    "source": "news"
-  },
-  "EuronewsGeorgia.ge@SD": {
-    "id": "EuronewsGeorgia.ge@SD",
-    "name": "Euronews Georgia",
-    "url": "http://dvrfl05.bozztv.com/gin-euronewsgeorgia/index.m3u8",
-    "logo": "https://i.imgur.com/VNJ4soR.png",
     "group": "News",
     "source": "news"
   },
@@ -25974,14 +25926,6 @@
     "logo": "https://i.ibb.co/fVGJyCC8/w512.png",
     "group": "Lifestyle",
     "source": "lifestyle"
-  },
-  "FassoTVKankan.gn@SD": {
-    "id": "FassoTVKankan.gn@SD",
-    "name": "Fasso TV Kankan",
-    "url": "https://dvrfl06.bozztv.com/astv-fassotv/index.m3u8",
-    "logo": "https://i.imgur.com/xrV3Qrr.png",
-    "group": "General",
-    "source": "index"
   },
   "FastMix576p": {
     "id": "FastMix576p",
@@ -28861,14 +28805,6 @@
     "url": "https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8",
     "logo": "",
     "group": "Undefined",
-    "source": "index"
-  },
-  "GoTV.hn@SD": {
-    "id": "GoTV.hn@SD",
-    "name": "Go TV",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-gotv/index.m3u8",
-    "logo": "https://i.imgur.com/qPugeWX.png",
-    "group": "General",
     "source": "index"
   },
   "GOTV.py@SD": {
@@ -36015,14 +35951,6 @@
     "group": "Kids",
     "source": "kids"
   },
-  "KartuliTV.ge@SD": {
-    "id": "KartuliTV.ge@SD",
-    "name": "Kartuli TV (480p)",
-    "url": "http://dvrfl05.bozztv.com/gin-qartulitv/index.m3u8",
-    "logo": "https://i.imgur.com/k6kCnBZ.jpeg",
-    "group": "Culture",
-    "source": "culture"
-  },
   "KashishNews.in@SD": {
     "id": "KashishNews.in@SD",
     "name": "Kashish News (720p)",
@@ -36052,14 +35980,6 @@
     "name": "Kaumudy TV (720p)",
     "url": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143259_ld_h15_aa.png?lock=720x540",
-    "group": "General",
-    "source": "index"
-  },
-  "KavkasiaTV.ge@SD": {
-    "id": "KavkasiaTV.ge@SD",
-    "name": "Kavkasia TV",
-    "url": "http://dvrfl05.bozztv.com/gin-kavkasia/index.m3u8",
-    "logo": "https://i.imgur.com/Z5b7w7K.png",
     "group": "General",
     "source": "index"
   },
@@ -41135,14 +41055,6 @@
     "group": "General",
     "source": "index"
   },
-  "MaraoTV.ge@SD": {
-    "id": "MaraoTV.ge@SD",
-    "name": "Marao TV",
-    "url": "http://dvrfl05.bozztv.com/gin-marao/index.m3u8",
-    "logo": "https://i.imgur.com/Nurmw1G.png",
-    "group": "Lifestyle",
-    "source": "lifestyle"
-  },
   "Maraya.sa@HD": {
     "id": "Maraya.sa@HD",
     "name": "Maraya (1080p)",
@@ -42662,14 +42574,6 @@
     "logo": "https://i.imgur.com/Gzq05v8.png",
     "group": "General",
     "source": "index"
-  },
-  "Metropole.ht@SD": {
-    "id": "Metropole.ht@SD",
-    "name": "Metropole",
-    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8",
-    "logo": "https://i.imgur.com/Ei1Su4V.png",
-    "group": "Music",
-    "source": "music"
   },
   "MetropoliMediosTV.ec@SD": {
     "id": "MetropoliMediosTV.ec@SD",
@@ -49783,14 +49687,6 @@
     "group": "Religious",
     "source": "religious"
   },
-  "OlanchitoTVCanal23.hn@SD": {
-    "id": "OlanchitoTVCanal23.hn@SD",
-    "name": "Olanchito TV Canal 23",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-otvcanal23/index.m3u8",
-    "logo": "https://i.imgur.com/v1o1oT5.png",
-    "group": "General",
-    "source": "index"
-  },
   "OlayTurkTV.tr@SD": {
     "id": "OlayTurkTV.tr@SD",
     "name": "Olay T\u00fcrk TV Kayseri (720p) [Geo-blocked]",
@@ -51269,14 +51165,6 @@
     "url": "https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8",
     "logo": "",
     "group": "Undefined",
-    "source": "index"
-  },
-  "ParadiseTV.gm@SD": {
-    "id": "ParadiseTV.gm@SD",
-    "name": "Paradise TV",
-    "url": "https://dvrfl06.bozztv.com/astv-ptvgambia/index.m3u8",
-    "logo": "https://i.imgur.com/0aT45vk.png",
-    "group": "General",
     "source": "index"
   },
   "ParadiseTV.it@SD": {
@@ -55839,14 +55727,6 @@
     "group": "General",
     "source": "index"
   },
-  "PosTV.ge@SD": {
-    "id": "PosTV.ge@SD",
-    "name": "Pos TV",
-    "url": "http://dvrfl05.bozztv.com/gin-postv/index.m3u8",
-    "logo": "https://i.imgur.com/UOiXFEW.png",
-    "group": "General",
-    "source": "index"
-  },
   "PositivTV.us@SD": {
     "id": "PositivTV.us@SD",
     "name": "Positiv TV (1080p)",
@@ -58230,14 +58110,6 @@
     "logo": "https://i.imgur.com/hy3BJxj.png",
     "group": "Religious",
     "source": "religious"
-  },
-  "RadioTeleSuperStar.ht@SD": {
-    "id": "RadioTeleSuperStar.ht@SD",
-    "name": "Radio Tele SuperStar",
-    "url": "https://dvrfl03.bozztv.com/hdirect/hdirect-telecaraibes/index.m3u8",
-    "logo": "https://i.imgur.com/GoaeyVV.png",
-    "group": "Entertainment",
-    "source": "entertainment"
   },
   "RadioTeleWisdom.us@SD": {
     "id": "RadioTeleWisdom.us@SD",
@@ -61791,22 +61663,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "RTD.dj@SD": {
-    "id": "RTD.dj@SD",
-    "name": "RTD",
-    "url": "https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8",
-    "logo": "https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110&height=110",
-    "group": "General",
-    "source": "index"
-  },
-  "RTD4.dj@SD": {
-    "id": "RTD4.dj@SD",
-    "name": "RTD 4",
-    "url": "http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8",
-    "logo": "https://i.imgur.com/CERPj3J.png",
-    "group": "General",
-    "source": "index"
-  },
   "RTG.mx@SD": {
     "id": "RTG.mx@SD",
     "name": "RTG (720p)",
@@ -62485,14 +62341,6 @@
     "url": "https://bozztv.com/rongo/rongo-RTV/index.m3u8",
     "logo": "https://i.imgur.com/yu8ugqt.png",
     "group": "General",
-    "source": "index"
-  },
-  "RTV.hn@SD": {
-    "id": "RTV.hn@SD",
-    "name": "RTV",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-rtvtv/index.m3u8",
-    "logo": "https://i.imgur.com/c8wAvxC.png",
-    "group": "Undefined",
     "source": "index"
   },
   "RTV.kr@SD": {
@@ -65407,14 +65255,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "SilkUniversal.ge@SD": {
-    "id": "SilkUniversal.ge@SD",
-    "name": "Silk Universal",
-    "url": "http://dvrfl05.bozztv.com/gin-silkuniversal/index.m3u8",
-    "logo": "https://i.imgur.com/z0XHsPE.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "SilkWay.kz@SD": {
     "id": "SilkWay.kz@SD",
     "name": "Silk Way",
@@ -66558,14 +66398,6 @@
     "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
     "group": "Movies",
     "source": "movies"
-  },
-  "SonySAB.in@HD": {
-    "id": "SonySAB.in@HD",
-    "name": "Sony SAB HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a04h",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",
-    "group": "Entertainment",
-    "source": "entertainment"
   },
   "SonySportsTen1.in@SD": {
     "id": "SonySportsTen1.in@SD",
@@ -71111,14 +70943,6 @@
     "group": "General",
     "source": "index"
   },
-  "Telecadena7y4.hn@SD": {
-    "id": "Telecadena7y4.hn@SD",
-    "name": "Telecadena 7 y 4",
-    "url": "https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8",
-    "logo": "https://i.imgur.com/PTN7fCa.png",
-    "group": "General",
-    "source": "index"
-  },
   "Telecafe.co@SD": {
     "id": "Telecafe.co@SD",
     "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Telecafe (1080p)",
@@ -71177,8 +71001,8 @@
   },
   "Teleceiba.hn@SD": {
     "id": "Teleceiba.hn@SD",
-    "name": "Teleceiba (1080p)",
-    "url": "https://dvrfl03.bozztv.com/hondu-teleceiba/index.m3u8",
+    "name": "Teleceiba (720p)",
+    "url": "https://teleceiba.com/stream/tlcb720.m3u8",
     "logo": "https://i.imgur.com/oPSfsvy.png",
     "group": "Undefined",
     "source": "index"
@@ -71934,14 +71758,6 @@
     "logo": "https://i.imgur.com/F7ZPcvb.png",
     "group": "Entertainment",
     "source": "entertainment"
-  },
-  "TeleProgreso.hn@SD": {
-    "id": "TeleProgreso.hn@SD",
-    "name": "TeleProgreso",
-    "url": "https://dvrfl03.bozztv.com/hondu-teleprogreso/index.m3u8",
-    "logo": "https://i.imgur.com/yBDI3AF.png",
-    "group": "Undefined",
-    "source": "index"
   },
   "Telequince.py@SD": {
     "id": "Telequince.py@SD",
@@ -76727,14 +76543,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "TV25.ge@SD": {
-    "id": "TV25.ge@SD",
-    "name": "TV 25",
-    "url": "http://dvrfl05.bozztv.com/gin-tv25/index.m3u8",
-    "logo": "https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9lNWU0YmY2OC1iNjgzLTQ1NWMtYTQzZi00YmZmYWFiYTcyYTguanBn.jpg",
-    "group": "General",
-    "source": "index"
-  },
   "TV38.tr@SD": {
     "id": "TV38.tr@SD",
     "name": "TV 38 (360p) [Not 24/7]",
@@ -78365,14 +78173,6 @@
     "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
     "logo": "https://i.imgur.com/o5y1ok6.png",
     "group": "Undefined",
-    "source": "index"
-  },
-  "TVPirveli.ge@SD": {
-    "id": "TVPirveli.ge@SD",
-    "name": "TV Pirveli",
-    "url": "http://dvrfl05.bozztv.com/gin-tvpirveli/index.m3u8",
-    "logo": "https://i.imgur.com/cGHsM1x.png",
-    "group": "General",
     "source": "index"
   },
   "TVPlata.do@SD": {
@@ -81471,14 +81271,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "UniversalSomaliTV.uk@SD": {
-    "id": "UniversalSomaliTV.uk@SD",
-    "name": "Universal Somali TV",
-    "url": "http://dvrfl05.bozztv.com/gin-universalsomali/index.m3u8",
-    "logo": "https://i.imgur.com/awa4oas.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "UniversalWesterns1080p": {
     "id": "UniversalWesterns1080p",
     "name": "Universal Westerns (1080p)",
@@ -83687,14 +83479,6 @@
     "group": "General",
     "source": "index"
   },
-  "WAGATV51.us@HD": {
-    "id": "WAGATV51.us@HD",
-    "name": "WAGA-DT1",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8",
-    "logo": "https://i.imgur.com/DcZoeGw.jpg",
-    "group": "News",
-    "source": "news"
-  },
   "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedWaiLana1080p": {
     "id": "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedWaiLana1080p",
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",Wai Lana (1080p)",
@@ -84775,14 +84559,6 @@
     "group": "General",
     "source": "index"
   },
-  "WHSGTV634.us@SD": {
-    "id": "WHSGTV634.us@SD",
-    "name": "WHSG-DT4",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Enlace_Televisi%C3%B3n_logo.svg/960px-Enlace_Televisi%C3%B3n_logo.svg.png",
-    "group": "Undefined",
-    "source": "index"
-  },
   "WickedTuna1080p": {
     "id": "WickedTuna1080p",
     "name": "Wicked Tuna (1080p)",
@@ -85167,30 +84943,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WKCF22.us@SD": {
-    "id": "WKCF22.us@SD",
-    "name": "WKCF-DT2",
-    "url": "https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "WKMGTV61.us@HD": {
-    "id": "WKMGTV61.us@HD",
-    "name": "WKMG-DT1",
-    "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "WKOH314.us@SD": {
-    "id": "WKOH314.us@SD",
-    "name": "WKOH-DT4",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
-    "group": "Undefined",
-    "source": "index"
-  },
   "WLMB.us@SD": {
     "id": "WLMB.us@SD",
     "name": "WLMB (1080p)",
@@ -85214,14 +84966,6 @@
     "logo": "https://i.imgur.com/Sr3EoK5.png",
     "group": "Undefined",
     "source": "index"
-  },
-  "WLVTTV691.us@HD": {
-    "id": "WLVTTV691.us@HD",
-    "name": "WLVT-DT1",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8",
-    "logo": "https://i.imgur.com/3FPFBjU.png",
-    "group": "Education",
-    "source": "education"
   },
   "WMBCTV631.us@HD": {
     "id": "WMBCTV631.us@HD",
@@ -85623,14 +85367,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "WTMOCD311.us@HD": {
-    "id": "WTMOCD311.us@HD",
-    "name": "WTMO-CD1",
-    "url": "https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Telemundo_31_(2019).svg/960px-Telemundo_31_(2019).svg.png",
-    "group": "News",
-    "source": "news"
-  },
   "WTNH81.us@HD": {
     "id": "WTNH81.us@HD",
     "name": "WTNH-DT1 (720p)",
@@ -85718,14 +85454,6 @@
     "logo": "https://i.imgur.com/sz55sBl.png",
     "group": "Movies",
     "source": "movies"
-  },
-  "WUPA691.us@HD": {
-    "id": "WUPA691.us@HD",
-    "name": "WUPA-DT1",
-    "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
-    "group": "Undefined",
-    "source": "index"
   },
   "WVCULP.us@SD": {
     "id": "WVCULP.us@SD",
