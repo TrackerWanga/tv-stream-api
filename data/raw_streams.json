@@ -7705,8 +7705,8 @@
   },
   "AXNAsia.sg@Indonesia": {
     "id": "AXNAsia.sg@Indonesia",
-    "name": "AXN Asia Indonesia (720p)",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd",
+    "name": "AXN Asia Indonesia (1080p)",
+    "url": "https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "group": "Movies;Series",
     "source": "movies"
@@ -23335,6 +23335,14 @@
     "group": "Education;Science",
     "source": "science"
   },
+  "EcosCanal57.do@HD": {
+    "id": "EcosCanal57.do@HD",
+    "name": "Ecos Canal 57 (1080p) [Not 24/7]",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+    "logo": "https://imgur.com/ccFwraQ.png",
+    "group": "General",
+    "source": "index"
+  },
   "EcotelTV.ec@SD": {
     "id": "EcotelTV.ec@SD",
     "name": "Ecotel TV (720p)",
@@ -23798,6 +23806,14 @@
     "logo": "https://i.imgur.com/kgkrD3V.png",
     "group": "General",
     "source": "index"
+  },
+  "ElHeddafTV.dz@SD": {
+    "id": "ElHeddafTV.dz@SD",
+    "name": "El-Heddaf TV (1080i)",
+    "url": "https://live.elheddaftv.com:8081/elheddaf/index.mpd",
+    "logo": "https://i.imgur.com/cDkIDIA.png",
+    "group": "Sports",
+    "source": "sports"
   },
   "ElRoiTV.gt@SD": {
     "id": "ElRoiTV.gt@SD",
@@ -29750,14 +29766,6 @@
     "logo": "https://i.imgur.com/jjuKnYs.png",
     "group": "General",
     "source": "index"
-  },
-  "GTV.ph@SD": {
-    "id": "GTV.ph@SD",
-    "name": "GTV (1080p)",
-    "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
-    "logo": "https://i.imgur.com/rWhamwh.png",
-    "group": "News",
-    "source": "news"
   },
   "GTV.si@SD": {
     "id": "GTV.si@SD",
@@ -42127,6 +42135,14 @@
     "group": "General",
     "source": "index"
   },
+  "MediBizTV.in@SD": {
+    "id": "MediBizTV.in@SD",
+    "name": "MediBizTV (720p)",
+    "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+    "logo": "",
+    "group": "Education;News;Science",
+    "source": "science"
+  },
   "MedicalDetectives720p": {
     "id": "MedicalDetectives720p",
     "name": "Medical Detectives (720p)",
@@ -43382,6 +43398,14 @@
     "logo": "https://i.imgur.com/nssm7QK.png",
     "group": "General",
     "source": "index"
+  },
+  "MNPlus.mn@SD": {
+    "id": "MNPlus.mn@SD",
+    "name": "like Gecko) Chrome/146.0.0.0 Safari/537.36\" group-title=\"Movies\",MN+",
+    "url": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
+    "logo": "https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg",
+    "group": "Movies",
+    "source": "movies"
   },
   "MnauTV.cz@SD": {
     "id": "MnauTV.cz@SD",
@@ -47831,9 +47855,9 @@
     "group": "Undefined",
     "source": "index"
   },
-  "NickOnline.br@HD": {
-    "id": "NickOnline.br@HD",
-    "name": "NickOnline (720p)",
+  "NickOnline.br@SD": {
+    "id": "NickOnline.br@SD",
+    "name": "NickOnline (576p)",
     "url": "https://x1co.com.br/hls/stream.m3u8",
     "logo": "https://x1co.com.br:8443/logo.png",
     "group": "Animation;Kids",
@@ -47846,14 +47870,6 @@
     "logo": "https://x1co.com.br/musiclogo.png",
     "group": "Music",
     "source": "music"
-  },
-  "NickOnline.br@SD": {
-    "id": "NickOnline.br@SD",
-    "name": "NickOnline SD (320p) [Not 24/7]",
-    "url": "https://sdnew.x1co.com.br/hls/stream.m3u8",
-    "logo": "https://x1co.com.br:8443/logo.png",
-    "group": "Animation;Kids",
-    "source": "animation"
   },
   "NickOnlineSpongebob.br@HD": {
     "id": "NickOnlineSpongebob.br@HD",
@@ -48662,6 +48678,14 @@
     "logo": "https://i.imgur.com/sF2g7KE.png",
     "group": "Music",
     "source": "music"
+  },
+  "NowMediaTelevision.us@HD": {
+    "id": "NowMediaTelevision.us@HD",
+    "name": "NowMedia Television (1080p)",
+    "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+    "logo": "https://i.imgur.com/8m8gy0n.png",
+    "group": "Lifestyle;News",
+    "source": "lifestyle"
   },
   "NPCRadioeTV.pt@SD": {
     "id": "NPCRadioeTV.pt@SD",
@@ -60899,6 +60923,14 @@
     "id": "RNN.do@SD",
     "name": "RNN (720p) [Not 24/7]",
     "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8",
+    "logo": "https://i.imgur.com/12Z9qPw.png",
+    "group": "News",
+    "source": "news"
+  },
+  "RNN.do@DOS": {
+    "id": "RNN.do@DOS",
+    "name": "RNN DOS (720p) [Not 24/7]",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
     "logo": "https://i.imgur.com/12Z9qPw.png",
     "group": "News",
     "source": "news"
