@@ -3865,8 +3865,8 @@
   },
   "AlQuranAlKareemTV.sa@SD": {
     "id": "AlQuranAlKareemTV.sa@SD",
-    "name": "Al Quran Al Kareem TV (720p)",
-    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "name": "Al Quran Al Kareem TV (1080p)",
+    "url": "https://aloula-redirect.vercel.app/7/playlist.m3u8",
     "logo": "https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png",
     "group": "Religious",
     "source": "religious"
@@ -7055,6 +7055,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "Atlas.us@SD": {
+    "id": "Atlas.us@SD",
+    "name": "Atlas (480p)",
+    "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
+    "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
+    "group": "Documentary",
+    "source": "documentary"
+  },
   "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedAtmadarshanTv720p": {
     "id": "likeGeckoChrome145000Safari53736Edg145000grouptitleUndefinedAtmadarshanTv720p",
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",Atmadarshan Tv (720p)",
@@ -9231,6 +9239,14 @@
     "group": "General",
     "source": "index"
   },
+  "BCNGospelTV.es@HD": {
+    "id": "BCNGospelTV.es@HD",
+    "name": "BCN Gospel TV HD (720p)",
+    "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
+    "group": "General",
+    "source": "index"
+  },
   "BCSStarCrossTV.ng@SD": {
     "id": "BCSStarCrossTV.ng@SD",
     "name": "BCS StarCross TV (576p)",
@@ -11218,7 +11234,7 @@
   "BratTV.us@SD": {
     "id": "BratTV.us@SD",
     "name": "Brat TV (1080p)",
-    "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8",
     "logo": "https://i.imgur.com/Kkcp9Bk.png",
     "group": "Kids",
     "source": "kids"
@@ -18970,7 +18986,7 @@
   "CricketGold.au@SD": {
     "id": "CricketGold.au@SD",
     "name": "Cricket Gold (1080p)",
-    "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
     "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
     "group": "Sports",
     "source": "sports"
@@ -22447,14 +22463,6 @@
     "group": "Music",
     "source": "music"
   },
-  "DreamTV.mn@SD": {
-    "id": "DreamTV.mn@SD",
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Dream TV (1080p)",
-    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
-    "logo": "https://i.imgur.com/YPbvzgV.png",
-    "group": "Entertainment",
-    "source": "entertainment"
-  },
   "DreamTV.ug@SD": {
     "id": "DreamTV.ug@SD",
     "name": "Dream TV (480p)",
@@ -22462,6 +22470,14 @@
     "logo": "https://i.imgur.com/XRUDhqQ.png",
     "group": "Religious",
     "source": "religious"
+  },
+  "DreamTV.mn@SD": {
+    "id": "DreamTV.mn@SD",
+    "name": "DreamTV (1080p)",
+    "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+    "logo": "https://i.imgur.com/YPbvzgV.png",
+    "group": "Entertainment",
+    "source": "entertainment"
   },
   "DreikoTV.pa@SD": {
     "id": "DreikoTV.pa@SD",
@@ -28943,6 +28959,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "GODTV.uk@SD": {
+    "id": "GODTV.uk@SD",
+    "name": "GOD TV (396p)",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "group": "Religious",
+    "source": "religious"
+  },
   "KPCBDT171.us@SD": {
     "id": "KPCBDT171.us@SD",
     "name": "God's Learning Channel (480p)",
@@ -31879,6 +31903,14 @@
     "group": "Legislative",
     "source": "index"
   },
+  "HTV2.vn@SD": {
+    "id": "HTV2.vn@SD",
+    "name": "HTV2",
+    "url": "http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8",
+    "logo": "",
+    "group": "Entertainment;General",
+    "source": "entertainment"
+  },
   "HTV2HoustonTelevision.us@SD": {
     "id": "HTV2HoustonTelevision.us@SD",
     "name": "HTV 2 Houston Television (720p)",
@@ -33049,8 +33081,8 @@
   },
   "IndiaToday.in@SD": {
     "id": "IndiaToday.in@SD",
-    "name": "India Today (720p) [Not 24/7]",
-    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "name": "India Today (720p)",
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png",
     "group": "News",
     "source": "news"
@@ -35250,7 +35282,7 @@
   "JustforLaughsGags.us@SD": {
     "id": "JustforLaughsGags.us@SD",
     "name": "Just for Laughs Gags (1080p)",
-    "url": "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8",
+    "url": "https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8",
     "logo": "https://i.imgur.com/HjVEVMJ.png",
     "group": "Comedy",
     "source": "comedy"
@@ -42139,7 +42171,7 @@
     "id": "MediBizTV.in@SD",
     "name": "MediBizTV (720p)",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
-    "logo": "",
+    "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
     "group": "Education;News;Science",
     "source": "science"
   },
@@ -46737,8 +46769,8 @@
   },
   "NDTV24x7.in@SD": {
     "id": "NDTV24x7.in@SD",
-    "name": "NDTV 24X7 (480p) [Not 24/7]",
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+    "name": "NDTV 24x7 (720p)",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
     "group": "News",
     "source": "news"
@@ -47030,6 +47062,14 @@
     "logo": "https://i.imgur.com/wKSZn6x.png",
     "group": "Legislative",
     "source": "index"
+  },
+  "News1India.in@SD": {
+    "id": "News1India.in@SD",
+    "name": "News 1 India (396p)",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png",
+    "group": "News",
+    "source": "news"
   },
   "News1st.in@SD": {
     "id": "News1st.in@SD",
@@ -60313,8 +60353,8 @@
   },
   "RepublicBharat.in@SD": {
     "id": "RepublicBharat.in@SD",
-    "name": "Republic Bharat (1080p) [Geo-blocked]",
-    "url": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
+    "name": "Republic Bharat (1080p)",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png?lock=720x540",
     "group": "News",
     "source": "news"
@@ -74041,8 +74081,8 @@
   },
   "TimesNowNavbharat.in@SD": {
     "id": "TimesNowNavbharat.in@SD",
-    "name": "Times Now Navbharat (1080p) [Geo-blocked]",
-    "url": "https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8",
+    "name": "Times Now Navbharat (1080p)",
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TimesNowNavbharat.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD/images/LOGO_HD/image.png",
     "group": "News",
     "source": "news"
