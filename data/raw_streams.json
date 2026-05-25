@@ -5955,7 +5955,7 @@
     "id": "AntenaSport.ro@SD",
     "name": "AntenaSport (1280p) [Not 24/7]",
     "url": "https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE",
-    "logo": "",
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
     "group": "Sports",
     "source": "sports"
   },
@@ -38247,6 +38247,14 @@
     "group": "Undefined",
     "source": "index"
   },
+  "LasVegasTonightwithDaleDavidson.us@HD": {
+    "id": "LasVegasTonightwithDaleDavidson.us@HD",
+    "name": "Las Vegas Tonight with Dale Davidson (1080p)",
+    "url": "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8",
+    "logo": "https://i.imgur.com/05Xdqa6.png",
+    "group": "General",
+    "source": "index"
+  },
   "Lassie1080p": {
     "id": "Lassie1080p",
     "name": "Lassie (1080p)",
@@ -42668,6 +42676,14 @@
     "name": "Mezzo (1080p) [Geo-Blocked]",
     "url": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
     "logo": "https://i.imgur.com/auNdGeW.png",
+    "group": "Music",
+    "source": "music"
+  },
+  "mfm.lb@HD": {
+    "id": "mfm.lb@HD",
+    "name": "mfm (1080p)",
+    "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
+    "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
     "group": "Music",
     "source": "music"
   },
