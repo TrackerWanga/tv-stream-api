@@ -5753,7 +5753,7 @@
   },
   "AnimexHIDIVE.us@SD": {
     "id": "AnimexHIDIVE.us@SD",
-    "name": "ANIME x HIDIVE (720p)",
+    "name": "ANIME x HIDIVE (720p) [Geo-blocked]",
     "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "logo": "https://i.imgur.com/v0BlxCa.png",
     "group": "Animation",
@@ -17986,7 +17986,7 @@
   "ColorsCineplex.in@HD": {
     "id": "ColorsCineplex.in@HD",
     "name": "Colors Cineplex HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a05j",
+    "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
     "group": "Movies",
     "source": "movies"
@@ -21580,14 +21580,6 @@
     "name": "Disney Channel (576p) [Geo-Blocked]",
     "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "group": "Kids",
-    "source": "kids"
-  },
-  "DisneyChannel.in@SD": {
-    "id": "DisneyChannel.in@SD",
-    "name": "Disney Channel (576p)",
-    "url": "http://103.122.249.134:8000/play/a05f",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
     "group": "Kids",
     "source": "kids"
   },
@@ -28879,14 +28871,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "GoalZone.sa@SD": {
-    "id": "GoalZone.sa@SD",
-    "name": "Goal Zone (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
-    "logo": "https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png",
-    "group": "Sports",
-    "source": "sports"
-  },
   "GodStandsTV.pk@Main": {
     "id": "GodStandsTV.pk@Main",
     "name": "God Stands TV",
@@ -35031,14 +35015,6 @@
     "group": "Sports",
     "source": "sports"
   },
-  "JordanSport2.jo@HD": {
-    "id": "JordanSport2.jo@HD",
-    "name": "Jordan Sport 2 (1080p) [Geo-blocked]",
-    "url": "https://jrtv-live.ercdn.net/learning2/learning2.m3u8",
-    "logo": "https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png",
-    "group": "Sports",
-    "source": "sports"
-  },
   "JordanTourism.jo@SD": {
     "id": "JordanTourism.jo@SD",
     "name": "Jordan Tourism (1080p)",
@@ -37079,11 +37055,11 @@
     "group": "Religious",
     "source": "religious"
   },
-  "KSCNTV631.us@HD": {
-    "id": "KSCNTV631.us@HD",
+  "KSCNTV221.us@HD": {
+    "id": "KSCNTV221.us@HD",
     "name": "KSCN-DT1",
     "url": "https://stream-losangeles.scientology.org/master.m3u8",
-    "logo": "https://i.imgur.com/HFmkjiR.png",
+    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -43815,6 +43791,22 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
+  "MonroeCommunityMediaEducationChannel.us@SD": {
+    "id": "MonroeCommunityMediaEducationChannel.us@SD",
+    "name": "Monroe Community Media Education Channel",
+    "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
+    "logo": "https://i.imgur.com/gS4x0uX.png",
+    "group": "Education",
+    "source": "education"
+  },
+  "MonroeCommunityMediaPublicAccessChannel.us@SD": {
+    "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
+    "name": "Monroe Community Media Public Access Channel",
+    "url": "https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8",
+    "logo": "https://i.imgur.com/gS4x0uX.png",
+    "group": "General",
+    "source": "index"
+  },
   "MonroeCountyTV.us@SD": {
     "id": "MonroeCountyTV.us@SD",
     "name": "Monroe County Television MCTV (Monroe County FL) (1080p)",
@@ -44266,7 +44258,7 @@
   "MoviesThriller.sa@SD": {
     "id": "MoviesThriller.sa@SD",
     "name": "Movies Thriller (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
     "logo": "https://i.imgur.com/JWihdcl.png",
     "group": "Movies",
     "source": "movies"
@@ -47708,14 +47700,6 @@
     "name": "Nick HD+ (1080p)",
     "url": "http://103.72.101.252:8080/live/1226.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-    "group": "Kids",
-    "source": "kids"
-  },
-  "NickJr.in@SD": {
-    "id": "NickJr.in@SD",
-    "name": "Nick Jr. (576p)",
-    "url": "http://103.122.249.134:8000/play/a04y",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
     "group": "Kids",
     "source": "kids"
   },
@@ -66287,14 +66271,6 @@
     "group": "Music",
     "source": "music"
   },
-  "Sonic.in@SD": {
-    "id": "Sonic.in@SD",
-    "name": "Sonic (576p)",
-    "url": "http://103.122.249.134:8000/play/a051",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-    "group": "Kids",
-    "source": "kids"
-  },
   "SonicTheHedgehog720p": {
     "id": "SonicTheHedgehog720p",
     "name": "Sonic The Hedgehog (720p)",
@@ -66380,14 +66356,6 @@
     "name": "Sony Max 2 (576p)",
     "url": "http://149.71.34.166:8000/play/a00z/index.m3u8",
     "logo": "https://i.imgur.com/gqUYk6C.png",
-    "group": "Movies",
-    "source": "movies"
-  },
-  "SonyMax.in@HD": {
-    "id": "SonyMax.in@HD",
-    "name": "Sony Max HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a05a",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
     "group": "Movies",
     "source": "movies"
   },
@@ -66548,14 +66516,6 @@
     "name": "Sony Sports Ten 4 Telugu (1080p)",
     "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540",
-    "group": "Sports",
-    "source": "sports"
-  },
-  "SonySportsTen5.in@HD": {
-    "id": "SonySportsTen5.in@HD",
-    "name": "Sony Sports Ten 5 HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a03d",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
     "group": "Sports",
     "source": "sports"
   },
@@ -66913,8 +66873,8 @@
   },
   "SpacetoonArabic.ae@SD": {
     "id": "SpacetoonArabic.ae@SD",
-    "name": "Spacetoon Arabic (1080p)",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+    "name": "Spacetoon Arabic (576p)",
+    "url": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
     "group": "Animation;Kids",
     "source": "animation"
@@ -67391,14 +67351,6 @@
     "group": "News",
     "source": "news"
   },
-  "StarBharat.in@HD": {
-    "id": "StarBharat.in@HD",
-    "name": "Star Bharat HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a054",
-    "logo": "https://i.imgur.com/Q8ajPij.png",
-    "group": "News",
-    "source": "news"
-  },
   "STARChannel.fi@SD": {
     "id": "STARChannel.fi@SD",
     "name": "STAR Channel (Finland) (720p)",
@@ -67551,51 +67503,11 @@
     "group": "Sports",
     "source": "sports"
   },
-  "StarSports1Hindi.in@HD": {
-    "id": "StarSports1Hindi.in@HD",
-    "name": "Star Sports 1 Hindi HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a059",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-    "group": "Sports",
-    "source": "sports"
-  },
-  "StarSports1Tamil.in@HD": {
-    "id": "StarSports1Tamil.in@HD",
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a04e",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-    "group": "Sports",
-    "source": "sports"
-  },
-  "StarSports2.in@HD": {
-    "id": "StarSports2.in@HD",
-    "name": "Star Sports 2 HD (1080p)",
-    "url": "http://103.122.249.134:8000/play/a055",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-    "group": "Sports",
-    "source": "sports"
-  },
   "StarSports2Hindi.in@HD": {
     "id": "StarSports2Hindi.in@HD",
     "name": "Star Sports 2 Hindi HD (1080p)",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "logo": "https://i.imgur.com/kHerF19.png",
-    "group": "Sports",
-    "source": "sports"
-  },
-  "StarSports2Tamil.in@SD": {
-    "id": "StarSports2Tamil.in@SD",
-    "name": "Star Sports 2 Tamil (576p)",
-    "url": "http://103.122.249.134:8000/play/a04i",
-    "logo": "https://i.imgur.com/eWPoUxB.png",
-    "group": "Sports",
-    "source": "sports"
-  },
-  "StarSports3.in@SD": {
-    "id": "StarSports3.in@SD",
-    "name": "Star Sports 3 (576p)",
-    "url": "http://103.122.249.134:8000/play/a04u",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
     "group": "Sports",
     "source": "sports"
   },
@@ -86597,14 +86509,6 @@
     "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
     "logo": "https://i.imgur.com/OLuCox7.png",
     "group": "Entertainment;Series",
-    "source": "entertainment"
-  },
-  "ZeeBanglaSonar.in@SD": {
-    "id": "ZeeBanglaSonar.in@SD",
-    "name": "Zee Bangla Sonar (576p)",
-    "url": "http://103.122.249.134:8000/play/a030",
-    "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
-    "group": "Entertainment",
     "source": "entertainment"
   },
   "ZeeBharat.in@SD": {
