@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T08:41:29.185863+00:00",
+  "updated": "2026-05-27T12:22:39.773756+00:00",
   "stats": {
     "total": 10,
     "live": 6,
@@ -7,13 +7,6 @@
     "dead": 2
   },
   "streams": {
-    "AlJazeera.qa": {
-      "name": "AlJazeera.qa",
-      "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-      "status": "error",
-      "http": 0,
-      "error": "HTTPSConnectionPool(host='live-hls-web-aje.getaj.n"
-    },
     "beINSportsXtra.fr": {
       "name": "beINSportsXtra.fr",
       "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8",
@@ -32,9 +25,22 @@
       "status": "geo_blocked",
       "http": 403
     },
-    "France24Spanish.fr": {
-      "name": "France24Spanish.fr",
-      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+    "BBCOne.uk": {
+      "name": "BBCOne.uk",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
+      "status": "geo_blocked",
+      "http": 403
+    },
+    "AlJazeera.qa": {
+      "name": "AlJazeera.qa",
+      "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "status": "error",
+      "http": 0,
+      "error": "HTTPSConnectionPool(host='live-hls-web-aje.getaj.n"
+    },
+    "France24English.fr": {
+      "name": "France24English.fr",
+      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     },
@@ -44,21 +50,15 @@
       "status": "live",
       "http": 200
     },
-    "BBCOne.uk": {
-      "name": "BBCOne.uk",
-      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd",
-      "status": "geo_blocked",
-      "http": 403
-    },
     "Bloomberg.us": {
       "name": "Bloomberg.us",
       "url": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
       "status": "live",
       "http": 200
     },
-    "France24English.fr": {
-      "name": "France24English.fr",
-      "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8",
+    "France24Spanish.fr": {
+      "name": "France24Spanish.fr",
+      "url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
       "status": "live",
       "http": 200
     },
