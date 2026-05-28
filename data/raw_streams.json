@@ -839,14 +839,6 @@
     "group": "News",
     "source": "news"
   },
-  "24HorasInternacional.es@SD": {
-    "id": "24HorasInternacional.es@SD",
-    "name": "24 Horas Internacional [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8",
-    "logo": "",
-    "group": "Undefined",
-    "source": "index"
-  },
   "24HourFreeMovies.us@SD": {
     "id": "24HourFreeMovies.us@SD",
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Movies\",24 Hour Free Movies (720p)",
@@ -4143,9 +4135,9 @@
     "group": "Undefined",
     "source": "index"
   },
-  "AlbKanaleMusicTV.al@SD": {
-    "id": "AlbKanaleMusicTV.al@SD",
-    "name": "AlbKanale Music TV (720p)",
+  "AlbKanaleMusicTV.al@HD": {
+    "id": "AlbKanaleMusicTV.al@HD",
+    "name": "AlbKanale Music TV (1080p)",
     "url": "https://albportal.net/albkanalemusic.m3u8",
     "logo": "https://i.imgur.com/JdKxscs.png",
     "group": "Music",
@@ -4587,7 +4579,7 @@
     "id": "AllTimeMovies.in@SD",
     "name": "All Time Movies (576p)",
     "url": "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8",
-    "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
     "group": "Movies",
     "source": "movies"
   },
@@ -5436,14 +5428,6 @@
     "name": "ANB News (720p)",
     "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png",
-    "group": "News",
-    "source": "news"
-  },
-  "ANC.ph@SD": {
-    "id": "ANC.ph@SD",
-    "name": "ANC (1080p)",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
-    "logo": "https://i.imgur.com/odwRbRk.png",
     "group": "News",
     "source": "news"
   },
@@ -6534,6 +6518,14 @@
     "logo": "https://i.imgur.com/pGByjbh.png",
     "group": "News",
     "source": "news"
+  },
+  "ArputharYesuTV.in@SD": {
+    "id": "ArputharYesuTV.in@SD",
+    "name": "Arputhar Yesu TV (720p)",
+    "url": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8",
+    "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+    "group": "Religious",
+    "source": "religious"
   },
   "ART.gr@SD": {
     "id": "ART.gr@SD",
@@ -11567,6 +11559,14 @@
     "group": "Education;Science",
     "source": "science"
   },
+  "BeijingSatelliteTV.cn@HD": {
+    "id": "BeijingSatelliteTV.cn@HD",
+    "name": "BRTV \u5317\u4eac\u536b\u89c6 (1080p)",
+    "url": "http://go.bkpcp.top/mg/bjws",
+    "logo": "https://i.imgur.com/vsktAez.png",
+    "group": "General",
+    "source": "index"
+  },
   "BrunoMasiTV.py@SD": {
     "id": "BrunoMasiTV.py@SD",
     "name": "Bruno Masi TV (720p)",
@@ -11655,19 +11655,19 @@
     "group": "Music",
     "source": "music"
   },
+  "BTB.pl@SD": {
+    "id": "BTB.pl@SD",
+    "name": "BTB (1080p)",
+    "url": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8",
+    "logo": "https://btb.j00r.us/images/logo_BTB.webp",
+    "group": "General",
+    "source": "index"
+  },
   "BTB3.pl@HD": {
     "id": "BTB3.pl@HD",
     "name": "BTB 3 (1080p)",
     "url": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8",
     "logo": "https://i.imgur.com/Z193940.png",
-    "group": "General",
-    "source": "index"
-  },
-  "BTB.pl@SD": {
-    "id": "BTB.pl@SD",
-    "name": "BTB HD (1080p)",
-    "url": "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
-    "logo": "https://btb.j00r.us/images/logo_BTB.webp",
     "group": "General",
     "source": "index"
   },
@@ -12661,14 +12661,6 @@
     "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
     "logo": "https://i.imgur.com/MsCnwRA.png",
     "group": "Undefined",
-    "source": "index"
-  },
-  "Canal5.mx@SD": {
-    "id": "Canal5.mx@SD",
-    "name": "Canal 5 (1080p)",
-    "url": "http://185.56.109.253/Canal5/playlist.m3u8",
-    "logo": "https://i.imgur.com/uZdVSoW.png",
-    "group": "General",
     "source": "index"
   },
   "Canal5DelPueblo.ar@SD": {
@@ -15335,6 +15327,14 @@
     "group": "News",
     "source": "news"
   },
+  "CCTV1.cn@HD": {
+    "id": "CCTV1.cn@HD",
+    "name": "CCTV-1 (1080p)",
+    "url": "http://69.30.245.50/live/cctv1.m3u8",
+    "logo": "https://i.imgur.com/TpA3cUl.png",
+    "group": "General",
+    "source": "index"
+  },
   "CCTV1.cn@SD": {
     "id": "CCTV1.cn@SD",
     "name": "CCTV-1 (720p)",
@@ -15359,19 +15359,19 @@
     "group": "Entertainment",
     "source": "entertainment"
   },
-  "CCTV4.cn@SD": {
-    "id": "CCTV4.cn@SD",
-    "name": "CCTV-4 (720p)",
-    "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
-    "logo": "",
-    "group": "Undefined",
-    "source": "index"
-  },
   "CCTV4America.cn@SD": {
     "id": "CCTV4America.cn@SD",
     "name": "CCTV-4 America (1080p)",
     "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
     "logo": "https://i.imgur.com/gBbLyqh.png",
+    "group": "General",
+    "source": "index"
+  },
+  "CCTV4Asia.cn@SD": {
+    "id": "CCTV4Asia.cn@SD",
+    "name": "CCTV-4 Asia (720p)",
+    "url": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "logo": "https://i.imgur.com/tWt4Wou.png",
     "group": "General",
     "source": "index"
   },
@@ -15406,6 +15406,14 @@
     "logo": "https://i.imgur.com/OK8mdJV.png",
     "group": "Sports",
     "source": "sports"
+  },
+  "CCTV6.cn@HD": {
+    "id": "CCTV6.cn@HD",
+    "name": "CCTV-6 (1080p)",
+    "url": "http://198.204.240.250:82/live/cctv6.m3u8",
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "group": "Movies",
+    "source": "movies"
   },
   "CCTV7.cn@SD": {
     "id": "CCTV7.cn@SD",
@@ -15463,6 +15471,14 @@
     "group": "Lifestyle",
     "source": "lifestyle"
   },
+  "CCTV13.cn@HD": {
+    "id": "CCTV13.cn@HD",
+    "name": "CCTV-13 (1080p)",
+    "url": "http://go.bkpcp.top/mg/cctv13",
+    "logo": "https://i.imgur.com/6MTar6J.png",
+    "group": "News",
+    "source": "news"
+  },
   "CCTV13.cn@SD": {
     "id": "CCTV13.cn@SD",
     "name": "CCTV-13 (1080p)",
@@ -15501,6 +15517,102 @@
     "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
     "logo": "https://i.imgur.com/jSQURxS.png",
     "group": "Education;Outdoor",
+    "source": "education"
+  },
+  "CCTVBilliards.cn@HD": {
+    "id": "CCTVBilliards.cn@HD",
+    "name": "CCTV-Billiards (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/WK3keM9.png",
+    "group": "Sports",
+    "source": "sports"
+  },
+  "CCTVCultureofQuality.cn@SD": {
+    "id": "CCTVCultureofQuality.cn@SD",
+    "name": "CCTV-Culture of Quality (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/Paig8gG.png",
+    "group": "Undefined",
+    "source": "index"
+  },
+  "CCTVGolfTennis.cn@HD": {
+    "id": "CCTVGolfTennis.cn@HD",
+    "name": "CCTV-Golf & Tennis (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/iqJJTmH.png",
+    "group": "Sports",
+    "source": "sports"
+  },
+  "CCTVHealth.cn@HD": {
+    "id": "CCTVHealth.cn@HD",
+    "name": "CCTV-Health (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/AzpRtCz.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
+  },
+  "CCTVNostalgiaTheater.cn@HD": {
+    "id": "CCTVNostalgiaTheater.cn@HD",
+    "name": "CCTV-Nostalgia Theater (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/TVs9PBc.png",
+    "group": "Classic",
+    "source": "index"
+  },
+  "CCTVStormFootball.cn@HD": {
+    "id": "CCTVStormFootball.cn@HD",
+    "name": "CCTV-Storm Football (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/Fy6HkX0.png",
+    "group": "Sports",
+    "source": "sports"
+  },
+  "CCTVStormMusic.cn@HD": {
+    "id": "CCTVStormMusic.cn@HD",
+    "name": "CCTV-Storm Music (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/IiiRmrf.png",
+    "group": "Music",
+    "source": "music"
+  },
+  "CCTVStormTheater.cn@HD": {
+    "id": "CCTVStormTheater.cn@HD",
+    "name": "CCTV-Storm Theater (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/rEttkKm.png",
+    "group": "Movies",
+    "source": "movies"
+  },
+  "CCTVTheFirstTheater.cn@HD": {
+    "id": "CCTVTheFirstTheater.cn@HD",
+    "name": "CCTV-The First Theater (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/eFxD3hq.png",
+    "group": "Movies",
+    "source": "movies"
+  },
+  "CCTVWeaponTechnology.cn@HD": {
+    "id": "CCTVWeaponTechnology.cn@HD",
+    "name": "CCTV-Weapon & Technology (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/QlF96eS.png",
+    "group": "Documentary",
+    "source": "documentary"
+  },
+  "CCTVWomensFashion.cn@SD": {
+    "id": "CCTVWomensFashion.cn@SD",
+    "name": "CCTV-Women's Fashion (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/FVbP0aP.png",
+    "group": "Lifestyle",
+    "source": "lifestyle"
+  },
+  "CCTVWorldGeography.cn@SD": {
+    "id": "CCTVWorldGeography.cn@SD",
+    "name": "CCTV-World Geography (1080p)",
+    "url": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
+    "logo": "https://i.imgur.com/V2ncOXi.png",
+    "group": "Education",
     "source": "education"
   },
   "CCV.in@SD": {
@@ -16999,14 +17111,6 @@
     "group": "Movies",
     "source": "movies"
   },
-  "CinemaOne.ph@SD": {
-    "id": "CinemaOne.ph@SD",
-    "name": "Cinema One (1080p)",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png",
-    "group": "Movies",
-    "source": "movies"
-  },
   "CinemaPoliziottesco": {
     "id": "CinemaPoliziottesco",
     "name": "Cinema Poliziottesco",
@@ -17028,14 +17132,6 @@
     "name": "CinemaWorld (720p)",
     "url": "http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8",
     "logo": "https://i.imgur.com/D2qNVZ7.png",
-    "group": "Movies",
-    "source": "movies"
-  },
-  "CineMo.ph@SD": {
-    "id": "CineMo.ph@SD",
-    "name": "CineMo (1080p)",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
-    "logo": "https://i.imgur.com/rGAOD3f.png",
     "group": "Movies",
     "source": "movies"
   },
@@ -25594,7 +25690,7 @@
   "Fairuz.sa@HD": {
     "id": "Fairuz.sa@HD",
     "name": "Fairuz (1080p)",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
     "logo": "https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png",
     "group": "Music",
     "source": "music"
@@ -27711,9 +27807,9 @@
     "group": "Lifestyle",
     "source": "lifestyle"
   },
-  "GeyeTV": {
-    "id": "GeyeTV",
-    "name": "G-eye TV",
+  "GeyeTV1080p": {
+    "id": "GeyeTV1080p",
+    "name": "G-eye TV (1080p)",
     "url": "https://online.geyetv.com/hls/stream.m3u8",
     "logo": "",
     "group": "Undefined",
@@ -29767,6 +29863,14 @@
     "group": "General",
     "source": "index"
   },
+  "GTV.gh@SD": {
+    "id": "GTV.gh@SD",
+    "name": "GTV (540p)",
+    "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
+    "logo": "https://i.imgur.com/5cFLWKO.png",
+    "group": "General",
+    "source": "index"
+  },
   "GTV.id@SD": {
     "id": "GTV.id@SD",
     "name": "GTV (720p)",
@@ -29774,6 +29878,14 @@
     "logo": "https://i.imgur.com/jjuKnYs.png",
     "group": "General",
     "source": "index"
+  },
+  "GTV.ph@SD": {
+    "id": "GTV.ph@SD",
+    "name": "GTV (576p)",
+    "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
+    "logo": "https://i.imgur.com/rWhamwh.png",
+    "group": "News",
+    "source": "news"
   },
   "GTV.si@SD": {
     "id": "GTV.si@SD",
@@ -30582,6 +30694,14 @@
     "logo": "https://i.imgur.com/pwnesmW.jpg",
     "group": "Religious",
     "source": "religious"
+  },
+  "HebeiTV.cn@SD": {
+    "id": "HebeiTV.cn@SD",
+    "name": "Hebei TV (2160p)",
+    "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+    "logo": "https://i.imgur.com/Z5Ppzbi.png",
+    "group": "General",
+    "source": "index"
   },
   "HebronTV.in@SD": {
     "id": "HebronTV.in@SD",
@@ -35118,6 +35238,14 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
     "group": "News",
     "source": "news"
+  },
+  "JoyTV.in@SD": {
+    "id": "JoyTV.in@SD",
+    "name": "Joy TV (1080p)",
+    "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
+    "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+    "group": "Religious",
+    "source": "religious"
   },
   "JPDTV.do@HD": {
     "id": "JPDTV.do@HD",
@@ -40754,7 +40882,7 @@
   "MajidAlMohandis.sa@SD": {
     "id": "MajidAlMohandis.sa@SD",
     "name": "Majid Al Mohandis (1080p)",
-    "url": "https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
     "logo": "https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg",
     "group": "Music",
     "source": "music"
@@ -48115,7 +48243,7 @@
     "id": "NKRTVKannada.in@SD",
     "name": "NKR TV Kannada (1080p)",
     "url": "https://stream.ottlive.co.in/nkrtv/index.m3u8",
-    "logo": "https://nkrtv.in/wp-content/uploads/2024/09/nkr-tv-logo-final-.webp",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png",
     "group": "General",
     "source": "index"
   },
@@ -50713,7 +50841,7 @@
   },
   "OTV.gh@SD": {
     "id": "OTV.gh@SD",
-    "name": "OTV",
+    "name": "OTV (720p)",
     "url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
     "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
     "group": "Entertainment",
@@ -62175,14 +62303,6 @@
     "group": "General",
     "source": "index"
   },
-  "RTPInternacional.pt@SD": {
-    "id": "RTPInternacional.pt@SD",
-    "name": "RTP Internacional (1080p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
-    "logo": "",
-    "group": "Undefined",
-    "source": "index"
-  },
   "RTPMadeira.pt@SD": {
     "id": "RTPMadeira.pt@SD",
     "name": "RTP Madeira (504p) [Not 24/7]",
@@ -62201,8 +62321,8 @@
   },
   "RTPMundo.pt@SD": {
     "id": "RTPMundo.pt@SD",
-    "name": "RTP Mundo (504p) [Not 24/7]",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "name": "RTP Mundo (1080p) [Geo-Blocked]",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png",
     "group": "General",
     "source": "index"
@@ -76097,8 +76217,8 @@
   },
   "TV3.gh@SD": {
     "id": "TV3.gh@SD",
-    "name": "TV3",
-    "url": "https://adesa.tv/live/tv3_AdesaAdb.m3u8",
+    "name": "TV3 (540p)",
+    "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8",
     "logo": "https://i.imgur.com/8t967Hq.png",
     "group": "Undefined",
     "source": "index"
@@ -79065,8 +79185,8 @@
   },
   "TVEInternacionalEurope.es@SD": {
     "id": "TVEInternacionalEurope.es@SD",
-    "name": "TVE Internacional Europe (576p) [Geo-blocked]",
-    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8",
+    "name": "TVE Internacional Europe (720p) [Geo-Blocked]",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
     "group": "Undefined",
     "source": "index"
@@ -79076,14 +79196,6 @@
     "name": "TVE Internacional Europe HD (1080p) [Geo-blocked]",
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
     "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
-    "group": "Undefined",
-    "source": "index"
-  },
-  "TVEInternacionalEuropeAsia.es@SD": {
-    "id": "TVEInternacionalEuropeAsia.es@SD",
-    "name": "TVE Internacional Europe-Asia (720p) [Geo-Blocked]",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8",
-    "logo": "",
     "group": "Undefined",
     "source": "index"
   },
@@ -80401,8 +80513,8 @@
   },
   "TVTZgorzelec.pl@SD": {
     "id": "TVTZgorzelec.pl@SD",
-    "name": "TVT Zgorzelec (576p) [Not 24/7]",
-    "url": "http://gargoyle.tomkow.pl/hls/tvt.m3u8",
+    "name": "TVT Zgorzelec (576p)",
+    "url": "https://lowa8026-cmyk.github.io/Poland/TVTZGORHD.m3u8",
     "logo": "https://i.imgur.com/zhzVpgf.jpg",
     "group": "Undefined",
     "source": "index"
@@ -81142,6 +81254,14 @@
     "logo": "https://i.imgur.com/N0TvAFz.png",
     "group": "Culture;Education",
     "source": "culture"
+  },
+  "UnitedTV.gh@SD": {
+    "id": "UnitedTV.gh@SD",
+    "name": "United TV (540p)",
+    "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/utvgha/ghanaweb.stream/playlist.m3u8",
+    "logo": "https://i.imgur.com/2isM8xd.png",
+    "group": "Undefined",
+    "source": "index"
   },
   "Unitel.pe@SD": {
     "id": "Unitel.pe@SD",
@@ -89823,14 +89943,6 @@
     "group": "Undefined",
     "source": "index"
   },
-  "CCTVWomensFashion.cn@SD": {
-    "id": "CCTVWomensFashion.cn@SD",
-    "name": "\u5973\u6027\u65f6\u5c1a (576p)",
-    "url": "http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8",
-    "logo": "https://i.imgur.com/FVbP0aP.png",
-    "group": "Lifestyle",
-    "source": "lifestyle"
-  },
   "NingxiaSatelliteChannel.cn@SD": {
     "id": "NingxiaSatelliteChannel.cn@SD",
     "name": "\u5b81\u590f\u536b\u89c6 (576p)",
@@ -90157,14 +90269,6 @@
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
     "logo": "https://i.imgur.com/RrLthH3.png",
     "group": "Undefined",
-    "source": "index"
-  },
-  "HebeiTV.cn@SD": {
-    "id": "HebeiTV.cn@SD",
-    "name": "\u6cb3\u5317\u536b\u89c6 (2160p)",
-    "url": "http://118.81.195.79:9003/hls/29/index.m3u8",
-    "logo": "https://i.imgur.com/Z5Ppzbi.png",
-    "group": "General",
     "source": "index"
   },
   "HenanTVSatellite.cn@SD": {
